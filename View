@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/FxTrB7d.png" ,* 𝙎𝙣𝙮𝙙𝙚𝙧 𝙂𝙤𝙣𝙯𝙖𝙡𝙚𝙨
-https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
+https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/HlrzfYn.png" ,* 𝘿𝙤𝙣𝙖𝙘𝙞𝙤𝙣𝙚𝙨
-https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
+https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/ra1dvnL.png" ,* 𝘼𝙗𝙧𝙞𝙡
-https://raw.githubusercontent.com/NyderGX/X/Blur/_yapehd1.mp4
+https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/I0USigK.png" ,*America TV
 http://191.97.49.192:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/I0USigK.png" ,*America TV
@@ -271,6 +271,24 @@ http://191.97.49.198:8000/play/a00e/index.m3u8
 http://191.97.49.199:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network
 http://191.97.49.202:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
+http://45.5.118.154:16000/play/a0lq/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
+http://45.5.117.3:4000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
+http://190.95.220.212:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
+http://161.132.194.88:6178/play/a0w3/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
+http://161.132.108.74:50001/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
+http://148.102.58.76:4000/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
+http://143.208.57.54:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
+http://138.59.177.34:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
+http://131.161.53.2:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="PlutoTV" tvg-id="6109a9f5531b840007a4a187" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" ,Cazador de Homicidas
 https://r.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
 #EXTINF:-1 group-title="PlutoTV" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" ,CBS News
