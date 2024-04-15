@@ -143,320 +143,6 @@ http://191.97.49.198:8000/play/a01n/index.m3u8
 http://191.97.49.199:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/u0pW4aU.png" ,*Willax
 http://191.97.49.202:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,001 - Willax HD
-http://161.132.108.74:50001/play/a028/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,002 - Latina HD
-http://161.132.108.74:50001/play/a029/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,004 - America TV HD
-http://161.132.108.74:50001/play/a02a/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,005 - Panamericana HD
-http://161.132.108.74:50001/play/a02b/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,005.1 - Top Latino HD
-http://161.132.108.74:50001/play/a042/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,006 - Exitosa HD
-http://161.132.108.74:50001/play/a02d/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,006.1 - IPE HD
-http://161.132.108.74:50001/play/a02f/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,007 - TV Peru HD
-http://161.132.108.74:50001/play/a02e/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,008 - Karibena HD
-http://161.132.108.74:50001/play/a00j/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,009 - ATV HD
-http://161.132.108.74:50001/play/a02h/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,010 - ATV+ Noticias HD
-http://161.132.108.74:50001/play/a02i/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,011 - ATV Sur HD
-http://161.132.108.74:50001/play/a02j/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,012 - La Tele HD
-http://161.132.108.74:50001/play/a043/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,013 - Global HD
-http://161.132.108.74:50001/play/a02k/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,014 - USMP HD
-http://161.132.108.74:50001/play/a02l/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,015 - Viva TV HD
-http://161.132.108.74:50001/play/a044/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,016 - JN19TV HD
-http://161.132.108.74:50001/play/a04f/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,017 - Bethel HD
-http://161.132.108.74:50001/play/a02m/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,018 - Nuevo Tiempo HD
-http://161.132.108.74:50001/play/a046/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,021 - RPP HD
-http://161.132.108.74:50001/play/a02n/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,022 - Canal N HD
-http://161.132.108.74:50001/play/a02o/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,023 - France 24 HD
-http://161.132.108.74:50001/play/a01q/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,023.1 - Canal 24 Horas HD
-http://161.132.108.74:50001/play/a02q/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,024 - CNN Español HD
-http://161.132.108.74:50001/play/a02r/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,024.1 - DW En Español HD
-http://161.132.108.74:50001/play/a02s/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,025 - Caracol News HD
-http://161.132.108.74:50001/play/a02t/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,025.1 - RT En Español HD
-http://161.132.108.74:50001/play/a02u/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,025.2 - Euronews HD
-http://161.132.108.74:50001/play/a02v/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,026 - Las Estrellas HD
-http://161.132.108.74:50001/play/a01t/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,027 - TLNovelas HD
-http://161.132.108.74:50001/play/a03u/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,027.1 - Corazon HD
-http://161.132.108.74:50001/play/a04e/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,028 - Telemundo HD
-http://161.132.108.74:50001/play/a02x/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,029 - Pasiones HD
-http://161.132.108.74:50001/play/a00c/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,030 - Univision HD
-http://161.132.108.74:50001/play/a02y/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,030.1 - RCN HD
-http://161.132.108.74:50001/play/a02z/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,031 - Kanal D Drama HD
-http://161.132.108.74:50001/play/a016/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,031.6 - Caracol HD
-http://161.132.108.74:50001/play/a030/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,031.8 - TV+ HD
-http://161.132.108.74:50001/play/a04o/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,031.9 - Canal Claro HD
-http://161.132.108.74:50001/play/a031/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,032 - E! Entertainment HD
-http://161.132.108.74:50001/play/a01h/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,034 - TLC HD
-http://161.132.108.74:50001/play/a033/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,035 - Mas Chic HD
-http://161.132.108.74:50001/play/a034/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,036 - Lifetime HD
-http://161.132.108.74:50001/play/a035/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,037 - Discovery Home & Health
-http://161.132.108.74:50001/play/a00r/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,038 - HGTV HD
-http://161.132.108.74:50001/play/a036/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,040 - Food Network HD
-http://161.132.108.74:50001/play/a01k/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,041 - El Gourmet HD
-http://161.132.108.74:50001/play/a00o/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,042 - Sun Channel HD
-http://161.132.108.74:50001/play/a00p/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,045 - Love Nature HD
-http://161.132.108.74:50001/play/a01p/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,046 - Nat Geo HD
-http://161.132.108.74:50001/play/a010/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,047 - History HD
-http://161.132.108.74:50001/play/a003/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,048 - History 2 HD
-http://161.132.108.74:50001/play/a01w/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,049 - Animal Planet HD
-http://161.132.108.74:50001/play/a01e/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,050 - Discovery Channel HD
-http://161.132.108.74:50001/play/a01v/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,051 - Discovery World HD
-http://161.132.108.74:50001/play/a011/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,052 - Discovery Theater HD
-http://161.132.108.74:50001/play/a00s/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,053 - Discovery ID HD
-http://161.132.108.74:50001/play/a00n/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,054 - Discovery Turbo HD
-http://161.132.108.74:50001/play/a038/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,055 - Discovery Science HD
-http://161.132.108.74:50001/play/a039/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,056 - Teennick HD
-http://161.132.108.74:50001/play/a047/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,057 - Discovery Kids HD
-http://161.132.108.74:50001/play/a00q/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,058 - Cartoonito HD
-http://161.132.108.74:50001/play/a03a/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,059 - Disney Channel HD
-http://161.132.108.74:50001/play/a00e/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,060 - Disney Junior HD
-http://161.132.108.74:50001/play/a00i/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,060.1 - Nick Junior HD
-http://161.132.108.74:50001/play/a048/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,061 - Lolly Kids HD
-http://161.132.108.74:50001/play/a01o/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,062 - Nickelodeon HD
-http://161.132.108.74:50001/play/a00a/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,063 - Cartoon Network HD
-http://161.132.108.74:50001/play/a017/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,064 - DreamWorks HD
-http://161.132.108.74:50001/play/a03x/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,064.1 - betME HD
-http://161.132.108.74:50001/play/a04i/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,064.1 - Nick Jr HD
-http://161.132.108.74:50001/play/a04j/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,066 - Universal Channel HD
-http://161.132.108.74:50001/play/a00t/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,067 - Universal Cinema HD
-http://161.132.108.74:50001/play/a03c/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,068 - Universal Premier HD
-http://161.132.108.74:50001/play/a03d/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,070 - Universal Reality HD
-http://161.132.108.74:50001/play/a03f/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,071 - Universal Crime HD
-http://161.132.108.74:50001/play/a03b/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,072 - Universal Comedy HD
-http://161.132.108.74:50001/play/a03g/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,073 - HBO HD
-http://161.132.108.74:50001/play/a015/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,074 - HBO 2 HD
-http://161.132.108.74:50001/play/a01c/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,075 - HBO Plus HD
-http://161.132.108.74:50001/play/a03h/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,076 - HBO Family HD
-http://161.132.108.74:50001/play/a01x/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,077 - HBO Xtreme HD
-http://161.132.108.74:50001/play/a01y/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,078 - HBO Pop HD
-http://161.132.108.74:50001/play/a007/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,078.1 - HBO Signature HD
-http://161.132.108.74:50001/play/a03i/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,079 - Sony Movies HD
-http://161.132.108.74:50001/play/a03j/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,080 - Sony Channel HD
-http://161.132.108.74:50001/play/a002/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,081 - Cinemax HD
-http://161.132.108.74:50001/play/a00l/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,081.5 - Golden HD
-http://161.132.108.74:50001/play/a03m/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,081.6 - Golden Edge HD
-http://161.132.108.74:50001/play/a04a/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,082 - Golden Plus HD
-http://161.132.108.74:50001/play/a01f/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,082.1 - Golden Premiere HD
-http://161.132.108.74:50001/play/a03k/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,082.2 - Golden Premiere 2 HD
-http://161.132.108.74:50001/play/a03l/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,083 - Clover Channel HD
-http://161.132.108.74:50001/play/a009/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,084 - AXN HD
-http://161.132.108.74:50001/play/a005/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,085 - A&E HD
-http://161.132.108.74:50001/play/a001/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,086 - Film & Arth HD
-http://161.132.108.74:50001/play/a03z/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,088 - Comedy Central HD
-http://161.132.108.74:50001/play/a00m/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,088.1 - Distrito Comedia HD
-http://161.132.108.74:50001/play/a04h/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,089 - AMC HD
-http://161.132.108.74:50001/play/a013/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,091 - DHE HD
-http://161.132.108.74:50001/play/a01u/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,092 - FX HD
-http://161.132.108.74:50001/play/a00z/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,093 - Paramount HD
-http://161.132.108.74:50001/play/a018/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,094 - TNT HD
-http://161.132.108.74:50001/play/a00f/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,095 - TNT Series HD
-http://161.132.108.74:50001/play/a00y/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,097 - Space HD
-http://161.132.108.74:50001/play/a006/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,098 - Studio Universal HD
-http://161.132.108.74:50001/play/a019/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,099 - Star Channel HD
-http://161.132.108.74:50001/play/a01r/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,100 - Warner Channel HD
-http://161.132.108.74:50001/play/a004/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,101 - Cinecanal HD
-http://161.132.108.74:50001/play/a012/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,102.3 - De Pelicula HD
-http://161.132.108.74:50001/play/a04g/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1025 MULTIPREMIER
-http://160.20.165.245:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1025 MULTIPREMIER
-http://160.20.165.246:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1026 MULTICINEMA
-http://160.20.165.245:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1026 MULTICINEMA
-http://160.20.165.246:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1027 CARACOL
-http://160.20.165.245:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1027 CARACOL
-http://160.20.165.246:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1029 ANTENA 3
-http://160.20.165.245:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1029 ANTENA 3
-http://160.20.165.246:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,103 - GolTV HD
-http://161.132.108.74:50001/play/a01i/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,104 - Gol Peru HD
-http://161.132.108.74:50001/play/a01n/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,104.5 - LIGA 1 MAX HD
-http://161.132.108.74:50001/play/a03y/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,105 - Movistar Deportes HD
-http://161.132.108.74:50001/play/a01d/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,106 - ESPN HD
-http://161.132.108.74:50001/play/a00b/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1060 PASIONES
-http://160.20.165.245:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,1060 PASIONES
-http://160.20.165.246:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,107 - ESPN 2 HD
-http://161.132.108.74:50001/play/a008/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,108 - ESPN 3 HD
-http://161.132.108.74:50001/play/a00g/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,109 - ESPN 4 HD
-http://161.132.108.74:50001/play/a00v/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,110 - ESPN EXTRA HD
-http://161.132.108.74:50001/play/a014/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,111 - Fox Sports HD
-http://161.132.108.74:50001/play/a02p/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,112 - Fox Sports 2 HD
-http://161.132.108.74:50001/play/a00w/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,113 - Fox Sports 3 HD
-http://161.132.108.74:50001/play/a00h/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,114 - DSports HD
-http://161.132.108.74:50001/play/a03o/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,115 - DSports 2 HD
-http://161.132.108.74:50001/play/a03p/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,116 - DSports + HD
-http://161.132.108.74:50001/play/a03q/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,117 - TNT Sports HD
-http://161.132.108.74:50001/play/a03r/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,117.4 - Tigo Sports HD
-http://161.132.108.74:50001/play/a041/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,117.5 - Claro Sports 1 HD
-http://161.132.108.74:50001/play/a02w/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,117.6 - Claro Sports 2 HD
-http://161.132.108.74:50001/play/a03v/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,117.7 - Golf Channel HD
-http://161.132.108.74:50001/play/a03w/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,118 - MTV HD
-http://161.132.108.74:50001/play/a01s/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,119 - MTV Live HD
-http://161.132.108.74:50001/play/a00u/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,121 - Telehit HD
-http://161.132.108.74:50001/play/a01g/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,123 - Stingray Concerts HD
-http://161.132.108.74:50001/play/a01j/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12345 Pasajetv
-http://160.20.165.245:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12345 Pasajetv
-http://160.20.165.246:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12346 Telemundo
-http://160.20.165.245:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12346 Telemundo
-http://160.20.165.246:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12347 VITO TV
-http://160.20.165.245:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12347 VITO TV
-http://160.20.165.246:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12349 CLOVER
-http://160.20.165.245:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12349 CLOVER
-http://160.20.165.246:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12355 LOVE NATURE
-http://160.20.165.245:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,12355 LOVE NATURE
-http://160.20.165.246:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,124 - Bandamax HD
-http://161.132.108.74:50001/play/a04b/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,125 - Telehit Latino HD
-http://161.132.108.74:50001/play/a04c/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,127 - Telehit Musica HD
-http://161.132.108.74:50001/play/a04d/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,13-Sinart
 http://168.194.171.237:8000/play/a06z/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,13-Sinart
@@ -486,6 +172,8 @@ http://160.20.165.246:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,A&E
 http://168.194.171.237:8000/play/a0ak/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,A&E HD
+http://161.132.108.74:50001/play/a001/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,A&E HD
 http://138.121.15.228:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,A&E HD
 http://152.200.187.238:1010/play/a052/index.m3u8
@@ -512,6 +200,8 @@ http://161.132.194.88:6178/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,AMC
 http://168.194.171.237:8000/play/a087/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,AMC HD
+http://161.132.108.74:50001/play/a013/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,AMC HD
 http://138.121.15.228:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,AMC HD
 http://152.200.187.238:1010/play/a03k/index.m3u8
@@ -525,6 +215,8 @@ http://168.194.171.237:8000/play/a08n/index.m3u8
 http://168.232.168.242:4000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,AMERICA TV
 http://168.232.168.242:4000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,America TV HD
+http://161.132.108.74:50001/play/a02a/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,America TV HD
 http://138.121.15.228:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,America TV HD
@@ -556,6 +248,8 @@ http://160.20.165.246:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Animal Planet
 http://168.194.171.237:8000/play/a0an/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Animal Planet HD
+http://161.132.108.74:50001/play/a01e/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Animal Planet HD
 http://138.121.15.228:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Animal Planet HD
 http://152.200.187.238:1010/play/a03p/index.m3u8
@@ -571,6 +265,10 @@ http://168.194.171.237:8000/play/a08j/index.m3u8
 http://168.232.168.242:4000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ANIXE+
 http://154.58.202.194:8000/play/a0m0/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ANTENA 3
+http://160.20.165.245:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ANTENA 3
+http://160.20.165.246:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Antena 3
 http://168.232.168.242:4000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Antena 7- RD
@@ -602,7 +300,13 @@ http://161.132.194.88:6178/play/a0qh/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ATRES SERIES HD
 http://167.250.135.246:81/play/a060/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ATV HD
+http://161.132.108.74:50001/play/a02h/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ATV HD
 http://154.58.202.194:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ATV Sur HD
+http://161.132.108.74:50001/play/a02j/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ATV+ Noticias HD
+http://161.132.108.74:50001/play/a02i/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ATV2 HD
 http://154.58.202.194:8000/play/a0ai/index.m3u8
 #EXTINF:-1 group-title="Intl" ,AXN
@@ -635,6 +339,8 @@ http://161.132.194.88:6178/play/a0w0/index.m3u8
 http://168.194.171.237:8000/play/a085/index.m3u8
 #EXTINF:2 group-title="NEWVK" ,AXN BLACK
 http://146.0.32.87:3232/stream/axnblack/master.m3u8
+#EXTINF:-1 group-title="NEWVK" ,AXN HD
+http://161.132.108.74:50001/play/a005/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,AXN HD
 http://138.121.15.228:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,AXN HD
@@ -695,6 +401,8 @@ http://191.97.49.202:8000/play/a00j/index.m3u8
 http://161.132.194.88:6178/play/a0wj/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Baden TV
 http://154.58.202.194:8000/play/a0ln/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Bandamax HD
+http://161.132.108.74:50001/play/a04b/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,BANDAMAX HD
 http://168.232.168.242:4000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,BBC Lifestyle HD
@@ -713,6 +421,10 @@ http://154.197.91.169:7003/play/a0et/index.m3u8
 http://154.197.91.169:7003/play/a0ey/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,beIN SPORTS NEWS
 http://154.197.91.169:7003/play/a0en/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Bethel HD
+http://161.132.108.74:50001/play/a02m/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,betME HD
+http://161.132.108.74:50001/play/a04i/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Bibel TV
 http://154.58.202.194:8000/play/a0kx/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Bibel TV HD
@@ -780,6 +492,8 @@ http://168.194.171.237:8000/play/a07m/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Canal 21 - ESA
 http://168.194.171.237:8000/play/a0bk/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Canal 24 Horas HD
+http://161.132.108.74:50001/play/a02q/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Canal 24 Horas HD
 http://138.121.15.228:8000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Canal 24 Horas HD
 http://167.250.135.246:81/play/a0b6/index.m3u8
@@ -838,6 +552,8 @@ http://191.97.49.202:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Canal Claro
 http://168.194.171.237:8000/play/a07e/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Canal Claro HD
+http://161.132.108.74:50001/play/a031/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Canal Claro HD
 http://168.194.171.237:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CANAL COCINA
 http://154.58.202.35:8002/play/a0b0/index.m3u8
@@ -865,6 +581,8 @@ http://191.97.49.202:8000/play/a01e/index.m3u8
 http://138.121.15.228:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Canal N
 http://161.132.194.88:6178/play/a0qn/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Canal N HD
+http://161.132.108.74:50001/play/a02o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CANAL SUR A.
 http://154.58.202.35:8002/play/a0br/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Canal VTV HND
@@ -872,15 +590,23 @@ http://168.194.171.237:8000/play/a0bn/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Canal VTV HND
 http://168.232.168.242:4000/play/a046/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CARACOL
+http://160.20.165.245:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,CARACOL
+http://160.20.165.246:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,CARACOL
 http://160.20.165.245:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CARACOL
 http://160.20.165.246:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Caracol HD
+http://161.132.108.74:50001/play/a030/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Caracol HD
 http://138.121.15.228:8000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Caracol HD
 http://152.200.187.238:1010/play/a04v/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Caracol HD
 http://161.132.194.88:6178/play/a0tg/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Caracol News HD
+http://161.132.108.74:50001/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network
 http://191.97.49.192:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network
@@ -902,6 +628,8 @@ http://191.97.49.202:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Cartoon Network
 http://168.194.171.237:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Cartoon Network HD
+http://161.132.108.74:50001/play/a017/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Cartoon Network HD
 http://138.121.15.228:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Cartoon Network HD
 http://152.200.187.238:1010/play/a03l/index.m3u8
@@ -917,6 +645,8 @@ http://168.194.171.237:8000/play/a077/index.m3u8
 http://168.232.168.242:4000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Cartoonito
 http://168.194.171.237:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Cartoonito HD
+http://161.132.108.74:50001/play/a03a/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CAZA Y PESCA
 http://154.58.202.35:8002/play/a0bt/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CCN
@@ -980,6 +710,8 @@ http://191.97.49.199:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/PGZL2x6.png" ,Cinecanal HD
 http://191.97.49.202:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Cinecanal HD
+http://161.132.108.74:50001/play/a012/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Cinecanal HD
 http://138.121.15.228:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Cinecanal HD
 http://152.200.187.238:1010/play/a03j/index.m3u8
@@ -1017,6 +749,8 @@ http://168.181.122.234:8000/play/a00u/index.m3u8
 http://168.194.171.237:8000/play/a0c4/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CineMax
 http://168.232.168.242:4000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Cinemax HD
+http://161.132.108.74:50001/play/a00l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Cinemax HD
 http://138.121.15.228:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Cinemax HD
@@ -1062,9 +796,13 @@ http://191.97.49.199:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Claro Sports
 http://191.97.49.202:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Claro Sports 1 HD
+http://161.132.108.74:50001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Claro Sports 1 HD
 http://168.194.171.237:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Claro Sports 1 SD
 http://168.194.171.237:8000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Claro Sports 2 HD
+http://161.132.108.74:50001/play/a03v/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Claro Sports 2 HD
 http://168.194.171.237:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Claro Sports 2 HD
@@ -1075,6 +813,12 @@ http://168.194.171.237:8000/play/a09o/index.m3u8
 http://154.58.202.35:8002/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ClipMyHorse.TV
 http://154.58.202.194:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,CLOVER
+http://160.20.165.245:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,CLOVER
+http://160.20.165.246:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Clover Channel HD
+http://161.132.108.74:50001/play/a009/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Clover HD
 http://161.132.194.88:6178/play/a0w7/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Clover HD
@@ -1109,6 +853,8 @@ http://138.121.15.228:8000/play/a001/index.m3u8
 http://167.250.135.246:81/play/a052/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CNN Espanol
 http://161.132.194.88:6178/play/a0gu/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,CNN Español HD
+http://161.132.108.74:50001/play/a02r/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CNN Internacional
 http://168.232.168.242:4000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,CNNE
@@ -1119,6 +865,8 @@ http://168.194.171.237:8000/play/a088/index.m3u8
 http://168.232.168.242:4000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Color Vision 9 - RD
 http://168.194.171.237:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Comedy Central HD
+http://161.132.108.74:50001/play/a00m/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Comedy Central HD
 http://138.121.15.228:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Comedy Central HD
@@ -1135,6 +883,8 @@ http://168.232.168.242:4000/play/a00x/index.m3u8
 http://168.194.171.237:8000/play/a0bz/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Concert Channel
 http://168.232.168.242:4000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Corazon HD
+http://161.132.108.74:50001/play/a04e/index.m3u8
 #EXTINF:7 group-title="NEWVK" ,DAS ERSTE
 http://146.0.32.87:3232/stream/daserste/master.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Das Erste HD
@@ -1151,6 +901,8 @@ http://154.58.202.35:8002/play/a08f/index.m3u8
 http://154.58.202.35:8002/play/a0aw/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DAZN LALIGA HD
 http://154.58.202.35:8002/play/a08i/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,De Pelicula HD
+http://161.132.108.74:50001/play/a04g/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DELUXE MUSIC
 http://154.58.202.194:8000/play/a0n3/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Deluxe Music HD
@@ -1167,6 +919,8 @@ http://168.181.122.234:8000/play/a03s/index.m3u8
 http://168.194.171.237:8000/play/a072/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DHE
 http://168.232.168.242:4000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,DHE HD
+http://161.132.108.74:50001/play/a01u/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DHE HD
 http://138.121.15.228:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DHE HD
@@ -1220,6 +974,8 @@ http://168.181.122.234:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Channel
 http://168.194.171.237:8000/play/a0am/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Channel HD
+http://161.132.108.74:50001/play/a01v/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Discovery Channel HD
 http://168.181.122.234:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Channel HD
 http://168.194.171.237:8000/play/a0cl/index.m3u8
@@ -1245,6 +1001,8 @@ http://161.132.194.88:6178/play/a0ti/index.m3u8
 http://167.250.135.246:81/play/a0bb/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery HD - D2H
 http://103.31.103.218:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Discovery Home & Health
+http://161.132.108.74:50001/play/a00r/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Home & Health
 http://168.181.122.234:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Home & Health
@@ -1314,6 +1072,8 @@ http://161.132.194.88:6178/play/a01w/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery ID
 http://168.181.122.234:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery ID HD
+http://161.132.108.74:50001/play/a00n/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Discovery ID HD
 http://168.181.122.234:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery ID HD
 http://168.194.171.237:8000/play/a0cp/index.m3u8
@@ -1344,6 +1104,8 @@ http://191.97.49.199:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/sPE9r9k.png" ,Discovery Kids HD
 http://191.97.49.202:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Kids HD
+http://161.132.108.74:50001/play/a00q/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Discovery Kids HD
 http://138.121.15.228:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Kids HD
 http://152.200.187.238:1010/play/a035/index.m3u8
@@ -1359,6 +1121,10 @@ http://168.232.168.242:4000/play/a03m/index.m3u8
 http://161.132.194.88:6178/play/a0p7/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Science
 http://168.232.168.242:4000/play/a014/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Discovery Science HD
+http://161.132.108.74:50001/play/a039/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Discovery Theater HD
+http://161.132.108.74:50001/play/a00s/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Theater HD
 http://138.121.15.228:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Theater HD
@@ -1375,6 +1141,8 @@ http://168.181.122.234:8000/play/a029/index.m3u8
 http://168.194.171.237:8000/play/a0bs/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery Turbo
 http://168.232.168.242:4000/play/a016/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Discovery Turbo HD
+http://161.132.108.74:50001/play/a038/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/7J7Y70k.png" ,Discovery World HD
 http://191.97.49.192:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/7J7Y70k.png" ,Discovery World HD
@@ -1393,6 +1161,8 @@ http://191.97.49.198:8000/play/a04e/index.m3u8
 http://191.97.49.199:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/7J7Y70k.png" ,Discovery World HD
 http://191.97.49.202:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Discovery World HD
+http://161.132.108.74:50001/play/a011/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery World HD
 http://138.121.15.228:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Discovery World HD
@@ -1430,6 +1200,8 @@ http://168.232.168.242:4000/play/a018/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Disney Channel
 http://154.58.202.194:8000/play/a0m3/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Disney Channel HD
+http://161.132.108.74:50001/play/a00e/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Disney Channel HD
 http://154.58.202.194:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Disney HD
 http://138.121.15.228:8000/play/a00i/index.m3u8
@@ -1463,16 +1235,30 @@ http://191.97.49.198:8000/play/a00t/index.m3u8
 http://191.97.49.199:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/AcJaxFP.png" ,Disney Junior
 http://191.97.49.202:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Disney Junior HD
+http://161.132.108.74:50001/play/a00i/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Disney 😆
 http://168.232.168.242:4000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Distrito Comedia HD
+http://161.132.108.74:50001/play/a04h/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DMAX
 http://154.58.202.194:8000/play/a0lm/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DMAX Austria
 http://154.58.202.194:8000/play/a0n5/index.m3u8
 #EXTINF:9 group-title="NEWVK" ,DMAXX
 http://146.0.32.87:3232/stream/dmaxx/master.m3u8
+#EXTINF:-1 group-title="NEWVK" ,DreamWorks HD
+http://161.132.108.74:50001/play/a03x/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,DSports + HD
+http://161.132.108.74:50001/play/a03q/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,DSports 2 HD
+http://161.132.108.74:50001/play/a03p/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,DSports HD
+http://161.132.108.74:50001/play/a03o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DW Arabia HD
 http://154.197.91.169:7003/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,DW En Español HD
+http://161.132.108.74:50001/play/a02s/index.m3u8
 #EXTINF:-1 group-title="Intl" ,E Entertainment
 http://191.97.49.192:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="Intl" ,E Entertainment
@@ -1499,6 +1285,8 @@ http://160.20.165.245:8000/play/a00l/index.m3u8
 http://160.20.165.246:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,E!
 http://168.194.171.237:8000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,E! Entertainment HD
+http://161.132.108.74:50001/play/a01h/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,E! Entertairment HD
 http://168.181.122.234:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,E! Entertairment HD
@@ -1521,6 +1309,8 @@ http://168.181.122.234:8000/play/a025/index.m3u8
 http://168.194.171.237:8000/play/a09m/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,El Gourmet
 http://168.232.168.242:4000/play/a053/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,El Gourmet HD
+http://161.132.108.74:50001/play/a00o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,El Gourmet HD
 http://138.121.15.228:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,El Gourmet HD
@@ -1580,6 +1370,8 @@ http://168.194.171.237:8000/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN 2
 http://168.232.168.242:4000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN 2 HD
+http://161.132.108.74:50001/play/a008/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ESPN 2 HD
 http://138.121.15.228:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN 2 HD
 http://161.132.194.88:6178/play/a0sj/index.m3u8
@@ -1617,6 +1409,8 @@ http://191.97.49.202:8000/play/a015/index.m3u8
 http://168.194.171.237:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN 3
 http://168.232.168.242:4000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ESPN 3 HD
+http://161.132.108.74:50001/play/a00g/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN 3 HD
 http://138.121.15.228:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN 3 HD
@@ -1670,6 +1464,8 @@ http://191.97.49.199:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 4 HD
 http://191.97.49.202:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN 4 HD
+http://161.132.108.74:50001/play/a00v/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ESPN 4 HD
 http://138.121.15.228:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN 4 HD
 http://161.132.194.88:6178/play/a0ow/index.m3u8
@@ -1718,6 +1514,8 @@ http://191.97.49.199:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN EXTRA HD
 http://191.97.49.202:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN EXTRA HD
+http://161.132.108.74:50001/play/a014/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ESPN EXTRA HD
 http://138.121.15.228:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN EXTRA HD
 http://161.132.194.88:6178/play/a0pk/index.m3u8
@@ -1741,6 +1539,8 @@ http://191.97.49.198:8000/play/a041/index.m3u8
 http://191.97.49.199:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
 http://191.97.49.202:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,ESPN HD
+http://161.132.108.74:50001/play/a00b/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN HD
 http://138.121.15.228:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ESPN HD
@@ -1769,6 +1569,8 @@ http://168.232.168.242:4000/play/a04p/index.m3u8
 http://168.194.171.237:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,EURO Channel
 http://168.232.168.242:4000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Euronews HD
+http://161.132.108.74:50001/play/a02v/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Europa HD
 http://168.181.122.234:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Europa HD
@@ -1795,6 +1597,10 @@ http://154.58.202.194:8000/play/a0lw/index.m3u8
 http://168.194.171.237:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Exa TV
 http://168.232.168.242:4000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Exitosa HD
+http://161.132.108.74:50001/play/a02d/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Film & Arth HD
+http://161.132.108.74:50001/play/a03z/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Film & Arts
 http://168.194.171.237:8000/play/a071/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Film & Arts
@@ -1835,6 +1641,8 @@ http://191.97.49.198:8000/play/a02n/index.m3u8
 http://191.97.49.199:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Food Network HD
 http://191.97.49.202:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Food Network HD
+http://161.132.108.74:50001/play/a01k/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Food Network HD
 http://138.121.15.228:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Food Network HD
@@ -1909,6 +1717,8 @@ http://191.97.49.198:8000/play/a03u/index.m3u8
 http://191.97.49.199:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 2 HD
 http://191.97.49.202:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Fox Sports 2 HD
+http://161.132.108.74:50001/play/a00w/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FOX Sports 2 HD
 http://138.121.15.228:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FOX Sports 2 HD
@@ -1938,6 +1748,8 @@ http://191.97.49.202:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Fox Sports 3
 http://161.132.194.88:6178/play/a01t/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Fox Sports 3 HD
+http://161.132.108.74:50001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Fox Sports 3 HD
 http://138.121.15.228:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Fox Sports 3 HD
 http://161.132.194.88:6178/play/a0si/index.m3u8
@@ -1947,6 +1759,8 @@ http://167.250.135.246:81/play/a05x/index.m3u8
 http://168.232.168.242:4000/play/a01v/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FOX SPORTS 3 HD Mexico
 http://168.194.171.237:8000/play/a0ch/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Fox Sports HD
+http://161.132.108.74:50001/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Intl" ,France 24
 http://191.97.49.192:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="Intl" ,France 24
@@ -1967,6 +1781,8 @@ http://191.97.49.199:8000/play/a01k/index.m3u8
 http://191.97.49.202:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,France 24
 http://161.132.194.88:6178/play/a01x/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,France 24 HD
+http://161.132.108.74:50001/play/a01q/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,France24
 http://168.194.171.237:8000/play/a08a/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FUTV CR
@@ -2020,6 +1836,8 @@ http://191.97.49.199:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX HD
 http://191.97.49.202:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FX HD
+http://161.132.108.74:50001/play/a00z/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,FX HD
 http://138.121.15.228:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FX HD
 http://152.200.187.238:1010/play/a03d/index.m3u8
@@ -2043,6 +1861,10 @@ http://160.20.165.246:8000/play/a00r/index.m3u8
 http://154.58.202.194:8000/play/a0n1/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Genius Trend
 http://154.58.202.194:8000/play/a0lq/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Global HD
+http://161.132.108.74:50001/play/a02k/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Gol Peru HD
+http://161.132.108.74:50001/play/a01n/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden
 http://168.181.122.234:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden
@@ -2051,6 +1873,8 @@ http://168.194.171.237:8000/play/a09w/index.m3u8
 http://168.232.168.242:4000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden Edge
 http://161.132.194.88:6178/play/a0ue/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Golden Edge HD
+http://161.132.108.74:50001/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden HD
 http://191.97.49.192:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden HD
@@ -2070,21 +1894,31 @@ http://191.97.49.199:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden HD
 http://191.97.49.202:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden HD
+http://161.132.108.74:50001/play/a03m/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Golden HD
 http://138.121.15.228:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden HD
 http://161.132.194.88:6178/play/a0wk/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden HD
 http://167.250.135.246:81/play/a09x/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Golden Plus HD
+http://161.132.108.74:50001/play/a01f/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Golden Premiere 2 HD
+http://161.132.108.74:50001/play/a03l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden Premiere 2 HD
 http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden Premiere 2 HD
 http://168.232.168.242:4000/play/a056/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Golden Premiere HD
+http://161.132.108.74:50001/play/a03k/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden Premiere HD
 http://168.181.122.234:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golden Premiere HD
 http://168.232.168.242:4000/play/a051/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golf Channel
 http://168.232.168.242:4000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Golf Channel HD
+http://161.132.108.74:50001/play/a03w/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golf Channel HD
 http://168.194.171.237:8000/play/a08v/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Golf Channel HD
@@ -2132,6 +1966,8 @@ http://191.97.49.199:8000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="Intl" ,GolTV HD
 http://191.97.49.202:8000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,GolTV HD
+http://161.132.108.74:50001/play/a01i/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,GolTV HD
 http://138.121.15.228:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,GolTV HD
 http://161.132.194.88:6178/play/a0t5/index.m3u8
@@ -2178,6 +2014,8 @@ http://191.97.49.199:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WsLKuYn.png" ,HBO 2 HD
 http://191.97.49.202:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO 2 HD
+http://161.132.108.74:50001/play/a01c/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,HBO 2 HD
 http://138.121.15.228:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO 2 HD
 http://161.132.194.88:6178/play/a0s6/index.m3u8
@@ -2187,6 +2025,8 @@ http://167.250.135.246:81/play/a096/index.m3u8
 http://161.132.194.88:6178/play/a0xq/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO Family
 http://161.132.194.88:6178/play/a0xu/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,HBO Family HD
+http://161.132.108.74:50001/play/a01x/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO Family HD
 http://138.121.15.228:8000/play/a02w/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO Family HD
@@ -2199,6 +2039,8 @@ http://168.181.122.234:8000/play/a02r/index.m3u8
 http://168.194.171.237:8000/play/a07b/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO Family HD
 http://168.232.168.242:4000/play/a021/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,HBO HD
+http://161.132.108.74:50001/play/a015/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO HD
 http://138.121.15.228:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO HD
@@ -2216,21 +2058,29 @@ http://161.132.194.88:6178/play/a0xr/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO Plus
 http://161.132.194.88:6178/play/a0xv/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO Plus HD
+http://161.132.108.74:50001/play/a03h/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,HBO Plus HD
 http://168.181.122.234:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO Plus HD
 http://168.194.171.237:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO Plus HD
 http://168.232.168.242:4000/play/a023/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,HBO Pop HD
+http://161.132.108.74:50001/play/a007/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO POP HD
 http://161.132.194.88:6178/play/a0se/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO POP HD
 http://167.250.135.246:81/play/a05b/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,HBO Signature HD
+http://161.132.108.74:50001/play/a03i/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO XTREME
 http://168.181.122.234:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO XTREME
 http://168.194.171.237:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO XTREME
 http://168.232.168.242:4000/play/a024/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,HBO Xtreme HD
+http://161.132.108.74:50001/play/a01y/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO XTREME HD
 http://138.121.15.228:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HBO XTREME HD
@@ -2255,12 +2105,16 @@ http://168.232.168.242:4000/play/a047/index.m3u8
 http://146.0.32.87:3232/stream/hgtv/master.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HGTV
 http://154.58.202.194:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,HGTV HD
+http://161.132.108.74:50001/play/a036/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HISTORIA
 http://154.58.202.35:8002/play/a0bz/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HISTORY
 http://160.20.165.245:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,HISTORY
 http://160.20.165.246:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,History 2 HD
+http://161.132.108.74:50001/play/a01w/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,History 2 HD
 http://138.121.15.228:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,History 2 HD
@@ -2295,6 +2149,8 @@ http://152.200.187.238:1010/play/a04c/index.m3u8
 http://161.132.194.88:6178/play/a0py/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,History Channel HD
 http://167.250.135.246:81/play/a053/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,History HD
+http://161.132.108.74:50001/play/a003/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,History HD
 http://168.181.122.234:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,History HD
@@ -2355,8 +2211,12 @@ http://161.132.194.88:6178/play/a0sl/index.m3u8
 http://167.250.135.246:81/play/a063/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Immer etwas Neues TV
 http://154.58.202.194:8000/play/a0n9/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,IPE HD
+http://161.132.108.74:50001/play/a02f/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Iran Movie
 http://119.156.228.28:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,JN19TV HD
+http://161.132.108.74:50001/play/a04f/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Kabel 1 Austria
 http://154.58.202.194:8000/play/a0g1/index.m3u8
 #EXTINF:12 group-title="NEWVK" ,KABEL EINS
@@ -2378,9 +2238,13 @@ http://146.0.32.87:3232/stream/kabeleinss/master.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Kanal D Drama
 http://161.132.194.88:6178/play/a0ur/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Kanal D Drama HD
+http://161.132.108.74:50001/play/a016/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Kanal D Drama HD
 http://161.132.194.88:6178/play/a0sx/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Kanal D Drama HD
 http://167.250.135.246:81/play/a090/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Karibena HD
+http://161.132.108.74:50001/play/a00j/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Kidzone Pakistan
 http://119.156.228.28:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,KiKA HD
@@ -2397,10 +2261,14 @@ http://138.121.15.228:8000/play/a00e/index.m3u8
 http://167.250.135.246:81/play/a05h/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,LA SEXTA
 http://154.58.202.35:8002/play/a09e/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,La Tele HD
+http://161.132.108.74:50001/play/a043/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,La voz de Maria
 http://168.194.171.237:8000/play/a0bw/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,LALIGA TV HYPERMOTION
 http://154.58.202.35:8002/play/a07y/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Las Estrellas HD
+http://161.132.108.74:50001/play/a01t/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Las Estrellas HD
 http://138.121.15.228:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Las Estrellas HD
@@ -2413,6 +2281,8 @@ http://167.250.135.246:81/play/a0b9/index.m3u8
 http://168.194.171.237:8000/play/a09s/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Latin America Sport
 http://168.232.168.242:4000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Latina HD
+http://161.132.108.74:50001/play/a029/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Latina HD
 http://138.121.15.228:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Latina HD
@@ -2445,10 +2315,22 @@ http://191.97.49.199:8000/play/a00k/index.m3u8
 http://191.97.49.202:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Lifetime
 http://161.132.194.88:6178/play/a0kj/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Lifetime HD
+http://161.132.108.74:50001/play/a035/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,LIGA 1 MAX HD
+http://161.132.108.74:50001/play/a03y/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Lolly Kids HD
+http://161.132.108.74:50001/play/a01o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Lolly Kids HD
 http://138.121.15.228:8000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Lolly Kids HD
 http://167.250.135.246:81/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,LOVE NATURE
+http://160.20.165.245:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,LOVE NATURE
+http://160.20.165.246:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Love Nature HD
+http://161.132.108.74:50001/play/a01p/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Love Nature HD
 http://138.121.15.228:8000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Love Nature HD
@@ -2491,6 +2373,8 @@ http://103.31.103.218:8000/play/a00x/index.m3u8
 http://168.181.122.234:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Mas Chic
 http://168.232.168.242:4000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Mas Chic HD
+http://161.132.108.74:50001/play/a034/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,MASALA TV
 http://119.156.228.28:8000/play/a02k/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,MDR S-Anhalt HD
@@ -2560,6 +2444,8 @@ http://191.97.49.199:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Movistar Deportes HD
 http://191.97.49.202:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Movistar Deportes HD
+http://161.132.108.74:50001/play/a01d/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Movistar Deportes HD
 http://161.132.194.88:6178/play/a0t1/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Movistar Deportes HD
 http://167.250.135.246:81/play/a09v/index.m3u8
@@ -2604,6 +2490,8 @@ http://168.194.171.237:8000/play/a084/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,MTV Beats
 http://119.156.228.28:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,MTV HD
+http://161.132.108.74:50001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,MTV HD
 http://138.121.15.228:8000/play/a02p/index.m3u8
 #EXTINF:17 group-title="NEWVK" ,MTV HD
 http://146.0.32.87:3232/stream/mtvhd/master.m3u8
@@ -2641,6 +2529,8 @@ http://191.97.49.198:8000/play/a051/index.m3u8
 http://191.97.49.199:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Intl" ,MTV LIVE HD
 http://191.97.49.202:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,MTV Live HD
+http://161.132.108.74:50001/play/a00u/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,MTV LIVE HD
 http://138.121.15.228:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,MTV LIVE HD
@@ -2651,6 +2541,10 @@ http://167.250.135.246:81/play/a07c/index.m3u8
 http://168.194.171.237:8000/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,MTV SIM HD
 http://168.232.168.242:4000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,MULTICINEMA
+http://160.20.165.245:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,MULTICINEMA
+http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Multicinema
 http://168.194.171.237:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Multicinema
@@ -2659,6 +2553,10 @@ http://168.232.168.242:4000/play/a040/index.m3u8
 http://168.194.171.237:8000/play/a06y/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Multimedios
 http://168.232.168.242:4000/play/a058/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,MULTIPREMIER
+http://160.20.165.245:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,MULTIPREMIER
+http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Multipremier
 http://168.181.122.234:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Multipremier
@@ -2705,6 +2603,8 @@ http://191.97.49.198:8000/play/a04d/index.m3u8
 http://191.97.49.199:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo HD
 http://191.97.49.202:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Nat Geo HD
+http://161.132.108.74:50001/play/a010/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Nat Geo HD
 http://138.121.15.228:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Nat Geo HD
@@ -2765,6 +2665,10 @@ http://168.181.122.234:8000/play/a02y/index.m3u8
 http://168.194.171.237:8000/play/a07p/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Nick Jr
 http://168.232.168.242:4000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Nick Jr HD
+http://161.132.108.74:50001/play/a04j/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Nick Junior HD
+http://161.132.108.74:50001/play/a048/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Nick SIM HD
 http://168.194.171.237:8000/play/a0az/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Nick SIM HD
@@ -2799,6 +2703,8 @@ http://168.181.122.234:8000/play/a028/index.m3u8
 http://168.194.171.237:8000/play/a0bp/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Nickelodeon
 http://168.232.168.242:4000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Nickelodeon HD
+http://161.132.108.74:50001/play/a00a/index.m3u8
 #EXTINF:19 group-title="NEWVK" ,NITRO
 http://146.0.32.87:3232/stream/nitro/master.m3u8
 #EXTINF:-1 group-title="NEWVK" ,NITRO
@@ -2821,6 +2727,8 @@ http://154.58.202.194:8000/play/a04m/index.m3u8
 http://160.20.165.245:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,NUESTRA TELE
 http://160.20.165.246:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Nuevo Tiempo HD
+http://161.132.108.74:50001/play/a046/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,oe24.TV HD
 http://154.58.202.194:8000/play/a0bb/index.m3u8
 #EXTINF:20 group-title="NEWVK" ,ONE HD
@@ -2877,6 +2785,8 @@ http://154.58.202.194:8000/play/a0bj/index.m3u8
 http://160.20.165.245:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,OROMARTV
 http://160.20.165.246:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Panamericana HD
+http://161.132.108.74:50001/play/a02b/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,PARAMOUNT
 http://154.58.202.35:8002/play/a0b2/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Paramount
@@ -2904,6 +2814,8 @@ http://191.97.49.199:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/QmNVreb.png" ,Paramount HD
 http://191.97.49.202:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Paramount HD
+http://161.132.108.74:50001/play/a018/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Paramount HD
 http://138.121.15.228:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Paramount HD
 http://152.200.187.238:1010/play/a03m/index.m3u8
@@ -2917,6 +2829,16 @@ http://168.181.122.234:8000/play/a031/index.m3u8
 http://168.194.171.237:8000/play/a0cj/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Paramount HD
 http://168.232.168.242:4000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Pasajetv
+http://160.20.165.245:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Pasajetv
+http://160.20.165.246:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,PASIONES
+http://160.20.165.245:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,PASIONES
+http://160.20.165.246:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Pasiones HD
+http://161.132.108.74:50001/play/a00c/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Pasiones HD
 http://138.121.15.228:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Pasiones HD
@@ -3012,6 +2934,8 @@ http://154.58.202.194:8000/play/a05z/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,rbb Brandenburg HD
 http://154.58.202.194:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,RCN HD
+http://161.132.108.74:50001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,RCN HD
 http://138.121.15.228:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,RCN HD
 http://152.200.187.238:1010/play/a051/index.m3u8
@@ -3043,6 +2967,8 @@ http://168.181.122.234:8000/play/a024/index.m3u8
 http://168.194.171.237:8000/play/a09j/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,RCN Novelas
 http://168.232.168.242:4000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,RD
+http://168.194.171.237:8000/play/a0gn/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Red Uno de Bolivia HD
 http://167.250.135.246:81/play/tdt05/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,REGIO TV
@@ -3055,12 +2981,14 @@ http://168.194.171.237:8000/play/a0c9/index.m3u8
 http://168.232.168.242:4000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,RiC
 http://154.58.202.194:8000/play/a0k0/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,RNN - RD
-http://168.194.171.237:8000/play/a0gn/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ROCK ANTENNE
 http://154.58.202.194:8000/play/a0n6/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,RPP
 http://161.132.194.88:6178/play/a0k1/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,RPP HD
+http://161.132.108.74:50001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,RT En Español HD
+http://161.132.108.74:50001/play/a02u/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,RT ESPAÑOL
 http://160.20.165.245:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,RT ESPAÑOL
@@ -3233,6 +3161,8 @@ http://161.132.194.88:6178/play/a0xc/index.m3u8
 http://161.132.194.88:6178/play/a0xd/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,SONY
 http://168.194.171.237:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Sony Channel HD
+http://161.132.108.74:50001/play/a002/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Sony HD
 http://138.121.15.228:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Sony HD
@@ -3245,6 +3175,8 @@ http://168.181.122.234:8000/play/a00x/index.m3u8
 http://168.194.171.237:8000/play/a0aw/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,SONY HD
 http://168.232.168.242:4000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Sony Movies HD
+http://161.132.108.74:50001/play/a03j/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Sony Movies HD
 http://168.194.171.237:8000/play/a08r/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rBF3Zbw.png" ,Space
@@ -3269,6 +3201,8 @@ http://191.97.49.202:8000/play/a021/index.m3u8
 http://161.132.194.88:6178/play/a0vq/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,SPACE
 http://168.194.171.237:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Space HD
+http://161.132.108.74:50001/play/a006/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Space HD
 http://138.121.15.228:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Space HD
@@ -3333,6 +3267,8 @@ http://191.97.49.198:8000/play/a03q/index.m3u8
 http://191.97.49.199:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel HD
 http://191.97.49.202:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Star Channel HD
+http://161.132.108.74:50001/play/a01r/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,STAR CHANNEL HD
 http://138.121.15.228:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,STAR CHANNEL HD
@@ -3389,6 +3325,8 @@ http://168.232.168.242:4000/play/a02v/index.m3u8
 http://103.31.103.218:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Stimmungsgarten TV
 http://154.58.202.194:8000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Stingray Concerts HD
+http://161.132.108.74:50001/play/a01j/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,STR NEWS PASHTO
 http://119.156.228.28:8000/play/a08p/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Xaco8bi.png" ,Studio Universal
@@ -3434,6 +3372,8 @@ http://191.97.49.199:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Xaco8bi.png" ,Studio Universal HD
 http://191.97.49.202:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Studio Universal HD
+http://161.132.108.74:50001/play/a019/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Studio Universal HD
 http://138.121.15.228:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Studio Universal HD
 http://161.132.194.88:6178/play/a0pp/index.m3u8
@@ -3467,6 +3407,8 @@ http://191.97.49.198:8000/play/a03m/index.m3u8
 http://191.97.49.199:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Sun Channel HD
 http://191.97.49.202:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Sun Channel HD
+http://161.132.108.74:50001/play/a00p/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Sun Channel HD
 http://138.121.15.228:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Sun Channel HD
@@ -3577,6 +3519,8 @@ http://168.232.168.242:4000/play/a03l/index.m3u8
 http://161.132.194.88:6178/play/a0qp/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Teen Nick HD
 http://168.194.171.237:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Teennick HD
+http://161.132.108.74:50001/play/a047/index.m3u8
 #EXTINF:46 group-title="NEWVK" ,TELE 5
 http://146.0.32.87:3232/stream/tele5/master.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TELE 5
@@ -3593,6 +3537,12 @@ http://160.20.165.246:8000/play/a00p/index.m3u8
 http://168.232.168.242:4000/play/a002/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Telecentro - RD
 http://168.194.171.237:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Telehit HD
+http://161.132.108.74:50001/play/a01g/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Telehit Latino HD
+http://161.132.108.74:50001/play/a04c/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Telehit Musica HD
+http://161.132.108.74:50001/play/a04d/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TeleMicro - RD
 http://168.194.171.237:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/s8yQqFw.png" ,Telemundo
@@ -3614,9 +3564,15 @@ http://191.97.49.199:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/s8yQqFw.png" ,Telemundo
 http://191.97.49.202:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Telemundo
+http://160.20.165.245:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Telemundo
+http://160.20.165.246:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Telemundo
 http://161.132.194.88:6178/play/a01u/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Telemundo
 http://168.194.171.237:8000/play/a07v/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Telemundo HD
+http://161.132.108.74:50001/play/a02x/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Telemundo HD
 http://168.181.122.234:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Telemundo HD
@@ -3649,6 +3605,8 @@ http://168.232.168.242:4000/play/a01c/index.m3u8
 http://119.156.228.28:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TIGO HN
 http://168.232.168.242:4000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Tigo Sports HD
+http://161.132.108.74:50001/play/a041/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Tigo Sports HD
 http://168.194.171.237:8000/play/a0ay/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Tigo Sports HD
@@ -3688,7 +3646,11 @@ http://154.58.202.194:8000/play/a0n4/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TLC Discovery
 http://161.132.194.88:6178/play/a01p/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TLC HD
+http://161.132.108.74:50001/play/a033/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,TLC HD
 http://154.58.202.194:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,TLNovelas HD
+http://161.132.108.74:50001/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT
 http://191.97.49.192:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT
@@ -3708,9 +3670,11 @@ http://191.97.49.199:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT
 http://191.97.49.202:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TNT
-http://161.132.194.88:6178/play/a0vy/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,TNT - 0
 http://168.194.171.237:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,TNT
+http://161.132.194.88:6178/play/a0vy/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,TNT HD
+http://161.132.108.74:50001/play/a00f/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TNT HD
 http://138.121.15.228:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TNT HD
@@ -3752,6 +3716,8 @@ http://191.97.49.199:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="Intl" ,TNT Series HD
 http://191.97.49.202:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TNT Series HD
+http://161.132.108.74:50001/play/a00y/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,TNT Series HD
 http://138.121.15.228:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TNT Series HD
 http://152.200.187.238:1010/play/a03c/index.m3u8
@@ -3767,6 +3733,8 @@ http://168.181.122.234:8000/play/a03i/index.m3u8
 http://168.194.171.237:8000/play/a0ck/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TNT Series HD
 http://168.232.168.242:4000/play/a034/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,TNT Sports HD
+http://161.132.108.74:50001/play/a03r/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TNT SPORTS HD
 http://138.121.15.228:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TNT SPORTS HD
@@ -3785,6 +3753,8 @@ http://154.58.202.194:8000/play/a0mu/index.m3u8
 http://161.132.194.88:6178/play/a0uk/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Tooncast
 http://168.194.171.237:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Top Latino HD
+http://161.132.108.74:50001/play/a042/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TRUTV HD
 http://161.132.108.74:50001/play/a00d/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TRUTV HD
@@ -3799,10 +3769,14 @@ http://168.194.171.237:8000/play/a0bi/index.m3u8
 http://168.232.168.242:4000/play/a035/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TV Oriente ESA
 http://168.194.171.237:8000/play/a0be/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,TV Peru HD
+http://161.132.108.74:50001/play/a02e/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TV Trwam
 http://154.58.202.194:8000/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TV+
 http://161.132.194.88:6178/play/a0tz/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,TV+ HD
+http://161.132.108.74:50001/play/a04o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TV+ HD
 http://161.132.194.88:6178/play/a0pe/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,TV+ HD
@@ -3919,6 +3893,8 @@ http://168.232.168.242:4000/play/a037/index.m3u8
 http://160.20.165.245:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,UNIVERSAL CHANNEL
 http://160.20.165.246:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Universal Channel HD
+http://161.132.108.74:50001/play/a00t/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,UNIVERSAL CHANNEL HD
 http://138.121.15.228:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,UNIVERSAL CHANNEL HD
@@ -3929,14 +3905,20 @@ http://161.132.194.88:6178/play/a0ou/index.m3u8
 http://168.181.122.234:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,UNIVERSAL CINEMA ESTE HD
 http://168.194.171.237:8000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Universal Cinema HD
+http://161.132.108.74:50001/play/a03c/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Universal Cinema SD
 http://161.132.194.88:6178/play/a0lc/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Universal Comedy HD
+http://161.132.108.74:50001/play/a03g/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,UNIVERSAL COMEDY HD
 http://168.194.171.237:8000/play/a0bb/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Universal Comedy SD
 http://161.132.194.88:6178/play/a0xa/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Universal Comedy SD
 http://161.132.194.88:6178/play/a0xb/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Universal Crime HD
+http://161.132.108.74:50001/play/a03b/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,UNIVERSAL CRIME HD
 http://168.194.171.237:8000/play/a0ba/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal HD
@@ -3957,6 +3939,8 @@ http://191.97.49.198:8000/play/a03r/index.m3u8
 http://191.97.49.199:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal HD
 http://191.97.49.202:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Universal Premier HD
+http://161.132.108.74:50001/play/a03d/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,UNIVERSAL PREMIERE HD
 http://168.194.171.237:8000/play/a0b7/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,UNIVERSAL PREMIERE O HD
@@ -3965,8 +3949,12 @@ http://168.194.171.237:8000/play/a0b8/index.m3u8
 http://161.132.194.88:6178/play/a0xh/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Universal Premiere SD
 http://161.132.194.88:6178/play/a0xi/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Universal Reality HD
+http://161.132.108.74:50001/play/a03f/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,UNIVERSAL REALITY HD
 http://168.194.171.237:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Univision HD
+http://161.132.108.74:50001/play/a02y/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Univision HD
 http://168.194.171.237:8000/play/a0co/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Univision HD
@@ -3983,6 +3971,8 @@ http://168.194.171.237:8000/play/a0al/index.m3u8
 http://168.232.168.242:4000/play/a04u/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,USA SD
 http://161.132.194.88:6178/play/a0wo/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,USMP HD
+http://161.132.108.74:50001/play/a02l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Venus
 http://161.132.194.88:6178/play/a0vs/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,VENUS
@@ -4013,6 +4003,12 @@ http://191.97.49.199:8000/play/a01d/index.m3u8
 http://191.97.49.202:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,ViaX
 http://161.132.194.88:6178/play/a01q/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,VITO TV
+http://160.20.165.245:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,VITO TV
+http://160.20.165.246:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Viva TV HD
+http://161.132.108.74:50001/play/a044/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Volksmusik.TV
 http://154.58.202.194:8000/play/a0jz/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Volksmusik.TV NEU
@@ -4062,6 +4058,8 @@ http://161.132.194.88:6178/play/a0ui/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Warner
 http://168.194.171.237:8000/play/a0ai/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Warner Channel HD
+http://161.132.108.74:50001/play/a004/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Warner Channel HD
 http://138.121.15.228:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Warner Channel HD
 http://152.200.187.238:1010/play/a053/index.m3u8
@@ -4087,6 +4085,8 @@ http://146.0.32.87:3232/stream/welthd/master.m3u8
 http://103.31.103.218:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,WILLAX
 http://161.132.194.88:6178/play/a020/index.m3u8
+#EXTINF:-1 group-title="NEWVK" ,Willax HD
+http://161.132.108.74:50001/play/a028/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Willow HD
 http://103.31.103.218:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Willow Xtra HD
