@@ -3,16 +3,10 @@
 http://160.20.165.245:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Intl" ,A&E
 http://160.20.165.246:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Intl" ,A&E
-http://161.132.194.88:6178/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="Intl" ,A&E HD
 http://138.121.15.228:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Intl" ,A&E HD
-http://152.200.187.238:1010/play/a052/index.m3u8
-#EXTINF:-1 group-title="Intl" ,A&E HD
 http://161.132.108.74:50001/play/a001/index.m3u8
-#EXTINF:-1 group-title="Intl" ,A&E HD
-http://161.132.194.88:6178/play/a0pz/index.m3u8
 #EXTINF:-1 group-title="Intl" ,A&E HD
 http://167.250.135.246:81/play/a054/index.m3u8
 #EXTINF:-1 group-title="Intl" ,A&E HD
@@ -20,17 +14,11 @@ http://168.181.122.234:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Intl" ,A&E HD
 http://168.232.168.242:4000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Adult Swim
-http://161.132.194.88:6178/play/a0x4/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Adult Swim
 http://168.232.168.242:4000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Adult Swim HD
 http://138.121.15.228:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Intl" ,AMC HD
-http://152.200.187.238:1010/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Intl" ,AMC HD
 http://161.132.108.74:50001/play/a013/index.m3u8
-#EXTINF:-1 group-title="Intl" ,AMC HD
-http://161.132.194.88:6178/play/a0pj/index.m3u8
 #EXTINF:-1 group-title="Intl" ,AMC HD
 http://167.250.135.246:81/play/a08x/index.m3u8
 #EXTINF:-1 group-title="Intl" ,AMC HD
@@ -42,19 +30,11 @@ http://191.97.49.192:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/I0USigK.png" ,America TV HD
 http://161.132.108.74:50001/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/I0USigK.png" ,America TV HD
-http://161.132.194.88:6178/play/a0t7/index.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/I0USigK.png" ,America TV HD
 http://167.250.135.246:81/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/I0USigK.png" ,America TV HD
 http://191.97.49.192:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/C6sQa7D.png" ,Animal Planet
-http://191.97.49.192:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/C6sQa7D.png" ,Animal Planet HD
-http://152.200.187.238:1010/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/C6sQa7D.png" ,Animal Planet HD
 http://161.132.108.74:50001/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/C6sQa7D.png" ,Animal Planet HD
-http://161.132.194.88:6178/play/a0pt/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/C6sQa7D.png" ,Animal Planet HD
 http://167.250.135.246:81/play/a098/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/C6sQa7D.png" ,Animal Planet HD
@@ -75,18 +55,10 @@ http://161.132.108.74:50001/play/a02i/index.m3u8
 http://160.20.165.245:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Intl" ,AXN
 http://160.20.165.246:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Intl" ,AXN
-http://161.132.194.88:6178/play/a0w0/index.m3u8
-#EXTINF:-1 group-title="Intl" ,AXN
-http://191.97.49.192:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Intl" ,AXN HD
 http://138.121.15.228:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Intl" ,AXN HD
-http://152.200.187.238:1010/play/a054/index.m3u8
-#EXTINF:-1 group-title="Intl" ,AXN HD
 http://161.132.108.74:50001/play/a005/index.m3u8
-#EXTINF:-1 group-title="Intl" ,AXN HD
-http://161.132.194.88:6178/play/a0vv/index.m3u8
 #EXTINF:-1 group-title="Intl" ,AXN HD
 http://167.250.135.246:81/play/a057/index.m3u8
 #EXTINF:-1 group-title="Intl" ,AXN HD
@@ -100,8 +72,6 @@ http://168.181.122.234:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Baby TV
 http://168.232.168.242:4000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Intl" ,BabyFirst
-http://161.132.194.88:6178/play/a0wj/index.m3u8
-#EXTINF:-1 group-title="Intl" ,BabyFirst
 http://191.97.49.192:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Canal Claro
 http://191.97.49.192:8000/play/a01l/index.m3u8
@@ -112,31 +82,21 @@ http://191.97.49.192:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network HD
 http://138.121.15.228:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network HD
-http://152.200.187.238:1010/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network HD
-http://152.200.187.238:1010/play/a04z/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network HD
 http://161.132.108.74:50001/play/a017/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network HD
-http://161.132.194.88:6178/play/a0pn/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network HD
 http://167.250.135.246:81/play/a091/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/4C9UCZZ.png" ,Cartoon Network HD
 http://168.232.168.242:4000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Cartoonito
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito
 http://168.232.168.242:4000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Cartoonito HD
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ez86qCq.png" ,Cartoonito HD
 http://161.132.108.74:50001/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/PGZL2x6.png" ,Cinecanal
 http://191.97.49.192:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/PGZL2x6.png" ,Cinecanal HD
 http://138.121.15.228:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/PGZL2x6.png" ,Cinecanal HD
-http://152.200.187.238:1010/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/PGZL2x6.png" ,Cinecanal HD
 http://161.132.108.74:50001/play/a012/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/PGZL2x6.png" ,Cinecanal HD
-http://161.132.194.88:6178/play/a0we/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/PGZL2x6.png" ,Cinecanal HD
 http://167.250.135.246:81/play/a08w/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/PGZL2x6.png" ,Cinecanal HD
@@ -154,35 +114,21 @@ http://191.97.49.192:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qcVPNA7.png" ,Cinemax HD
 http://161.132.108.74:50001/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qcVPNA7.png" ,Cinemax HD
-http://161.132.194.88:6178/play/a0wl/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qcVPNA7.png" ,Cinemax HD
 http://167.250.135.246:81/play/a061/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Claro Cinema
-http://191.97.49.192:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Claro Sports
 http://191.97.49.192:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Intl" ,CNN Espanol
-http://161.132.194.88:6178/play/a0gu/index.m3u8
-#EXTINF:-1 group-title="Intl" ,CNN Español HD
-http://161.132.108.74:50001/play/a02r/index.m3u8
-#EXTINF:-1 group-title="Intl" ,CNNE
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/W7preHa.png" ,CNN Español
 http://168.181.122.234:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Intl" ,CNNE
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/W7preHa.png" ,CNN Español
 http://168.232.168.242:4000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/W7preHa.png" ,CNN Español HD
+http://161.132.108.74:50001/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Comedy Central HD
 http://161.132.108.74:50001/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Comedy Central HD
-http://161.132.194.88:6178/play/a0xk/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Comedy Central HD
-http://161.132.194.88:6178/play/a0xn/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Comedy Central HD
 http://167.250.135.246:81/play/a062/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Comedy Central HD
 http://168.232.168.242:4000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/fSxHbME.png" ,Discovery
-http://191.97.49.192:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/fSxHbME.png" ,Discovery
-http://161.132.194.88:6178/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/fSxHbME.png" ,Discovery
 http://168.181.122.234:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LnxWzgU.png" ,Discovery H&H
@@ -191,10 +137,6 @@ http://161.132.108.74:50001/play/a00r/index.m3u8
 http://168.181.122.234:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LnxWzgU.png" ,Discovery H&H
 http://168.232.168.242:4000/play/a012/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LnxWzgU.png" ,Discovery H&H
-http://191.97.49.192:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LnxWzgU.png" ,Discovery H&H HD
-http://161.132.194.88:6178/play/a0sn/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LnxWzgU.png" ,Discovery H&H HD
 http://167.250.135.246:81/play/a078/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LnxWzgU.png" ,Discovery H&H HD
@@ -208,15 +150,7 @@ http://168.181.122.234:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/fSxHbME.png" ,Discovery HD
 http://168.232.168.242:4000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/fSxHbME.png" ,Discovery HD
-http://152.200.187.238:1010/play/a049/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/fSxHbME.png" ,Discovery HD
-http://152.200.187.238:1010/play/a04x/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/fSxHbME.png" ,Discovery HD
-http://161.132.194.88:6178/play/a0ti/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/fSxHbME.png" ,Discovery HD
 http://167.250.135.246:81/play/a0bb/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Discovery ID
-http://161.132.194.88:6178/play/a01w/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Discovery ID
 http://168.181.122.234:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Discovery ID
@@ -228,11 +162,7 @@ http://168.181.122.234:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Discovery ID HD
 http://168.232.168.242:4000/play/a013/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/sPE9r9k.png" ,Discovery Kids HD
-http://152.200.187.238:1010/play/a035/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/sPE9r9k.png" ,Discovery Kids HD
 http://161.132.108.74:50001/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/sPE9r9k.png" ,Discovery Kids HD
-http://161.132.194.88:6178/play/a0op/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/sPE9r9k.png" ,Discovery Kids HD
 http://167.250.135.246:81/play/a077/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/sPE9r9k.png" ,Discovery Kids HD
@@ -241,8 +171,6 @@ http://168.181.122.234:8000/play/a012/index.m3u8
 http://168.232.168.242:4000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/sPE9r9k.png" ,Discovery Kids HD
 http://191.97.49.192:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Discovery Network HD
-http://161.132.194.88:6178/play/a0p7/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Discovery Science
 http://168.232.168.242:4000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Discovery Science HD
@@ -250,13 +178,9 @@ http://161.132.108.74:50001/play/a039/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Discovery Theater HD
 http://161.132.108.74:50001/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Discovery Theater HD
-http://161.132.194.88:6178/play/a0os/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Discovery Theater HD
 http://167.250.135.246:81/play/a079/index.m3u8
 #EXTINF:-1 group-title="Intl" ,DISCOVERY THEATHER HD
 http://168.232.168.242:4000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Discovery Turbo
-http://161.132.194.88:6178/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Discovery Turbo
 http://168.181.122.234:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Discovery Turbo
@@ -265,8 +189,6 @@ http://168.232.168.242:4000/play/a016/index.m3u8
 http://161.132.108.74:50001/play/a038/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/7J7Y70k.png" ,Discovery World HD
 http://161.132.108.74:50001/play/a011/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/7J7Y70k.png" ,Discovery World HD
-http://161.132.194.88:6178/play/a0sv/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/7J7Y70k.png" ,Discovery World HD
 http://167.250.135.246:81/play/a08v/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/7J7Y70k.png" ,Discovery World HD
@@ -277,8 +199,6 @@ http://191.97.49.192:8000/play/a04e/index.m3u8
 http://168.181.122.234:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/cqPTEMk.png" ,Disney
 http://168.232.168.242:4000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/cqPTEMk.png" ,Disney
-http://191.97.49.192:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/cqPTEMk.png" ,Disney Channel
 http://154.58.202.194:8000/play/a0m3/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/cqPTEMk.png" ,Disney Channel HD
@@ -288,17 +208,11 @@ http://161.132.108.74:50001/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/cqPTEMk.png" ,Disney HD
 http://138.121.15.228:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/cqPTEMk.png" ,Disney HD
-http://161.132.194.88:6178/play/a0wh/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/cqPTEMk.png" ,Disney HD
 http://167.250.135.246:81/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/AcJaxFP.png" ,Disney Junior
-http://161.132.194.88:6178/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/AcJaxFP.png" ,Disney Junior
 http://168.181.122.234:8000/play/a037/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/AcJaxFP.png" ,Disney Junior
 http://168.232.168.242:4000/play/a019/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/AcJaxFP.png" ,Disney Junior
-http://191.97.49.192:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/AcJaxFP.png" ,Disney Junior HD
 http://161.132.108.74:50001/play/a00i/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DreamWorks HD
@@ -309,8 +223,6 @@ http://161.132.108.74:50001/play/a03q/index.m3u8
 http://161.132.108.74:50001/play/a03p/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,DSports HD
 http://161.132.108.74:50001/play/a03o/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,E Entertainment
-http://161.132.194.88:6178/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Intl" ,E Entertainment
 http://191.97.49.192:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,E!
@@ -326,8 +238,6 @@ http://168.232.168.242:4000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,E! HD
 http://138.121.15.228:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,E! HD
-http://161.132.194.88:6178/play/a0ry/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,E! HD
 http://167.250.135.246:81/play/a0a1/index.m3u8
 #EXTINF:-1 group-title="Intl" ,El Gourmet
 http://168.181.122.234:8000/play/a025/index.m3u8
@@ -336,23 +246,31 @@ http://168.232.168.242:4000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Intl" ,El Gourmet HD
 http://161.132.108.74:50001/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Intl" ,El Gourmet HD
-http://161.132.194.88:6178/play/a0sm/index.m3u8
-#EXTINF:-1 group-title="Intl" ,El Gourmet HD
 http://167.250.135.246:81/play/a065/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN
-http://168.232.168.242:4000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 1
-http://191.97.49.192:8000/play/a016/index.m3u8
+http://168.232.168.242:4000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 1 HD
 http://191.97.49.192:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 1 HD
+http://138.121.15.228:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 1 HD
+http://161.132.108.74:50001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 1 HD
+http://167.250.135.246:81/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 1 HD
+http://167.250.135.246:81/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 1 HD
+http://167.250.135.246:81/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 1 HD
+http://168.181.122.234:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 1 HD
+http://168.232.168.242:4000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 2
 http://168.232.168.242:4000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 2
 http://191.97.49.192:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 2 HD
 http://161.132.108.74:50001/play/a008/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 2 HD
-http://161.132.194.88:6178/play/a0sj/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 2 HD
 http://167.250.135.246:81/play/a05a/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 2 HD
@@ -363,24 +281,16 @@ http://167.250.135.246:81/play/a05y/index.m3u8
 http://168.181.122.234:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 2 HD
 http://168.232.168.242:4000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 2 Latino
-http://191.97.49.192:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 3
 http://168.232.168.242:4000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 3 HD
 http://161.132.108.74:50001/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 3 HD
-http://161.132.194.88:6178/play/a0sh/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 3 HD
 http://167.250.135.246:81/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 4
-http://161.132.194.88:6178/play/a026/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 4
 http://191.97.49.192:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 4 HD
 http://161.132.108.74:50001/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 4 HD
-http://161.132.194.88:6178/play/a0ow/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 4 HD
 http://167.250.135.246:81/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN 4 HD
@@ -406,43 +316,17 @@ http://138.121.15.228:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN EXTRA HD
 http://161.132.108.74:50001/play/a014/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN EXTRA HD
-http://161.132.194.88:6178/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN EXTRA HD
 http://167.250.135.246:81/play/a08y/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN EXTRA HD
 http://191.97.49.192:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
-http://138.121.15.228:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
-http://152.200.187.238:1010/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
-http://161.132.108.74:50001/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
-http://161.132.194.88:6178/play/a0t3/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
-http://167.250.135.246:81/play/a05i/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
-http://167.250.135.246:81/play/a07j/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
-http://167.250.135.246:81/play/a0a0/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
-http://168.181.122.234:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN HD
-http://168.232.168.242:4000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/kiuMOmg.png" ,ESPN Premium HD
-http://161.132.194.88:6178/play/a0ws/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Food Network HD
 http://191.97.49.192:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FOX Action HD
 http://168.232.168.242:4000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Fox Classic HD
 http://168.232.168.242:4000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,Fox Comedy HD
-http://103.31.103.218:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FOX Comedy HD
 http://168.232.168.242:4000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,Fox Cricket HD
-http://103.31.103.218:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FOX Family HD
 http://168.232.168.242:4000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FOX LIFE
@@ -452,49 +336,27 @@ http://168.232.168.242:4000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,FOX Series HD
 http://168.232.168.242:4000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 1 HD
-http://161.132.194.88:6178/play/a0js/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 1 HD
 http://167.250.135.246:81/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 2
-http://191.97.49.192:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 2 HD
-http://152.200.187.238:1010/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 1 HD
+http://161.132.108.74:50001/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 2 HD
 http://161.132.108.74:50001/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 2 HD
 http://167.250.135.246:81/play/a07e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 2 HD
 http://191.97.49.192:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 2 Latin
-http://161.132.194.88:6178/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 3
-http://161.132.194.88:6178/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 3
-http://191.97.49.192:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 3 HD
 http://161.132.108.74:50001/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 3 HD
-http://161.132.194.88:6178/play/a0si/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 3 HD
 http://167.250.135.246:81/play/a05x/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports 3 HD
 http://168.232.168.242:4000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WgpltO8.png" ,Fox Sports HD
-http://161.132.108.74:50001/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX
-http://161.132.194.88:6178/play/a0vx/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX
 http://168.232.168.242:4000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX
-http://191.97.49.192:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX HD
 http://138.121.15.228:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX HD
-http://152.200.187.238:1010/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX HD
 http://161.132.108.74:50001/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX HD
-http://161.132.194.88:6178/play/a0p2/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX HD
 http://167.250.135.246:81/play/a07i/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/qhuL1n6.png" ,FX HD
@@ -511,16 +373,12 @@ http://161.132.108.74:50001/play/a02k/index.m3u8
 http://168.181.122.234:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden
 http://168.232.168.242:4000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden Edge
-http://161.132.194.88:6178/play/a0ue/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden Edge HD
 http://161.132.108.74:50001/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden HD
 http://138.121.15.228:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden HD
 http://161.132.108.74:50001/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden HD
-http://161.132.194.88:6178/play/a0wk/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden HD
 http://167.250.135.246:81/play/a09x/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/9OZjUzB.png" ,Golden HD
@@ -544,13 +402,9 @@ http://191.97.49.192:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/uQfJ4VH.png" ,GOLPERU HD
 http://161.132.108.74:50001/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/uQfJ4VH.png" ,GOLPERU HD
-http://161.132.194.88:6178/play/a0t9/index.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/uQfJ4VH.png" ,GOLPERU HD
 http://167.250.135.246:81/play/a0a8/index.m3u8
 #EXTINF:-1 group-title="Intl" ,GolTV HD
 http://161.132.108.74:50001/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Intl" ,GolTV HD
-http://161.132.194.88:6178/play/a0t5/index.m3u8
 #EXTINF:-1 group-title="Intl" ,GolTV HD
 http://167.250.135.246:81/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="Intl" ,GolTV HD
@@ -559,30 +413,14 @@ http://191.97.49.192:8000/play/a02l/index.m3u8
 http://168.181.122.234:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Intl" ,H2
 http://168.232.168.242:4000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO
-http://161.132.194.88:6178/play/a0xo/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO
-http://161.132.194.88:6178/play/a0xs/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WsLKuYn.png" ,HBO 2 HD
-http://161.132.194.88:6178/play/a0xp/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WsLKuYn.png" ,HBO 2 HD
-http://161.132.194.88:6178/play/a0xt/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WsLKuYn.png" ,HBO 2 HD
 http://161.132.108.74:50001/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WsLKuYn.png" ,HBO 2 HD
-http://161.132.194.88:6178/play/a0s6/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WsLKuYn.png" ,HBO 2 HD
 http://167.250.135.246:81/play/a096/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/WsLKuYn.png" ,HBO 2 HD
 http://191.97.49.192:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO Family
-http://161.132.194.88:6178/play/a0xq/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO Family
-http://161.132.194.88:6178/play/a0xu/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO Family HD
 http://161.132.108.74:50001/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO Family HD
-http://161.132.194.88:6178/play/a0xw/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO Family HD
 http://167.250.135.246:81/play/a0be/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO Family HD
@@ -592,13 +430,7 @@ http://168.232.168.242:4000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO HD
 http://161.132.108.74:50001/play/a015/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO HD
-http://161.132.194.88:6178/play/a0pl/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO HD
 http://167.250.135.246:81/play/a08z/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO PLUS
-http://161.132.194.88:6178/play/a0xr/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO Plus
-http://161.132.194.88:6178/play/a0xv/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO Plus HD
 http://161.132.108.74:50001/play/a03h/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO Plus HD
@@ -607,8 +439,6 @@ http://168.181.122.234:8000/play/a02x/index.m3u8
 http://168.232.168.242:4000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO Pop HD
 http://161.132.108.74:50001/play/a007/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO POP HD
-http://161.132.194.88:6178/play/a0se/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO POP HD
 http://167.250.135.246:81/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO Signature HD
@@ -620,11 +450,7 @@ http://168.232.168.242:4000/play/a024/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO Xtreme HD
 http://161.132.108.74:50001/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO XTREME HD
-http://161.132.194.88:6178/play/a0m0/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO XTREME HD
 http://167.250.135.246:81/play/a0bf/index.m3u8
-#EXTINF:-1 group-title="Intl" ,HBO XTREME SD
-http://161.132.194.88:6178/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO2 HD
 http://168.181.122.234:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Intl" ,HBO2 HD
@@ -636,23 +462,11 @@ http://160.20.165.246:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Intl" ,History 2 HD
 http://138.121.15.228:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Intl" ,History 2 HD
-http://152.200.187.238:1010/play/a04y/index.m3u8
-#EXTINF:-1 group-title="Intl" ,History 2 HD
 http://161.132.108.74:50001/play/a01w/index.m3u8
 #EXTINF:-1 group-title="Intl" ,History 2 HD
-http://161.132.194.88:6178/play/a0p8/index.m3u8
-#EXTINF:-1 group-title="Intl" ,History 2 HD
 http://167.250.135.246:81/play/a0bd/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/8nvwoXJ.png" ,History Channel
-http://161.132.194.88:6178/play/a005/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/8nvwoXJ.png" ,History Channel
-http://191.97.49.192:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/8nvwoXJ.png" ,History Channel HD
 http://138.121.15.228:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/8nvwoXJ.png" ,History Channel HD
-http://152.200.187.238:1010/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/8nvwoXJ.png" ,History Channel HD
-http://161.132.194.88:6178/play/a0py/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/8nvwoXJ.png" ,History Channel HD
 http://167.250.135.246:81/play/a053/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/8nvwoXJ.png" ,History Channel HD
@@ -666,33 +480,21 @@ http://191.97.49.192:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/napeqGY.png" ,Latina HD
 http://161.132.108.74:50001/play/a029/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/napeqGY.png" ,Latina HD
-http://161.132.194.88:6178/play/a0t8/index.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/napeqGY.png" ,Latina HD
 http://167.250.135.246:81/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/napeqGY.png" ,Latina HD
 http://191.97.49.192:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Love Nature HD
 http://161.132.108.74:50001/play/a01p/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Love Nature HD
-http://161.132.194.88:6178/play/a0jr/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,Love Nature HD
 http://167.250.135.246:81/play/a0b2/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,Movistar Deportes
-http://161.132.194.88:6178/play/a0vd/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Movistar Deportes HD
 http://161.132.108.74:50001/play/a01d/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,Movistar Deportes HD
-http://161.132.194.88:6178/play/a0t1/index.m3u8
 #EXTINF:-1 group-title="NEWVK" ,Movistar Deportes HD
 http://167.250.135.246:81/play/a09v/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Movistar Deportes HD
 http://191.97.49.192:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="NEWVK" ,Movistar Plus+ 2
-http://154.58.202.35:8002/play/a0b7/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/S8UHc0d.png" ,MTV
 http://191.97.49.192:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="Intl" ,MTV 00s
-http://161.132.194.88:6178/play/a0sk/index.m3u8
 #EXTINF:-1 group-title="Intl" ,MTV 00s
 http://167.250.135.246:81/play/a05z/index.m3u8
 #EXTINF:-1 group-title="Intl" ,MTV 00s
@@ -708,8 +510,6 @@ http://154.58.202.194:8000/play/a06u/index.m3u8
 #EXTINF:-1 group-title="Intl" ,MTV HD
 http://161.132.108.74:50001/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Intl" ,MTV HD
-http://161.132.194.88:6178/play/a0tf/index.m3u8
-#EXTINF:-1 group-title="Intl" ,MTV HD
 http://167.250.135.246:81/play/a0b7/index.m3u8
 #EXTINF:-1 group-title="Intl" ,MTV HD
 http://168.181.122.234:8000/play/a02z/index.m3u8
@@ -720,23 +520,15 @@ http://168.232.168.242:4000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="Intl" ,MTV Live HD
 http://161.132.108.74:50001/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Intl" ,MTV LIVE HD
-http://161.132.194.88:6178/play/a0so/index.m3u8
-#EXTINF:-1 group-title="Intl" ,MTV LIVE HD
 http://167.250.135.246:81/play/a07c/index.m3u8
 #EXTINF:-1 group-title="Intl" ,MTV LIVE HD
 http://191.97.49.192:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo
 http://168.232.168.242:4000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo
-http://191.97.49.192:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo HD
 http://138.121.15.228:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo HD
-http://152.200.187.238:1010/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo HD
 http://161.132.108.74:50001/play/a010/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo HD
-http://161.132.194.88:6178/play/a0pg/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo HD
 http://167.250.135.246:81/play/a08u/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo HD
@@ -746,47 +538,33 @@ http://168.232.168.242:4000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/2rGl6ql.png" ,Nat Geo HD
 http://191.97.49.192:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/djomXXj.png" ,Nick
-http://161.132.194.88:6178/play/a002/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/djomXXj.png" ,Nick
 http://168.181.122.234:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/djomXXj.png" ,Nick
 http://168.232.168.242:4000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/djomXXj.png" ,Nick
 http://191.97.49.192:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/djomXXj.png" ,Nick HD
-http://152.200.187.238:1010/play/a058/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/djomXXj.png" ,Nick HD
-http://161.132.194.88:6178/play/a0q7/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/djomXXj.png" ,Nick HD
 http://167.250.135.246:81/play/a05g/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/djomXXj.png" ,Nick HD
 http://161.132.108.74:50001/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Nick Jr
-http://161.132.194.88:6178/play/a0wa/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Nick Jr
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/KeVWE88.png" ,Nick Jr
 http://168.181.122.234:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Nick Jr
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/KeVWE88.png" ,Nick Jr
 http://168.232.168.242:4000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Nick Jr HD
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/KeVWE88.png" ,Nick Jr HD
 http://161.132.108.74:50001/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Nick Junior HD
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/KeVWE88.png" ,Nick Jr HD
 http://161.132.108.74:50001/play/a048/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/0rQ04VN.png" ,Panamericana
 http://191.97.49.192:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Peru" ,Panamericana HD
 http://161.132.108.74:50001/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Intl" ,PARAMOUNT
-http://154.58.202.35:8002/play/a0b2/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Paramount
 http://168.181.122.234:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/QmNVreb.png" ,Paramount
 http://168.232.168.242:4000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/QmNVreb.png" ,Paramount HD
-http://152.200.187.238:1010/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/QmNVreb.png" ,Paramount HD
 http://161.132.108.74:50001/play/a018/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/QmNVreb.png" ,Paramount HD
-http://161.132.194.88:6178/play/a0po/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/QmNVreb.png" ,Paramount HD
 http://167.250.135.246:81/play/a092/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/QmNVreb.png" ,Paramount HD
@@ -801,36 +579,26 @@ http://168.181.122.234:8000/play/a03u/index.m3u8
 http://168.232.168.242:4000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,Playboy HD
 http://191.97.49.192:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="Intl" ,SONY
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Vmdx4Gi.png" ,Sony
 http://160.20.165.245:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Intl" ,SONY
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Vmdx4Gi.png" ,Sony
 http://160.20.165.246:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Sony
-http://161.132.194.88:6178/play/a0xc/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Sony
-http://161.132.194.88:6178/play/a0xd/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Sony Channel HD
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Vmdx4Gi.png" ,Sony HD
 http://161.132.108.74:50001/play/a002/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Sony HD
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Vmdx4Gi.png" ,Sony HD
 http://138.121.15.228:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Sony HD
-http://161.132.194.88:6178/play/a0q0/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Sony HD
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Vmdx4Gi.png" ,Sony HD
 http://167.250.135.246:81/play/a055/index.m3u8
-#EXTINF:-1 group-title="Intl" ,SONY HD
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Vmdx4Gi.png" ,Sony HD
 http://168.181.122.234:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Intl" ,SONY HD
+#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Vmdx4Gi.png" ,Sony HD
 http://168.232.168.242:4000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Sony Movies HD
 http://161.132.108.74:50001/play/a03j/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rBF3Zbw.png" ,Space
-http://161.132.194.88:6178/play/a0vq/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rBF3Zbw.png" ,Space
 http://191.97.49.192:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rBF3Zbw.png" ,Space HD
 http://161.132.108.74:50001/play/a006/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rBF3Zbw.png" ,Space HD
-http://161.132.194.88:6178/play/a0q3/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rBF3Zbw.png" ,Space HD
 http://167.250.135.246:81/play/a058/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/rBF3Zbw.png" ,Space HD
@@ -842,15 +610,7 @@ http://168.232.168.242:4000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel
 http://191.97.49.192:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel HD
-http://138.121.15.228:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel HD
-http://152.200.187.238:1010/play/a057/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel HD
 http://161.132.108.74:50001/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel HD
-http://161.132.194.88:6178/play/a0xe/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel HD
-http://161.132.194.88:6178/play/a0xg/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel HD
 http://167.250.135.246:81/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel HD
@@ -863,14 +623,10 @@ http://168.181.122.234:8000/play/a034/index.m3u8
 http://168.232.168.242:4000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/1xOeTnO.png" ,Star Channel HD
 http://191.97.49.192:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Xaco8bi.png" ,Studio Universal
-http://191.97.49.192:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Xaco8bi.png" ,Studio Universal HD
 http://138.121.15.228:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Xaco8bi.png" ,Studio Universal HD
 http://161.132.108.74:50001/play/a019/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Xaco8bi.png" ,Studio Universal HD
-http://161.132.194.88:6178/play/a0pp/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Xaco8bi.png" ,Studio Universal HD
 http://167.250.135.246:81/play/a093/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/Xaco8bi.png" ,Studio Universal HD
@@ -888,8 +644,6 @@ http://160.20.165.245:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/s8yQqFw.png" ,Telemundo
 http://160.20.165.246:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/s8yQqFw.png" ,Telemundo
-http://161.132.194.88:6178/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/s8yQqFw.png" ,Telemundo
 http://191.97.49.192:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/s8yQqFw.png" ,Telemundo HD
 http://161.132.108.74:50001/play/a02x/index.m3u8
@@ -897,18 +651,10 @@ http://161.132.108.74:50001/play/a02x/index.m3u8
 http://168.181.122.234:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/s8yQqFw.png" ,Telemundo HD
 http://168.232.168.242:4000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Intl" ,TLC
-http://191.97.49.192:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT
-http://161.132.194.88:6178/play/a0vy/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT
-http://191.97.49.192:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT HD
 http://138.121.15.228:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT HD
 http://161.132.108.74:50001/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT HD
-http://161.132.194.88:6178/play/a0w2/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT HD
 http://167.250.135.246:81/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/zh1xsWG.png" ,TNT HD
@@ -916,13 +662,7 @@ http://168.232.168.242:4000/play/a033/index.m3u8
 #EXTINF:-1 group-title="Intl" ,TNT Series HD
 http://138.121.15.228:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Intl" ,TNT Series HD
-http://152.200.187.238:1010/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Intl" ,TNT Series HD
-http://152.200.187.238:1010/play/a050/index.m3u8
-#EXTINF:-1 group-title="Intl" ,TNT Series HD
 http://161.132.108.74:50001/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Intl" ,TNT Series HD
-http://161.132.194.88:6178/play/a0p1/index.m3u8
 #EXTINF:-1 group-title="Intl" ,TNT Series HD
 http://167.250.135.246:81/play/a07h/index.m3u8
 #EXTINF:-1 group-title="Intl" ,TNT Series HD
@@ -934,13 +674,7 @@ http://191.97.49.192:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="Intl" ,TNT Sports HD
 http://161.132.108.74:50001/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Intl" ,TNT SPORTS HD
-http://161.132.194.88:6178/play/a0vr/index.m3u8
-#EXTINF:-1 group-title="Intl" ,TNT SPORTS HD
 http://167.250.135.246:81/play/a059/index.m3u8
-#EXTINF:-1 group-title="Intl" ,TNT Sports Premiun HD
-http://161.132.194.88:6178/play/a0x8/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Tooncast
-http://161.132.194.88:6178/play/a0uk/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Tooncast
 http://168.232.168.242:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/vteY1sN.png" ,TV Peru
@@ -948,13 +682,9 @@ http://191.97.49.192:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Peru" ,TV Peru HD
 http://161.132.108.74:50001/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal
-http://161.132.194.88:6178/play/a007/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal
 http://168.181.122.234:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal
 http://168.232.168.242:4000/play/a037/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal
-http://191.97.49.192:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal CHANNEL
 http://160.20.165.245:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal CHANNEL
@@ -965,60 +695,34 @@ http://138.121.15.228:8000/play/a010/index.m3u8
 http://161.132.108.74:50001/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal CHANNEL HD
 http://167.250.135.246:81/play/a07b/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal CHANNEL TV HD
-http://161.132.194.88:6178/play/a0ou/index.m3u8
 #EXTINF:-1 group-title="Intl" ,UNIVERSAL CINEMA ESTE HD
 http://168.181.122.234:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Universal Cinema HD
 http://161.132.108.74:50001/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Universal Cinema SD
-http://161.132.194.88:6178/play/a0lc/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Universal Comedy HD
 http://161.132.108.74:50001/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Universal Comedy SD
-http://161.132.194.88:6178/play/a0xa/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Universal Comedy SD
-http://161.132.194.88:6178/play/a0xb/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Universal Crime HD
 http://161.132.108.74:50001/play/a03b/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/LrHTcax.png" ,Universal HD
 http://191.97.49.192:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Universal Premier HD
 http://161.132.108.74:50001/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Universal Premiere SD
-http://161.132.194.88:6178/play/a0xh/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Universal Premiere SD
-http://161.132.194.88:6178/play/a0xi/index.m3u8
 #EXTINF:-1 group-title="Intl" ,Universal Reality HD
 http://161.132.108.74:50001/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Intl" ,Venus
-http://161.132.194.88:6178/play/a0vs/index.m3u8
 #EXTINF:-1 group-title="Intl" ,VENUS
 http://168.181.122.234:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Intl" ,VENUS
 http://168.232.168.242:4000/play/a039/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner
-http://161.132.194.88:6178/play/a0ui/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner
-http://191.97.49.192:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner HD
 http://138.121.15.228:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner HD
-http://152.200.187.238:1010/play/a053/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner HD
 http://161.132.108.74:50001/play/a004/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner HD
-http://161.132.194.88:6178/play/a0x7/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner HD
-http://161.132.194.88:6178/play/a0x9/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner HD
 http://167.250.135.246:81/play/a056/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner HD
 http://168.181.122.234:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="https://i.imgur.com/ri6UhuG.png" ,Warner HD
 http://168.232.168.242:4000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/u0pW4aU.png" ,Willax
-http://161.132.194.88:6178/play/a020/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/u0pW4aU.png" ,Willax
 http://191.97.49.192:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/u0pW4aU.png" ,Willax
