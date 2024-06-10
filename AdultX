@@ -16,6 +16,8 @@ http://45.228.234.113:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy
 http://45.5.116.178:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy HD
 http://191.97.49.192:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy HD
 http://38.56.118.88:4000/play/a01v/index.m3u8
@@ -117,10 +119,10 @@ http://live.redtraffic.net/pornstar.m3u8
 http://live.adultiptv.net/pov.m3u8
 #EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,POV
 http://live.redtraffic.net/pov.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Rough
-http://live.redtraffic.net/rough.m3u8
 #EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Rough
 http://live.adultiptv.net/rough.m3u8
+#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Rough
+http://live.redtraffic.net/rough.m3u8
 #EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Russian
 http://live.adultiptv.net/russian.m3u8
 #EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Russian
