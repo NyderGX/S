@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/phs73ug.png" ,* GO SOLUTIONS
+https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/ra1dvnL.png" ,* JUNIO 10
+https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/HlrzfYn.png" ,* DONACIONES
+https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
 #EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy
 http://168.181.122.234:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy
