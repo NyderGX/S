@@ -1,137 +1,137 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/phs73ug.png" ,* GO SOLUTIONS
+#EXTINF:-1 group-title="Info" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/logo.png" ,* GO SOLUTIONS
 https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/ra1dvnL.png" ,* JUNIO 10
+#EXTINF:-1 group-title="Info" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/up.png" ,* JUNIO 10
 https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/HlrzfYn.png" ,* DONACIONES
+#EXTINF:-1 group-title="Info" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/donations.png" ,* DONACIONES
 https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy
 http://168.181.122.234:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy
 http://45.166.92.22:58001/play/a03z/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy
 http://45.167.3.81:45000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy
 http://45.228.234.113:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy
 http://45.5.116.178:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy HD
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy HD
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
 http://191.97.49.192:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy HD
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
 http://38.56.118.88:4000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/iENz2Kn.png" ,*Playboy HD
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
 http://45.179.164.30:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/lTNU7dM.png" ,*VENUS
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://168.181.122.234:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/lTNU7dM.png" ,*VENUS
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://200.37.186.109:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/lTNU7dM.png" ,*VENUS
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://38.199.5.160:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/lTNU7dM.png" ,*VENUS
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://38.56.118.88:4000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/lTNU7dM.png" ,*VENUS
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://45.167.3.81:45000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/lTNU7dM.png" ,*VENUS
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://45.228.234.113:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://i.imgur.com/lTNU7dM.png" ,*VENUS
+#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://45.5.116.178:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Anal
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Anal
 http://live.adultiptv.net/anal.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Anal
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Anal
 http://live.redtraffic.net/anal.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Asian
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Asian
 http://live.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Big Ass
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Big Ass
 http://live.adultiptv.net/bigass.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Big Ass
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Big Ass
 http://live.redtraffic.net/bigass.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Big Dick
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Big Dick
 http://live.adultiptv.net/bigdick.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Big Dick
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Big Dick
 http://live.redtraffic.net/bigdick.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Big Tits
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Big Tits
 http://live.adultiptv.net/bigtits.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Big Tits
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Big Tits
 http://live.redtraffic.net/bigtits.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Blonde
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Blonde
 http://live.adultiptv.net/blonde.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Blonde
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Blonde
 http://live.redtraffic.net/blonde.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Blowjob
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Blowjob
 http://live.adultiptv.net/blowjob.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Blowjob
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Blowjob
 http://live.redtraffic.net/blowjob.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Brunette
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Brunette
 http://live.adultiptv.net/brunette.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Brunette
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Brunette
 http://live.redtraffic.net/brunette.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Compilation
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Compilation
 http://live.adultiptv.net/compilation.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Compilation
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Compilation
 http://live.redtraffic.net/compilation.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Cuckold
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Cuckold
 http://live.adultiptv.net/cuckold.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Cuckold
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Cuckold
 http://live.redtraffic.net/cuckold.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Fetish
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Fetish
 http://live.adultiptv.net/fetish.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Fetish
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Fetish
 http://live.redtraffic.net/fetish.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Gangbang
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Gangbang
 http://live.adultiptv.net/gangbang.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Gangbang
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Gangbang
 http://live.redtraffic.net/gangbang.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Gay
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Gay
 http://live.adultiptv.net/gay.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Gay
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Gay
 http://live.redtraffic.net/gay.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Hardcore
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Hardcore
 http://live.adultiptv.net/hardcore.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Hardcore
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Hardcore
 http://live.redtraffic.net/hardcore.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Interracial
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Interracial
 http://live.adultiptv.net/interracial.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Interracial
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Interracial
 http://live.redtraffic.net/interracial.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Latina
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Latina
 http://live.adultiptv.net/latina.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Latina
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Latina
 http://live.redtraffic.net/latina.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Lesbian
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Lesbian
 http://live.adultiptv.net/lesbian.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Lesbian
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Lesbian
 http://live.redtraffic.net/lesbian.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Live Cams
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Live Cams
 http://live.adultiptv.net/livecams.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Live Cams
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Live Cams
 http://live.redtraffic.net/livecams.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,MILF
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,MILF
 http://live.adultiptv.net/milf.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,MILF
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,MILF
 http://live.redtraffic.net/milf.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Pornstar
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Pornstar
 http://live.adultiptv.net/pornstar.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Pornstar
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Pornstar
 http://live.redtraffic.net/pornstar.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,POV
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,POV
 http://live.adultiptv.net/pov.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,POV
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,POV
 http://live.redtraffic.net/pov.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Rough
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Rough
 http://live.adultiptv.net/rough.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Rough
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Rough
 http://live.redtraffic.net/rough.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Russian
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Russian
 http://live.adultiptv.net/russian.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Russian
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Russian
 http://live.redtraffic.net/russian.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Teen
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Teen
 http://live.adultiptv.net/teen.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Teen
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Teen
 http://live.redtraffic.net/teen.m3u8
-#EXTINF:-1 group-title="AdultX" tvg-logo="https://i.imgur.com/ZXm94Kf.png" ,Threesome
+#EXTINF:-1 group-title="AdultX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_yellow.png" ,Threesome
 http://live.adultiptv.net/threesome.m3u8
-#EXTINF:0 group-title="RedX" tvg-logo="https://i.imgur.com/Avi7SFW.png" ,Threesome
+#EXTINF:0 group-title="RedX" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/adult_red.png" ,Threesome
 http://live.redtraffic.net/threesome.m3u8
