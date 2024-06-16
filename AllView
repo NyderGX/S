@@ -1,10 +1,10 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/phs73ug.png" ,* GO SOLUTIONS
-https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/ra1dvnL.png" ,* JUNIO 10
-https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/HlrzfYn.png" ,* DONACIONES
-https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
+http://imgfz.com/i/5zH0Qwp.png
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* JUNIO 15
+http://imgfz.com/i/5zH0Qwp.png
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
+http://imgfz.com/i/5zH0Qwp.png
 #EXTINF:-1 group-title="Intl" ,A&E
 http://160.20.165.245:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Intl" ,A&E
