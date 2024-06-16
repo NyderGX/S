@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
-http://imgfz.com/i/5zH0Qwp.png
+https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* JUNIO 15
-http://imgfz.com/i/5zH0Qwp.png
+https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
-http://imgfz.com/i/5zH0Qwp.png
+https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Intl" ,A&E
 http://160.20.165.245:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Intl" ,A&E
