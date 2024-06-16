@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
-https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* JUNIO 10
-https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
+http://imgfz.com/i/5zH0Qwp.png
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* JUNIO 15
+http://imgfz.com/i/5zH0Qwp.png
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
-https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
+http://imgfz.com/i/5zH0Qwp.png
 #EXTINF:-1 group-title="Other" tvg-logo="http://imgfz.com/i/Q9HWFh7.png" ,*3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/BkAVra3.png" ,*America TV
@@ -721,8 +721,6 @@ http://138.121.15.228:8000/play/a004/index.m3u8
 http://167.250.135.246:81/play/a055/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/yvZhADe.png" ,Sony HD
 http://168.181.122.234:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/yvZhADe.png" ,Sony HD
-http://168.232.168.242:4000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/lfrTY1W.png" ,Space
 http://191.97.49.193:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/lfrTY1W.png" ,Space
@@ -749,8 +747,6 @@ http://161.132.108.74:50001/play/a019/index.m3u8
 http://167.250.135.246:81/play/a093/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/3FpkvYt.png" ,Studio Universal HD
 http://168.181.122.234:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/3FpkvYt.png" ,Studio Universal HD
-http://168.232.168.242:4000/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/3FpkvYt.png" ,Studio Universal HD
 http://191.97.49.192:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESBD5100001G0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240214T035702SQUARE.png_20240214035703.png" ,SuperToons TV
@@ -797,8 +793,6 @@ http://138.121.15.228:8000/play/a00k/index.m3u8
 http://161.132.108.74:50001/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/i4OIg3v.png" ,TNT HD
 http://167.250.135.246:81/play/a05v/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/i4OIg3v.png" ,TNT HD
-http://168.232.168.242:4000/play/a033/index.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESBD3900002EV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3900002EV_20231101T032823SQUARE.png_20231101032824.png" ,Todo Crimen
 https://i.mjh.nz/SamsungTVPlus/ESBD3900002EV.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESBC43000013T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" ,Todo Novelas
@@ -819,8 +813,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBD1400001L4.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/3zjkKAo.png" ,Universal Channel
 http://168.181.122.234:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/3zjkKAo.png" ,Universal Channel
-http://168.232.168.242:4000/play/a037/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/3zjkKAo.png" ,Universal Channel
 http://160.20.165.245:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/3zjkKAo.png" ,Universal Channel
@@ -859,8 +851,6 @@ http://161.132.108.74:50001/play/a004/index.m3u8
 http://167.250.135.246:81/play/a056/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/LG9lJeg.png" ,Warner HD
 http://168.181.122.234:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/LG9lJeg.png" ,Warner HD
-http://168.232.168.242:4000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESBC170000388" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20231011T082501SQUARE.png_20231011082501.png" ,WaterBear
 https://i.mjh.nz/SamsungTVPlus/ESBC170000388.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESBA330004121" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20230426T015709SQUARE.png_20230426015710.png" ,WildEarth
