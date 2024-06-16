@@ -1,10 +1,10 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Info" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/logo.png" ,* GO SOLUTIONS
-https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/up.png" ,* JUNIO 10
-https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/donations.png" ,* DONACIONES
-https://raw.githubusercontent.com/NyderGX/S/Blur/Donaciones.mp4
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
+http://imgfz.com/i/5zH0Qwp.png
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* JUNIO 15
+http://imgfz.com/i/5zH0Qwp.png
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
+http://imgfz.com/i/5zH0Qwp.png
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy
 http://168.181.122.234:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy
@@ -16,21 +16,13 @@ http://45.228.234.113:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy
 http://45.5.116.178:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
 http://191.97.49.192:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
-http://38.56.118.88:4000/play/a01v/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
 http://45.179.164.30:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://168.181.122.234:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
-http://200.37.186.109:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://38.199.5.160:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
-http://38.56.118.88:4000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
 http://45.167.3.81:45000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
