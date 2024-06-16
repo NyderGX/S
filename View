@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
-http://imgfz.com/i/5zH0Qwp.png
+https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* JUNIO 15
-http://imgfz.com/i/5zH0Qwp.png
+https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
-http://imgfz.com/i/5zH0Qwp.png
+https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Other" tvg-logo="http://imgfz.com/i/Q9HWFh7.png" ,*3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/BkAVra3.png" ,*America TV
