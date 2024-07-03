@@ -23,6 +23,8 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5bf51898-38b6-11ef-be92-b89c8c94e517&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f736233-cffb-4136-a125-fc80dcbb51c6&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Other" tvg-logo="http://imgfz.com/i/XpsALZw.png" ,*CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 group-title="Peru" ,*Doble C Television
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://imgfz.com/i/qRNC1Vz.png" ,*DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/czrxIus.png" ,*GOLPERU HD
@@ -963,6 +965,8 @@ http://rtmp.one.by:2300
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,• Apocalypto (2006)
 https://archive.org/download/apocalypto-2006-online-latino-castellano-y-subtitulada/Apocalypto%20%282006%29%20Online%20Latino%2C%20Castellano%20y%20Subtitulada.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,• GTAV_ PRUEBA STREAM 1
+https://download854.mediafire.com/wugl85jrgyrgarr2rj9Sat6IH75JZg2osq129--GiPI26vCRbpdMxvmsDdSfH3wHPVHCBxjL-ZxyBMJSbOVZEym2vwY2cOcao4xUXR4dVfaHY5GKFgJvxt-XYafb7QxFyF2Oo7NG9zV4iwY4kUZnOuLz0YKlQZBSZpVj0_kkYDo/1hw5hrlbgxtgd0i/2023-05-27+Mis+armas+GTA+V.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,• Hazme El Favor (2023)
 https://archive.org/download/pelis-recien-agregadas/Hazme%20el%20favor.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,• Stuart Little 1 (1999)
