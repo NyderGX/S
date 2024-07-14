@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* JUNIO 15
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* JULIO 13
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
@@ -15,8 +15,6 @@ http://45.167.3.81:45000/play/a00q/index.m3u8
 http://45.228.234.113:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy
 http://45.5.116.178:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
-http://191.97.49.192:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/playboy.png" ,*Playboy HD
 http://45.179.164.30:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://raw.githubusercontent.com/NyderGX/X/Blur/venus.png" ,*VENUS
