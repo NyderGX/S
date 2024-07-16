@@ -1,14 +1,14 @@
 #EXTM3U 
+#EXTINF:-1 group-title="Peru" tvg-logo="https://imgfz.com/i/BkAVra3.png" ,*America TV
+http://200.37.186.109:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Peru" tvg-logo="https://imgfz.com/i/BkAVra3.png" ,*America TV HD
+http://200.37.186.109:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* JULIO 15
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
-#EXTINF:-1 group-title="Peru" tvg-logo="https://imgfz.com/i/BkAVra3.png" ,*America TV
-http://200.37.186.109:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
-#EXTINF:-1 group-title="Peru" tvg-logo="https://imgfz.com/i/BkAVra3.png" ,*America TV HD
-http://200.37.186.109:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/AZtaeDJ.png" ,*ATV HD
 https://alba-pe-atv-atv.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/AZtaeDJ.png" ,*ATV Sur HD
@@ -31,8 +31,8 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 group-title="Peru" ,*Movistar Deportes HD
 http://200.60.124.19:29000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/5zogZEV.png" ,*Panamericana HD
-https://live-c.cf.dmcdn.net/sec2(1bTj2o_saAK0PWo5_Mu9Ep5EvMJxVrXNs0Kj7jx-l4iHmHvmybXIogx02UJVW5owqo87hvksgI83S95gHTapKrMsYKC_gairICzXdrURkjQ)/dm/3/x774s7s/s/live-3.m3u8
+#EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/5zogZEV.png" ,*Panamericana
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://imgfz.com/i/fBtS3Ld.png" ,*RedBull
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/pe/en/playlist.m3u8
 #EXTINF:-1 group-title="Peru" ,*RPP
@@ -45,9 +45,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 http://200.37.186.109:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://imgfz.com/i/02TBmuU.png" ,*Willax
 http://200.60.124.19:29000/play/a06s/index.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://imgfz.com/i/02TBmuU.png" ,*Willax (TEST)
-https://live-b.cf.dmcdn.net/sec2(IA_XuHyVZ79WkhsOf1HQIABkgQYYpoKEjY-ZpyVwLyQ-n2eZ3vhMDsVupAgzR4Cjd8cXkEH0gR04RFgGHG4kqoewa2SeA_7vc9H5FGOc4vc)/dm/3/x7x4dgx/s/live-1.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://imgfz.com/i/02TBmuU.png" ,*Willax HD (TEST)
+#EXTINF:-1 group-title="Peru" tvg-logo="https://imgfz.com/i/02TBmuU.png" ,*Willax HD
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10311.m3u8
 #EXTINF:-1 group-title="Chile" tvg-id="1435" tvg-name="+Cine" tvg-logo="http://imgfz.com/i/1VZUXw5.png" ,+Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
