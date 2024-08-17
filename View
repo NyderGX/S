@@ -1,9 +1,9 @@
 #EXTM3U 
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
+https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* AGOSTO 17
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
-https://github.com/NyderGX/S/raw/Blur/Info.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/BkAVra3.png" ,*America TV
 http://138.84.51.68:8000/play/a01d/index.m3u8
