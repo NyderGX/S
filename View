@@ -1,12 +1,10 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* AGOSTO 25
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* AGOSTO 17
+#EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
-#EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/BkAVra3.png" ,*America TV
-http://138.84.51.68:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/BkAVra3.png" ,*America TV HD
 http://200.37.186.109:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/AZtaeDJ.png" ,*ATV HD
@@ -15,6 +13,8 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/original.m3u8
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/live2/alba-pe-atv-atvsur_720p/playlist.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/an8o6ul.png" ,*ATV+ HD
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1 group-title="Chile" ,*Cinema+
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/O7vc0Xo.png" ,*Doble C Television
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://imgfz.com/i/qRNC1Vz.png" ,*DW Español
@@ -29,6 +29,8 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/5zogZEV.png" ,*Panamericana
 https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 group-title="Chile" tvg-logo="http://imgfz.com/i/7WMIFd4.png" ,*PlanetaTV
+https://scl.edge.grupoz.cl/planetatv/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://imgfz.com/i/fBtS3Ld.png" ,*RedBull
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/pe/en/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://imgfz.com/i/3Raxbdh.png" ,*RT en Español
@@ -143,8 +145,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5bf50b64-38b6-11ef-82c6-b89c8c94e517&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4951ad2a-8f7b-4025-88fc-62ede7aee52f&userId=&serverSideAds=true
 #EXTINF:0 group-title="PlutoTV+" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" ,Cine ¡¡jaja!!
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5bf50ad8-38b6-11ef-95c1-b89c8c94e517&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49dbe0c8-1980-49d5-97d3-21fdd8fd054e&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Chile" ,Cinema+
-https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESBC2700011AZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20230208T013048SQUARE.png_20230208013048.png" ,Cines Verdi TV
 https://jmp2.uk/SamsungTVPlus/ESBC2700011AZ.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" ,Clan
@@ -157,8 +157,6 @@ https://jmp2.uk/SamsungTVPlus/ESBD36000026Z.m3u8
 http://168.181.122.234:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/vcKt4uT.png" ,CNN ES
 http://45.170.225.212:48001/play/a08l/index.m3u8
-#EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/vcKt4uT.png" ,CNN ES
-http://45.179.164.30:8000/play/a08q/index.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESBD190000137" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20230614T005931SQUARE.png_20230614005932.png" ,CNN FAST
 https://jmp2.uk/SamsungTVPlus/ESBD190000137.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESAJ3800005C5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20240402T134057SQUARE.png" ,Comedia Made in Spain
@@ -521,8 +519,6 @@ https://jmp2.uk/SamsungTVPlus/ESBD1400002W4.m3u8
 https://jmp2.uk/PlutoTV/64f6163a30ab3300083d870e-alt.m3u8
 #EXTINF:-1 group-title="SamsungTVPlus" tvg-id="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" ,Pitufo TV
 https://jmp2.uk/SamsungTVPlus/ESBD130000205.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="http://imgfz.com/i/7WMIFd4.png" ,PlanetaTV
-https://scl.edge.grupoz.cl/planetatv/live/playlist.m3u8
 #EXTINF:-1 group-title="PlutoTV" tvg-id="5dd6d935d000120009bc1132" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" ,Pluto TV  Competencias
 https://jmp2.uk/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 #EXTINF:-1 group-title="PlutoTV" tvg-id="5defde6d6c07b50009cf0757" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" ,Pluto TV  Nuestro Cine
