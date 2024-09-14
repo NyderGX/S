@@ -203,6 +203,8 @@ https://jmp2.uk/sam-ESBC2700012RP.m3u8
 https://jmp2.uk/sam-ESBD800001RJ.m3u8
 #EXTINF:0 group-title="Películas" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" ,Cine Premiere
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2fa619a-72a4-11ef-ade1-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5f01ff4-176a-4b2e-bf32-c30a9078270e&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" ,Cine Sueño
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:0 group-title="Películas" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" ,Cine terror
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2fa651e-72a4-11ef-a7ca-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=779cef79-650a-4457-afcd-f64525a2ceab&userId=&serverSideAds=true
 #EXTINF:0 group-title="Películas" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" ,Cine XOXO
@@ -563,6 +565,10 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-666e1af3d91d13cb4c8cbb6d.m3u8
 https://jmp2.uk/sam-ESBD3600001Q1.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-id="63211ba9cad976000794f988" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" ,La Selección
 https://jmp2.uk/plu-63211ba9cad976000794f988-alt.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" ,LAS ESTRELLAS 2.1
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" ,LAS ESTRELLAS 2.1 UHD
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3?mp2t
 #EXTINF:-1 group-title="Infantil" tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" ,Las Pistas de Blue
 https://jmp2.uk/plu-5f9996533c9de3000759ccb5-alt.m3u8
 #EXTINF:-1 group-title="Drama" tvg-id="ESBA3300027H5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300027H5_20240911T163351SQUARE.png" ,Las Reglas Del Juego
@@ -693,6 +699,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
 #EXTINF:-1 group-title="Drama" tvg-id="608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png" ,Mutant X
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" ,MY TIME ESPAÑA
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" ,MY TIME MEXICO
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="ES30000091V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20240910T050427SQUARE.png" ,MyPadel TV
 https://jmp2.uk/sam-ES30000091V.m3u8
 #EXTINF:-1 group-title="Películas" tvg-id="ESBA2200004G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png" ,MyTime Movie Network
@@ -947,8 +957,14 @@ https://jmp2.uk/sam-ESBD2300003S5.m3u8
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="ES3000010YY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000010YY_20240910T050416SQUARE.png" ,Rantaró, El Ninja Boy
 https://jmp2.uk/sam-ES3000010YY.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" ,RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="En Español" tvg-id="608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13" tvg-logo="https://provider-static.plex.tv/epg/cms/production/114ff770-db66-459b-bc19-3ef4bfffe712/rcn-mas.png" ,RCN Más
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" ,RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Mexico" ,Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Series" tvg-id="64ff270f30ab3300084e259c" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" ,Rookie Blue: Policías Novatos
 https://jmp2.uk/plu-64ff270f30ab3300084e259c-alt.m3u8
 #EXTINF:-1 group-title="Estilo de Vida" tvg-id="ESBD1400003QN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20240313T073246SQUARE.png" ,Royalworld - Nobleza y Dinastias
@@ -1003,8 +1019,18 @@ https://jmp2.uk/sam-ESBD2300004Y7.m3u8
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327.m3u8
 #EXTINF:0 group-title="En Español" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" ,Sony Canal Escape Perfecto
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2fa76d0-72a4-11ef-a77c-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0b9ee68-cbeb-4151-872b-f3d4afe6c1e1&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" ,Sony Channel
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" ,Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png" ,Sony Competencias
+https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/yvZhADe.png" ,Sony HD
 http://168.181.122.234:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" ,Sony Movies
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://salvatv.net/wp-content/uploads/2022/10/65654987.jpg" ,Sony Novelas
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="South Park" tvg-id="6650bf1a3d173b00081c8279" tvg-logo="https://images.pluto.tv/channels/6650bf1a3d173b00081c8279/colorLogoPNG.png" ,South Park: Celebrities
 https://jmp2.uk/plu-6650bf1a3d173b00081c8279-alt.m3u8
 #EXTINF:-1 group-title="South Park" tvg-id="65df731cec9fda0008b7aa8d" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png" ,South Park: Colección Cartman
@@ -1071,6 +1097,10 @@ http://200.60.124.19:29000/play/a01g/index.m3u8
 http://38.188.178.95:10800/play/a0fx/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/FNpKo8x.png" ,Telemundo
 http://45.170.225.212:48001/play/a088/index.m3u8
+#EXTINF:-1 group-title="Mexico" ,Telemundo 51 MIAMI
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://www.samsung.com/us/es/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/01202022/telemundoAlDia_circle.png" ,Telemundo Al Día
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/FNpKo8x.png" ,Telemundo HD
 http://45.167.3.81:45000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/FNpKo8x.png" ,Telemundo HD
@@ -1081,6 +1111,8 @@ http://45.5.117.182:8000/play/a0fo/index.m3u8
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2fa7c34-72a4-11ef-a323-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=756b2166-598a-4700-9ad6-12b21a593710&userId=&serverSideAds=true
 #EXTINF:0 group-title="En Español" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" ,Telemundo telenovelas clásicas
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2fa68ac-72a4-11ef-b0e8-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a648899-a008-4c2b-a452-ac0ef7f7606f&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/EBkFVPb.png" ,Televisa Novelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 #EXTINF:-1 group-title="Estilo de Vida" tvg-id="ESBC1700002IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png" ,Televisión Consciente
 https://jmp2.uk/sam-ESBC1700002IM.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="ESBD2600001ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" ,Tennis Channel
@@ -1129,6 +1161,8 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995.m3u8
 https://jmp2.uk/plu-5ff608e60e2996000768c366-alt.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" ,Toon Goggles en Español
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" ,Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 group-title="Motor" tvg-id="ESAJ2900001Y3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20240911T163331SQUARE.png" ,Top Gear en Español
 https://jmp2.uk/sam-ESAJ2900001Y3.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png" ,Top Rank Classics
@@ -1153,6 +1187,8 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-656fb965cb7e8e6a9bc3f370.m3u8
 https://jmp2.uk/sam-ESBD1400001L4.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://images.pluto.tv/channels/661827ffe8fba800086b217d/colorLogoPNG.png" ,Triton Poker
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/661827ffe8fba800086b217d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2f9b498-72a4-11ef-a84e-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7691e7e0-e579-4051-8a3e-b52d526b8586&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" ,Tu Cine
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e1cfac6a-9e69-443a-b14c-c99e2cb50ead/UFC_logo_WHT_1500x1000.png" ,UFC
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="608049aefa2b8ae93c2c3a63-64e6eff227a915f9b5184e9e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63ad0b3b-b708-4160-896c-a7c5e11b36e0/Ultimate_Classic_Wrestling_-_WHiteRDX.png" ,Ultimate Classic Wrestling
@@ -1203,6 +1239,10 @@ https://jmp2.uk/sam-ESBC3900002L8.m3u8
 https://jmp2.uk/sam-ESBC3900001G6.m3u8
 #EXTINF:-1 group-title="Música" tvg-id="608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" ,VR+
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3.m3u8
+#EXTINF:-1 group-title="Mexico" ,WAPA
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+#EXTINF:-1 group-title="Mexico" ,WAPA DEPORTES
+https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/LG9lJeg.png" ,Warner
 http://45.228.234.113:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/LG9lJeg.png" ,Warner
