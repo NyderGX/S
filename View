@@ -93,16 +93,16 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811.m3u8
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="65cf60d166eec80008724e6f" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" ,Azteca Deportes Premium
 https://jmp2.uk/plu-65cf60d166eec80008724e6f-alt.m3u8
-#EXTINF:-1 group-title="En Español" tvg-id="608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" ,Azteca Internacional
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" ,Azteca Internacional
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="646cce4d1593940008a33f09" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" ,Azteca Internacional
 https://jmp2.uk/plu-646cce4d1593940008a33f09-alt.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="ESBD1300004IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20231115T012149SQUARE.png_20231115012149.png" ,Azteca Internacional
 https://jmp2.uk/sam-ESBD1300004IG.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a11b1ba3-d109-45ec-a87e-4312bad0682c/uno-hora_color_logodrx.png" ,AZTECA UNO -1 hora
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="646ccc7a2858cb0008127367" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" ,Azteca UNO -1 hora
 https://jmp2.uk/plu-646ccc7a2858cb0008127367-alt.m3u8
-#EXTINF:-1 group-title="Hit TV, En Español" tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a11b1ba3-d109-45ec-a87e-4312bad0682c/uno-hora_color_logodrx.png" ,AZTECA UNO -1 hora
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-id="619d5e6a093e7c0007489211" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" ,Baby Shark TV
 https://jmp2.uk/plu-619d5e6a093e7c0007489211-alt.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-id="5ebac49ce4dc8b00078b23bc" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" ,Babyfirst
@@ -223,7 +223,7 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5.m3u8
 https://jmp2.uk/sam-ESBC4100003WE.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="6320d2755e54db000783fd87" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" ,Claro Sports Mexico
 https://jmp2.uk/plu-6320d2755e54db000783fd87-alt.m3u8
-#EXTINF:0 group-title="Westerns" tvg-logo="https://images.pluto.tv/channels/6661f3fb3d173b0008458726/colorLogoPNG.png" ,Classic Movie Westerns
+#EXTINF:0 group-title="Películas" tvg-logo="https://images.pluto.tv/channels/6661f3fb3d173b0008458726/colorLogoPNG.png" ,Classic Movie Westerns
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6661f3fb3d173b0008458726/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2f93676-72a4-11ef-a28b-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b2af627-222a-4da9-b810-48a66446cb8a&userId=&serverSideAds=true
 #EXTINF:0 group-title="Música" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" ,Classica
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2fa8dbe-72a4-11ef-81d3-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e9c37e1-5929-4d8c-ab57-ff2a2fcc6de7&userId=&serverSideAds=true
@@ -597,13 +597,13 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0.m3u8
 https://jmp2.uk/plu-5e3ddbd27091820009f86dd9-alt.m3u8
 #EXTINF:-1 group-title="Competencia" tvg-id="64bed7005dc16600089b84e9" tvg-logo="https://images.pluto.tv/channels/64bed7005dc16600089b84e9/colorLogoPNG.png" ,MasterChef Junior
 https://jmp2.uk/plu-64bed7005dc16600089b84e9-alt.m3u8
-#EXTINF:-1 group-title="Hit TV, Game Shows" tvg-id="608049aefa2b8ae93c2c3a63-657221540c7d9b1f1ebc515b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/007599ee-1005-478f-8da1-e1bf0c9998c6/MasterchefMexico_Logo_Light_1500x1000_-_Harry_Marshall.png" ,MasterChef Mexico
+#EXTINF:-1 group-title="Estilo de Vida" tvg-id="608049aefa2b8ae93c2c3a63-657221540c7d9b1f1ebc515b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/007599ee-1005-478f-8da1-e1bf0c9998c6/MasterchefMexico_Logo_Light_1500x1000_-_Harry_Marshall.png" ,MasterChef Mexico
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-657221540c7d9b1f1ebc515b.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6843c3b-df90-45b6-a7d5-c166c8f57ca5/mavtv-motorsports-logo_color_WHITE.png" ,MAVTV Motorsports Network
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136.m3u8
 #EXTINF:-1 group-title="En Español" tvg-id="608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e0d70842-cd76-4c63-9774-97925f6bb4fa/MEGANOTICIAS_CLEAN_LOGO_FINAL_White.png" ,MegaNoticias
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35.m3u8
-#EXTINF:-1 group-title="Food & Home, En Español" tvg-id="608049aefa2b8ae93c2c3a63-666e1c83d91d13cb4c8cbb71" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" ,Mi Casa
+#EXTINF:-1 group-title="Estilo de Vida" tvg-id="608049aefa2b8ae93c2c3a63-666e1c83d91d13cb4c8cbb71" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" ,Mi Casa
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-666e1c83d91d13cb4c8cbb71.m3u8
 #EXTINF:-1 group-title="Curiosidad" tvg-id="656e2536fbc15b00084ae29d" tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png" ,Mi Coche Clásico
 https://jmp2.uk/plu-656e2536fbc15b00084ae29d-alt.m3u8
@@ -637,7 +637,7 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495.m3u8
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6408c82eebb23ab878e8ddbb.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" ,MotorTrend FAST TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2f9b70e-72a4-11ef-9b43-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38e99d63-a0a9-4a50-8553-41b48b051365&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Motor" tvg-id="ESBD3200001EG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20230913T030604SQUARE.png_20230913030605.png" ,Motorvision
+#EXTINF:-1 group-title="Deportes" tvg-id="ESBD3200001EG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20230913T030604SQUARE.png_20230913030605.png" ,Motorvision
 https://jmp2.uk/sam-ESBD3200001EG.m3u8
 #EXTINF:-1 group-title="Curiosidad" tvg-id="60e5ea9a9bb4200008376f76" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" ,Motorvision TV
 https://jmp2.uk/plu-60e5ea9a9bb4200008376f76-alt.m3u8
@@ -1075,11 +1075,11 @@ https://jmp2.uk/sam-ESBD5100001G0.m3u8
 https://jmp2.uk/sam-ESBA140000460.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="608049aefa2b8ae93c2c3a63-656fbbd6dbcce28c3a41741b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d412f7b-1d40-4032-a61a-b97d5f56951a/Surfer_Dark_BG_-_Geoff_Clark.png" ,Surfer
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-656fbbd6dbcce28c3a41741b.m3u8
-#EXTINF:-1 group-title="Hit TV, Reality" tvg-id="608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06b112af-4009-4830-9313-6e393ee8e579/SurvivorMexico_Logo_Light_1500x1000_-_Harry_Marshall.png" ,Survivor Mexico
+#EXTINF:-1 group-title="Reality" tvg-id="608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06b112af-4009-4830-9313-6e393ee8e579/SurvivorMexico_Logo_Light_1500x1000_-_Harry_Marshall.png" ,Survivor Mexico
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d.m3u8
 #EXTINF:-1 group-title="Estilo de Vida" tvg-id="5f998c1fc54853000797bacd" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" ,Tastemade
 https://jmp2.uk/plu-5f998c1fc54853000797bacd-alt.m3u8
-#EXTINF:-1 group-title="Food & Home, Lifestyle" tvg-id="608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png" ,Tastemade en Español
+#EXTINF:-1 group-title="Estilo de Vida" tvg-id="608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png" ,Tastemade en Español
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="63ceb6ff60bc8f00088dc625" tvg-logo="https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png" ,Teatrix
 https://jmp2.uk/plu-63ceb6ff60bc8f00088dc625-alt.m3u8
@@ -1163,7 +1163,7 @@ https://jmp2.uk/plu-5ff608e60e2996000768c366-alt.m3u8
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" ,Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 group-title="Motor" tvg-id="ESAJ2900001Y3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20240911T163331SQUARE.png" ,Top Gear en Español
+#EXTINF:-1 group-title="Deportes" tvg-id="ESAJ2900001Y3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20240911T163331SQUARE.png" ,Top Gear en Español
 https://jmp2.uk/sam-ESAJ2900001Y3.m3u8
 #EXTINF:0 group-title="Sports" tvg-logo="https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png" ,Top Rank Classics
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d160f53c785e0008df525e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2f9aa34-72a4-11ef-a1f4-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76ca1f06-3cca-431c-b1ac-dcf42458923e&userId=&serverSideAds=true
@@ -1357,6 +1357,8 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 http://vod.tuxchannel.mx/peliculas/720/amityville%20the%20awakening.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/ovIX8JQSh58GKhYlhIhJohVqEaj.jpg" ,Angela (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Angela%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Animal_Crossing_La_pelicula
+https://archive.org/download/Peliculas-wii/_PWS%20HD%20-%20Animal%20Crossing%20La%20pelicula.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg" ,Animales Fantásticos 3 (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/6295211c4c1dd_85AFLSDDNumero4k_A.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg" ,Anna Nicolle
@@ -1437,6 +1439,8 @@ https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Calabozos%20%26%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/6yx14lSACNJ2zRoYyXqecf3QNgr.jpg" ,Carga máxima (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Carga%20M%C3%A1xima%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Cars_1
+https://archive.org/download/Peliculas-wii/Cars%201.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg" ,Cassandro
 http://208.88.245.85/nuevo/casandro.2023dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/7rvWV0DICTqCqbcG2WB3JjILSqP.jpg" ,Cazador de demonios (2012)
@@ -1457,6 +1461,10 @@ http://vod.tuxchannel.mx/peliculas/720/chilangolandia%202021.mkv
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2F%E2%96%B7%20Ver%20Chip%20y%20Dale-%20Al%20Rescate%20(2022)%20Pel%C3%ADcula%20Online%20Latino.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg" ,Chupa (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Chupa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Cigueñas
+https://archive.org/download/Peliculas-wii/Cigue%C3%B1as.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Club_de_los_Villanos_de_Mickey_Mouse
+https://archive.org/download/Peliculas-wii/Club%20de%20los%20Villanos%20de%20Mickey%20Mouse.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,COBRA KAI T5 SERIE
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Turno%20de%20d%C3%ADa%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/WihoHaU9yvhhdoSqDAhiIlNN8g.jpg" ,Condena brutal (1989)
@@ -1497,6 +1505,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20christmas%20chronicles%202%202020.m
 http://208.88.245.85/nuevo/cuando.termines.dsalvar.almundo.2023dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg" ,Cuatro Fantásticos (2015)
 http://vod.tuxchannel.mx/peliculas/720/the%20fantastic%20four.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Cuentos_de_Terramar
+https://archive.org/download/Peliculas-wii/Cuentos%20de%20Terramar.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg" ,Cuiden a maya
 http://208.88.245.85/nuevo/cuiden.a.maya.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg" ,Cuiden a maya
@@ -1565,6 +1575,10 @@ http://vod.tuxchannel.mx/peliculas/720/dracula%20untold.mkv
 http://vod.tuxchannel.mx/peliculas/720/dejame%20entrar.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/9S50foUIYGwiNPWOxi1WJF6IPwI.jpg" ,Día de la Independencia: contraataque (2016)
 http://vod.tuxchannel.mx/peliculas/720/independence%20day%20-%20resurgence.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,E.T._El_Extraterrestre
+https://archive.org/download/Peliculas-wii/E.T.%20El%20Extraterrestre.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Earwig_y_la_bruja
+https://archive.org/download/Peliculas-wii/Earwig%20y%20la%20bruja.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg" ,El amanecer de los muertos (2004)
 http://vod.tuxchannel.mx/peliculas/720/dawn%20of%20the%20dead.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/aSgl2DxPG3DuQXoaHr500KeULmT.jpg" ,El amante de Lady Chatterley (2022)
@@ -1717,12 +1731,28 @@ http://vod.tuxchannel.mx/peliculas/720/the%20last%20samurai.mkv
 http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg" ,El único (2001)
 http://vod.tuxchannel.mx/peliculas/720/the%20one.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_castillo_en_el_cielo
+https://archive.org/download/Peliculas-wii/El%20castillo%20en%20el%20cielo.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_cuento_de_la_princesa_Kaguya
+https://archive.org/download/Peliculas-wii/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_increible_castillo_vagabundo
+https://archive.org/download/Peliculas-wii/El%20increible%20castillo%20vagabundo.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_mundo_secreto_de_Arrietty
+https://archive.org/download/Peliculas-wii/El%20mundo%20secreto%20de%20Arrietty.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_recuerdo_de_Marnie
+https://archive.org/download/Peliculas-wii/El%20recuerdo%20de%20Marnie.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_regreso_del_gato
+https://archive.org/download/Peliculas-wii/El%20regreso%20del%20gato.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_viaje_de_Chihiro
+https://archive.org/download/Peliculas-wii/El%20viaje%20de%20Chihiro.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg" ,Elemental
 http://208.88.245.85/nuevo/elemental.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg" ,Elemental
 http://208.88.245.85/nuevo/elemental.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg" ,Elemental (2023) (CAM)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Elemental%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Elementos
+https://archive.org/download/Peliculas-wii/Elementos.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg" ,Ellas quieren más
 http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg" ,Elysium (2013)
@@ -1735,6 +1765,8 @@ http://vod.tuxchannel.mx/peliculas/720/american%20siege%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/embrion%202020.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/rKvCys0fMIIi1X9rmJBxTPLAtoU.jpg" ,En Todas Partes Al Mismo Tiempo (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Todo%20En%20Todas%20Partes%20Al%20Mismo%20Tiempo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Encanto
+https://archive.org/download/Peliculas-wii/Encanto.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg" ,Enterrando una Ambición (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Enterrando%20una%20ambici%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg" ,Escalofrios 1 (2015)
@@ -1779,6 +1811,10 @@ http://vod.tuxchannel.mx/peliculas4k/clash%20of%20the%20titans.mkv
 http://vod.tuxchannel.mx/peliculas4k/wrath%20of%20the%20titans.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/ibFdvidQgmBvDSMRW39sAu8P4zn.jpg" ,Gabriel (2007)
 http://vod.tuxchannel.mx/peliculas/720/gabriel%202007.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Garfield_1
+https://archive.org/download/Peliculas-wii/Garfield%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Garfield_2
+https://archive.org/download/Peliculas-wii/Garfield%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/fmeAJDa4Tf11lhCWVFYhOzLGFTL.jpg" ,Garra (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2F%E2%96%B7%20Ver%20Garra%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg" ,Geo-tormenta (2017)
@@ -1803,6 +1839,8 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://pomf2.lain.la/f/xe3lr0x2.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg" ,Hacia la libertad (2022)
 http://208.88.245.85/nuevo/emancipation.dual.2022.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Han_Solo_-_Una_historia_de_Star_Wars
+https://archive.org/download/Peliculas-wii/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg" ,Hardcore Henry (2015)
 http://vod.tuxchannel.mx/peliculas/720/hardcore%20henry.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/1EnBjTJ5utgT1OXYBZ8YwByRCzP.jpg" ,Hart (2023)
@@ -1879,6 +1917,8 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisagosto%2F%E2%96%B7%20Ver%20Jungle%20Cruise%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg" ,Justicia implacable (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2Fjusticia%20impacable.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Kiki_-_Entregas_a_domicilio
+https://archive.org/download/Peliculas-wii/Kiki%20-%20Entregas%20a%20domicilio.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/xn6t1nYJaUMmudnHHiK390AORNu.jpg" ,Kill Command (2016)
 http://vod.tuxchannel.mx/peliculas/720/kill%20command.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/kEyi52oFS45X5sb78kAMnfrenxm.jpg" ,King: Regreso a casa (2022)
@@ -1981,6 +2021,78 @@ http://208.88.245.85/nuevo/la.sirenita.2023dual.mkv
 http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/ublJIJbc2NZ30ptXj4O2d2apo1t.jpg" ,La última gran estafa (2020)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20La%20%C3%9Altima%20Estafa%20(2020)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Aventuras_en_el_espacio
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Aventuras%20en%20el%20espacio.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Daisy_la_Pastorcita
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Daisy%20la%20Pastorcita.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Donald_incuba_un_huevo
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Donald%20incuba%20un%20huevo.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_arcoiris_de_Minnie
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20arcoiris%20de%20Minnie.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_capitan_Mickey
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20capitan%20Mickey.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_chef_Goofy_en_accion
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20chef%20Goofy%20en%20accion.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_concierto_de_la_gran_banda_de_Mickey
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20concierto%20de%20la%20gran%20banda%20de%20Mickey.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_cuento_de_Pluto
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20cuento%20de%20Pluto.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_mago_de_Dizz
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20mago%20de%20Dizz.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_mousekecalendario_de_Minnie
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20mousekecalendario%20de%20Minnie.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_muu-sical_de_Clarabella
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20muu-sical%20de%20Clarabella.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_parque_de_diversiones_de_Clarabella
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20parque%20de%20diversiones%20de%20Clarabella.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_El_rock_de_la_casa_de_Mickey
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20rock%20de%20la%20casa%20de%20Mickey.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Goofy_el_constructor
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Goofy%20el%20constructor.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_La_aventura_en_colores_de_Mickey
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20aventura%20en%20colores%20de%20Mickey.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_La_busqueda_de_las_piezas_de_la_casa_de_Mickey
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20busqueda%20de%20las%20piezas%20de%20la%20casa%20de%20Mickey.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_La_coleta_de_Daisy
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20coleta%20de%20Daisy.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_La_entrega_especial_para_Donald
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20entrega%20especial%20para%20Donald.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_La_exhibicion_de_moños_de_invierno_de_Minnie
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20exhibicion%20de%20mo%C3%B1os%20de%20invierno%20de%20Minnie.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_La_fiesta_de_te_de_Minnie_Marciana
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20fiesta%20de%20te%20de%20Minnie%20Marciana.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_La_granja_infantil_de_Goofy
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20granja%20infantil%20de%20Goofy.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Lluvia_para_las_flores_de_Minnie_y_Daisy
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Lluvia%20para%20las%20flores%20de%20Minnie%20y%20Daisy.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Mickey_en_el_pais_de_las_maravillas
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Mickey%20en%20el%20pais%20de%20las%20maravillas.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Mickey_y_Donald_tienen_una_granja
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Mickey%20y%20Donald%20tienen%20una%20granja.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Mickey_y_el_huevo_encantado
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Mickey%20y%20el%20huevo%20encantado.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Minnie_Cienta
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Minnie%20Cienta.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_casa_de_Mickey_Mouse_-_Minnie_la_estrella_pop
+https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Minnie%20la%20estrella%20pop.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_colina_de_las_Amapolas
+https://archive.org/download/Peliculas-wii/La%20colina%20de%20las%20Amapolas.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_gran_aventura_Lego_1
+https://archive.org/download/Peliculas-wii/La%20gran%20aventura%20Lego%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_gran_pelicula_de_Piglet
+https://archive.org/download/Peliculas-wii/La%20gran%20pelicula%20de%20Piglet.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_Oveja_Shaun_-_La_pelicula
+https://archive.org/download/Peliculas-wii/La%20Oveja%20Shaun%20-%20La%20pelicula.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_pelicula_de_Stitch
+https://archive.org/download/Peliculas-wii/La%20pelicula%20de%20Stitch.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_pelicula_de_Tigger
+https://archive.org/download/Peliculas-wii/La%20pelicula%20de%20Tigger.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_princesa_Mononoke
+https://archive.org/download/Peliculas-wii/La%20princesa%20Mononoke.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_tortuga_roja
+https://archive.org/download/Peliculas-wii/La%20tortuga%20roja.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_tumba_de_las_Luciernagas
+https://archive.org/download/Peliculas-wii/La%20tumba%20de%20las%20Luciernagas.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/nQG3HhzRnr26e0O0yuTeXqnVGbn.jpg" ,Las cintas de rosa peral
 http://208.88.245.85/nuevo/las.cintas.de.rosaperal.cast2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg" ,Las Crónicas de Narnia 1 (2005)
@@ -1989,10 +2101,20 @@ http://vod.tuxchannel.mx/peliculas/720/cronicas%20de%20narnia.mkv
 http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20el%20principe%20caspian.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/z6LVJXEmY8E6s57uf8cV3RlWvws.jpg" ,Las crónicas de Narnia 3 (2010)
 http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20la%20travesia%20del%20viajero%20del%20alba.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Las_grandes_aventuras_de_Winnie_Pooh
+https://archive.org/download/Peliculas-wii/Las%20grandes%20aventuras%20de%20Winnie%20Pooh.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg" ,Lego friends
 http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Leroy_y_Stitch
+https://archive.org/download/Peliculas-wii/Leroy%20y%20Stitch.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/wztfli5NgYDgurVgShNflvnyA3Z.jpg" ,Life: vida inteligente (2017)
 http://vod.tuxchannel.mx/peliculas/720/life%20w.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Lightyear
+https://archive.org/download/Peliculas-wii/Lightyear.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Lilo_y_Stitch_1
+https://archive.org/download/Peliculas-wii/Lilo%20y%20Stitch%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Lilo_y_Stitch_2
+https://archive.org/download/Peliculas-wii/Lilo%20y%20Stitch%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/xaZjJeFNKVq8rpd4ElSFlONVLh6.jpg" ,Lionel Messi destiny
 http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/xFR8Sxvb1isO5UoMIWsXGs95fdk.jpg" ,Lionel Messi destiny
@@ -2031,8 +2153,12 @@ http://vod.tuxchannel.mx/peliculas/720/the%20expendables%203.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg" ,Los tipos malos (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2F%E2%96%B7%20Ver%20Los%20Tipos%20Malos%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Los_Simpson_-_La_pelicula
+https://archive.org/download/Peliculas-wii/Los%20Simpson%20-%20La%20pelicula.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/djM2s4wSaATn4jVB33cV05PEbV7.jpg" ,Lou (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/632f4fdef2801_44LUNumero4k_A.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Luca
+https://archive.org/download/Peliculas-wii/Luca.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg" ,Luca (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjun%2Fluca.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/hXUgpAB6CQNTfMZ6hCUtEM8rdVS.jpg" ,Luz negra (2022)
@@ -2071,6 +2197,12 @@ http://208.88.245.85/nuevo/m.vuelves.loca.latino2023.mkv
 http://208.88.245.85/nuevo/meg2.el.gran.abismo.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/twJ0drKCHXcYJjJRdTWF14TzxGe.jpg" ,Mi dulce monstruo (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Mi%20dulce%20monstruo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Mi_vecino_Totoro
+https://archive.org/download/Peliculas-wii/Mi%20vecino%20Totoro.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Mickey,_Donald_y_Goofy_-_Los_tres_mosqueteros
+https://archive.org/download/Peliculas-wii/Mickey%2C%20Donald%20y%20Goofy%20-%20Los%20tres%20mosqueteros.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Mickey_y_Sus_Amigos_Juntos_Otra_Navidad
+https://archive.org/download/Peliculas-wii/Mickey%20y%20Sus%20Amigos%20Juntos%20Otra%20Navidad.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/1gSmNsz16HyYW5R0GVS54w4AGZx.jpg" ,Miedo profundo (2016)
 http://vod.tuxchannel.mx/peliculas/720/the%20shallows.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/8GTJwaC2CeNa0Zg6QrPLwrfurpZ.jpg" ,Mientras Haya Esperanza (2023)
@@ -2079,6 +2211,10 @@ https://od.lk/s/OTZfNzc3MjU5Nzhf/On%20a%20Wing%20and%20a%20Prayer%20%282023%29%2
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Miniesp%C3%ADas-%20Armaged%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" ,Mini Espias: El armagedón (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Miniesp%C3%ADas-%20Armaged%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Minions_2_-_Nace_un_villano
+https://archive.org/download/Peliculas-wii/Minions%202%20-%20Nace%20un%20villano.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Mis_vecinos_los_Yamada
+https://archive.org/download/Peliculas-wii/Mis%20vecinos%20los%20Yamada.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/kt9nqD0uOar8IVE9191HXhWOXKI.jpg" ,Misión Babilonia (2008)
 http://vod.tuxchannel.mx/peliculas/720/babylon%20a.d.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg" ,Misión de rescate 1 (2020)
@@ -2193,6 +2329,12 @@ http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20on%20str
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/xENglsVIIWEEhhB5lgpy33tGcKI.jpg" ,Poder sin límites (2012)
 http://vod.tuxchannel.mx/peliculas/720/chronicle.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Pompoko
+https://archive.org/download/Peliculas-wii/Pompoko.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Ponyo_en_el_acantilado
+https://archive.org/download/Peliculas-wii/Ponyo%20en%20el%20acantilado.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Porco_Rosso
+https://archive.org/download/Peliculas-wii/Porco%20Rosso.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg" ,Posesión infernal: El despertar (2023)
 http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg" ,Power Rangers (2017)
@@ -2209,6 +2351,8 @@ http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv
 http://208.88.245.85/nuevo/proyecto.extraccion.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg" ,Proyecto Géminis (2019)
 http://vod.tuxchannel.mx/peliculas/720/gemini%20man%202019.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Puedo_oir_el_mar
+https://archive.org/download/Peliculas-wii/Puedo%20oir%20el%20mar.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg" ,Quarantine 2 (2011)
 http://vod.tuxchannel.mx/peliculas/720/quarantine%202%20terminal%202011.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg" ,Que pasó ayer? 3 (2013)
@@ -2227,6 +2371,10 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20R.I.P.D.%202-%20Rise%20of%20the%20Damned%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/zwcmjn3qKhP7kUmpgNT0f61xzU3.jpg" ,Radical (2023) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Radical%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Ralph_el_demoledor_1
+https://archive.org/download/Peliculas-wii/Ralph%20el%20demoledor%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Ralph_el_demoledor_2
+https://archive.org/download/Peliculas-wii/Ralph%20el%20demoledor%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" ,Rambo: Last Blood (2019)
 http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/MGADip4thVSErP34FAAfzFBTZ5.jpg" ,Rampage (2018)
@@ -2245,6 +2393,10 @@ http://vod.tuxchannel.mx/peliculas/720/rec%202.mkv
 http://vod.tuxchannel.mx/peliculas/720/rec%203.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/sD6LX35RwyDzMDAunn89MBZFnFv.jpg" ,REC 4 (2014)
 http://vod.tuxchannel.mx/peliculas/720/rec%204.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Recuerdos_del_Ayer
+https://archive.org/download/Peliculas-wii/Recuerdos%20del%20Ayer.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Red
+https://archive.org/download/Peliculas-wii/Red.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg" ,Renfield: Asistente de vampiro (2023)
 http://208.88.245.85/nuevo/renfield.asistdvampiro.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg" ,Reposo absoluto
@@ -2277,6 +2429,10 @@ http://vod.tuxchannel.mx/peliculas/720/robocop%203.mkv
 http://vod.tuxchannel.mx/peliculas/720/robocop%202014.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg" ,Rock dog 3
 http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Rogue_One_-_Una_historia_de_Star_Wars
+https://archive.org/download/Peliculas-wii/Rogue%20One%20-%20Una%20historia%20de%20Star%20Wars.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Ron_da_error
+https://archive.org/download/Peliculas-wii/Ron%20da%20error.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/vqc3bNpuDFPiKmWlfkyi5YOIMUT.jpg" ,Rosalina (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/634f09af86ee3_50RSLNNumero4k_R.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/mcAIBwYP0E5fKBaOM6z5zt6QYhu.jpg" ,Ruega por nosotros (2021)
@@ -2291,6 +2447,10 @@ https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" ,Rápidos y furiosos 9 (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisagosto%2FRapido%20y%20Furioso%209%20(2021)%20LAT.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Sakura_Card_Captor_E56
+https://archive.org/download/Peliculas-wii/Sakura%20Card%20Captor%20E56.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Sakura_Card_Captor_E66
+https://archive.org/download/Peliculas-wii/Sakura%20Card%20Captor%20E66.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/cxojS3DVDK1TGKv3QEhAs9dbcgw.jpg" ,Sangre por sangre (1993)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Sangre%20por%20sangre%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/h2x0kRZWvwpw8GvghmQUn1m1jQo.jpg" ,Saw 1 (2004)
@@ -2331,6 +2491,8 @@ http://vod.tuxchannel.mx/peliculas/720/scream%203%20la%20mascara%20de%20la%20mue
 http://vod.tuxchannel.mx/peliculas/720/scream%204.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/oyGb5JpEYMEqDDjfJKLEvPTVSjK.jpg" ,Scrooge: Cuento de Navidad (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Scrooge-%20Cuento%20de%20Navidad%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Se_levanta_el_viento
+https://archive.org/download/Peliculas-wii/Se%20levanta%20el%20viento.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,SEAN ETERNOS SERIE
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/fuego%2FVer%20Pelicula%20Enola%20Holmes%20Online%20Latino%20en%20HD%20-%20Poseidonhdd.com_2.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/rR3CIo7yfAMOWj8rDPQmesveJOv.jpg" ,Sed de Venganza (Vendetta) (2022)
@@ -2349,6 +2511,8 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Sin%20novedad%20en%20el%20frente%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/v19nLqMwHh9QcQmtnpp0Oj0mtVc.jpg" ,Sin salida (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelfeb%2F%E2%96%B7%20Ver%20Sin%20Salida%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Sing_2
+https://archive.org/download/Peliculas-wii/Sing%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg" ,Smile (2022) CAM
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20Smile%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.ts
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/lFDPyo6mdooNcHvgy17gz1GEjg4.jpg" ,Snoopy presenta
@@ -2363,12 +2527,16 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg" ,Sonic la película (2020)
 http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%202020.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Sonic_2_La_pelicula
+https://archive.org/download/Peliculas-wii/Sonic%202%20La%20pelicula.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg" ,Sonido de libertad
 http://208.88.245.85/nuevo/sonido.de.libertad.2023dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg" ,Sonido de Libertad (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Sonido%20De%20Libertad%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/wHowKf77gNZbVo9yu5ggiNBFCdJ.jpg" ,Sonríe (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20Smile%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Soul
+https://archive.org/download/Peliculas-wii/Soul.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg" ,Space Jam 2 (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2FSpace%20Jam%20A%20New%20Legacy%20(2021)%20LAT.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" ,Spider-Man: Cruzando el Multiverso (2023) (CAM)
@@ -2401,6 +2569,12 @@ https://d1yei2z3i6k35z.cloudfront.net/2102480/62c088a6c13de_4x8STNumero4k_F.mp4
 https://d1yei2z3i6k35z.cloudfront.net/2102480/62c088abc0a35_4x9STNumero4k_F.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Stuart Little 1 (1999)
 https://archive.org/download/20240405_20240405_2138/Stuart%20Little%201%20%281999%29.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Stuart_Little_1_(1999)
+https://archive.org/download/stuart-little-1-1999_202208/Stuart%20Little%201%20%281999%29.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Stuart_Little_2_(2002)
+https://archive.org/download/stuart-little-1-1999_202208/Stuart%20Little%202%20%282002%29.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Stuart_Little_3_(2005)
+https://archive.org/download/stuart-little-1-1999_202208/Stuart%20Little%203%20%282005%29.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg" ,Suegros de armas tomar
 http://208.88.245.85/nuevo/suegros.dearmas.tomar.dual.2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/sytFL6ALMAesKZoarlp7bIDKnns.jpg" ,Super 8 (2011)
@@ -2411,8 +2585,12 @@ https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20on
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/Aie2kiYOUgZeakpshM2N64PKof1.jpg" ,Super... ¿quién? (2021)
 https://d1yei2z3i6k35z.cloudfront.net/2102480/639b6cf334ed1_SQNumero4k_A.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Susurros_del_Corazon
+https://archive.org/download/Peliculas-wii/Susurros%20del%20Corazon.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg" ,Suzume
 http://208.88.245.85/nuevo/suzume.dual.2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Suzume
+https://archive.org/download/Peliculas-wii/Suzume.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/kL4GDXHnwknt5oyD9eyyi693gbB.jpg" ,Taz odisea por las hamburguesas
 http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg" ,Ted Bundy: En la mente del asesino (2021)
@@ -2493,6 +2671,10 @@ http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2F%E2%96%B7%20Ver%20Un%20Pr%C3%ADncipe%20en%20Nueva%20York%202%20Online%20en%20Espa%C3%B1ol%20Latino%20y%20Subtitulado.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/duv6wtHMuN74HF7UuLjvUUrn8dB.jpg" ,Un sorbo frío  asesinato de Jessica Won
 http://208.88.245.85/nuevo/un.sorbo.frio.asesinato.de.jessicawon.dual2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Un_Jefe_en_Pañales
+https://archive.org/download/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1ales.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Un_Jefe_en_Pañales_2_-_Negocios_de_Familia
+https://archive.org/download/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1ales%202%20-%20Negocios%20de%20Familia.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/30we4NrF5F1FcBDklBGXvCDn1pG.jpg" ,Una verdadera familia embrujada
 http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/30we4NrF5F1FcBDklBGXvCDn1pG.jpg" ,Una Verdadera Familia Embrujada (2023)
@@ -2519,6 +2701,12 @@ http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro%203.mkv
 https://d1yei2z3i6k35z.cloudfront.net/2102480/63a8fa97960c4_NCDPZ4K.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/wtFwgFFk1ze789ghcadWGEVjj3N.jpg" ,Winnie the Pooh: Blood and Honey (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Winnie-the-Pooh-%20Blood%20and%20Honey%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Winnie_Pooh_(2011)
+https://archive.org/download/Peliculas-wii/Winnie%20Pooh%20%282011%29.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Winnie_Pooh_-_Una_primavera_con_Rito
+https://archive.org/download/Peliculas-wii/Winnie%20Pooh%20-%20Una%20primavera%20con%20Rito.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Wish_-_El_poder_de_los_deseos
+https://archive.org/download/Peliculas-wii/Wish%20-%20El%20poder%20de%20los%20deseos.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg" ,Wonder Woman 1984 (2020)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisdic%2Fnuevas%2Fiwonder%201984.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,xXx 1 (2002)
@@ -2541,3 +2729,89 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 http://208.88.245.85/nuevo/aguila.y.jaguar.2023.latino.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/nX7ZUYwgGOCe5nXXwpNg4hAf1xB.jpg" ,Éxodo: La última marea (2021)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/632207f97af62_46ELUMNumeo4k_D.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Beep_Beep
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1952%20Coyote%20y%20Correcaminos%20Beep%20Beep%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Beep_Prepared
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1961%20Coyote%20y%20Correcaminos%20Beep%20Prepared%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Boulder_Wham
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Boulder%20Wham%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Chariots_Of_Fur_Ing
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1994%20Coyote%20y%20El%20Correcaminos%20Chariots%20Of%20Fur%20Ing.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Chaser_On_The_Rocks
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Chaser%20On%20The%20Rocks.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Clippety_Clobbered
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1966%20Coyote%20y%20Correcaminos%20Clippety%20Clobbered%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Fast_And_Furry-Ous
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1949%20Coyote%20y%20Correcaminos%20Fast%20And%20Furry-Ous%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Fastest_With_The_Mostest_Ing
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1960%20Coyote%20y%20Correcaminos%20Fastest%20With%20The%20Mostest%20Ing.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Freeze_Frame_Ing
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1979%20Coyote%20y%20El%20Correcaminos%20Freeze%20Frame%20Ing.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Gee_Whiz-z-z-z-z
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1956%20Coyote%20y%20Correcaminos%20Gee%20Whiz-z-z-z-z%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Going_Gosh
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1952%20Coyote%20y%20Correcaminos%20Going%21%20Goin%21%20Gosh%21%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Guided_muscle
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1955%20Coyote%20y%20Correcaminos%20Guided%20muscle%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Hairied_And_Hurried
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Hairied%20And%20Hurried%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Highway_Runnery
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Highway%20Runnery%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Hip_Hip_Hurry
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1958%20Coyote%20y%20Correcaminos%20Hip%20Hip%20Hurry%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Hook,_Line_And_Stinker
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1958%20Coyote%20y%20Correcaminos%20Hook%2C%20Line%20And%20Stinker%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Hopalong_Casualty
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1960%20Coyote%20y%20Correcaminos%20Hopalong%20Casualty%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_In_Hot-Rod_And_Reel
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1959%20Coyote%20y%20Correcaminos%20In%20Hot-Rod%20And%20Reel.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Just_Plane_Beep_Lat
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Just%20Plane%20Beep%20Lat.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Lickety-Splat
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1961%20Coyote%20y%20Correcaminos%20Lickety-Splat%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Little_Go_Beep
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/2000%20Coyote%20y%20El%20Correcaminos%20Little%20Go%20Beep.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Out_And_Out_Rout
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1966%20Coyote%20y%20Correcaminos%20Out%20And%20Out%20Rout%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Ready_Set_Zoom
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1955%20Coyote%20y%20Correcaminos%20Ready%20Set%20Zoom%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Road_Runner_a_Go-Go_Ing
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Road%20Runner%20a%20Go-Go%20Ing.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Run,_Run_Sweet_Road_Runner
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Run%2C%20Run%20Sweet%20Road%20Runner%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Rushing_Roulette
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Rushing%20Roulette%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Scrambled_Aches
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1957%20Coyote%20y%20Correcaminos%20Scrambled%20Aches%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Shot_And_Bothered
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1966%20Coyote%20y%20Correcaminos%20Shot%20And%20Bothered%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Stop_And_hasten
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1954%20Coyote%20y%20Correcaminos%20Stop%21%20Look%21%20And%20hasten%21%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Sugar_And_Spies
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1966%20Coyote%20y%20Correcaminos%20Sugar%20And%20Spies%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_The_Solid_Tin_Coyote
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1966%20Coyote%20y%20Correcaminos%20The%20Solid%20Tin%20Coyote%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_The_Whizzard_Of_Ow_Ing
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/2003%20Coyote%20y%20Correcaminos%20The%20Whizzard%20Of%20Ow%20Ing.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_There_They_Go-Go-Go
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1956%20Coyote%20y%20Correcaminos%20There%20They%20Go-Go-Go%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Tired_And_Feathered
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Tired%20And%20Feathered.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_To_Beep_Or_Not_To_Beep
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1963%20Coyote%20y%20Correcaminos%20To%20Beep%20Or%20Not%20To%20Beep%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_War_And_Pieces
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1964%20Coyote%20y%20Correcaminos%20War%20And%20Pieces%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Whoa_Be-Gone
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1958%20Coyote%20y%20Correcaminos%20Whoa%20Be-Gone.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Wild_About_Hurry
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1959%20Coyote%20y%20Correcaminos%20Wild%20About%20Hurry%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Zip-Zip-Hooray_Ing
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1965%20Coyote%20y%20Correcaminos%20Zip-Zip-Hooray%20Ing.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Zip_'n_Snort
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1961%20Coyote%20y%20Correcaminos%20Zip%20%27n%20Snort%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Zipping_along
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1953%20Coyote%20y%20Correcaminos%20Zipping%20along%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Zoom_And_Bored
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1957%20Coyote%20y%20Correcaminos%20Zoom%20And%20Bored%20Cla.mp4
+#EXTINF:-1 group-title="GO Series" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_Coyote_y_el_Correcaminos_-_Zoom_At_The_Top
+https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/1962%20Coyote%20y%20Correcaminos%20Zoom%20At%20The%20Top%20Cla.mp4
