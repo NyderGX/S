@@ -1357,6 +1357,10 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 http://vod.tuxchannel.mx/peliculas/720/amityville%20the%20awakening.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/ovIX8JQSh58GKhYlhIhJohVqEaj.jpg" ,Angela (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Angela%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,ANGRY_BIRDS_1
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/ANGRY%20BIRDS%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,ANGRY_BIRDS_2
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/ANGRY%20BIRDS%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Animal_Crossing_La_pelicula
 https://archive.org/download/Peliculas-wii/_PWS%20HD%20-%20Animal%20Crossing%20La%20pelicula.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg" ,Animales Fantásticos 3 (2022)
@@ -1405,12 +1409,40 @@ http://vod.tuxchannel.mx/peliculas/720/baby%20driver.mkv
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Babylon%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg" ,Babylon (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Babylon%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BAMBI_1
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BAMBI%201.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" ,Barbie
 http://208.88.245.85/nuevo/barbie.dual.2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_CASCANUECES
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20CASCANUECES.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_EN_BUSCA_DE_PERRITOS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20EN%20BUSCA%20DE%20PERRITOS.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_ESCUELA_DE_PRINCESAS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20ESCUELA%20DE%20PRINCESAS.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_LA_PRINCESA_Y_LA_PLEBEYA
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20LA%20PRINCESA%20Y%20LA%20PLEBEYA.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_PRINCESA_DE_LAS_ISLAS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20PRINCESA%20DE%20LAS%20ISLAS.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_PULGARCITA
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20PULGARCITA.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_SECRETO_DE_LAS_HADAS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20SECRETO%20DE%20LAS%20HADAS.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_TRES_MOSQUETERAS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20TRES%20MOSQUETERAS.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_UN_AVENTURA_ESPACIAL
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20UN%20AVENTURA%20ESPACIAL.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_UNA_AVENTURA_DE_CABALLOS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20UNA%20AVENTURA%20DE%20CABALLOS.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_UNA_HISTORIA_DE_CABALLO
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20UNA%20HISTORIA%20DE%20CABALLO.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BARBIE_Y_LAS_DOCE_PRINCESAS_BAILARINAS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BARBIE%20Y%20LAS%20DOCE%20PRINCESAS%20BAILARINAS.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg" ,Ben-Hur (1959)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Ben-Hur%20(1959)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg" ,Bendita suegra
 http://208.88.245.85/nuevo/benditasuegra.latino.2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BICHOS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BICHOS.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/nRVnpz4dzRvknK0BANjJ76dP0D3.jpg" ,Big Mack gangsters
 http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Black Adam (2022)
@@ -1437,6 +1469,8 @@ http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
 http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/op02Hv5i4Z049nGJYmk6BScRqHO.jpg" ,Bros: Más que amigos (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63518d695d1b8_3BMQANumero4k_C.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,BUSCANDO_A_DORY
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BUSCANDO%20A%20DORY.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/xQ1du8KQ0xijNQTceLmttt4Uokz.jpg" ,Bárbaro (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Barbarian%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/6LuXaihVIoJ5FeSiFb7CZMtU7du.jpg" ,Calabozos y Dragones: Honor entre ladrones (2023)
@@ -1447,6 +1481,10 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Carga%20M%C3%A1xima%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Cars_1
 https://archive.org/download/Peliculas-wii/Cars%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,CARS_2
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/CARS%202.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,CARS_3
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/CARS%203.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg" ,Cassandro
 http://208.88.245.85/nuevo/casandro.2023dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/7rvWV0DICTqCqbcG2WB3JjILSqP.jpg" ,Cazador de demonios (2012)
@@ -1461,6 +1499,8 @@ https://d1yei2z3i6k35z.cloudfront.net/2104853/634f09b97c126_55CDPNuemro4k_T.mp4
 http://vod.tuxchannel.mx/peliculas/720/chappie.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg" ,Chernóbil: la película (2021)
 http://vod.tuxchannel.mx/peliculas/720/chernobyl%202021.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,CHICO_BOM_BOM
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/CHICO%20BOM%20BOM.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/gNObb3Q1P2yO2Z14bs6AXx0cWVy.jpg" ,Chilangolandia (2021)
 http://vod.tuxchannel.mx/peliculas/720/chilangolandia%202021.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg" ,Chip y Dale: Al Rescate (2022)
@@ -1555,6 +1595,8 @@ http://vod.tuxchannel.mx/peliculas/720/destino%20final%205.mkv
 https://archive.org/download/conjuring-the-beyond_202304/Detective%20Knight.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/qMgx4ofxWNqgXliRyXGXImoA7vX.jpg0" ,Dime lo que quieres
 http://208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,DINO_TIME
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/DINO%20TIME.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg" ,Distrito 9 (2009)
 http://vod.tuxchannel.mx/peliculas/720/distrit%209.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg" ,Divina señal
@@ -1749,12 +1791,16 @@ https://archive.org/download/Peliculas-wii/El%20castillo%20en%20el%20cielo.mp4
 https://archive.org/download/Peliculas-wii/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_increible_castillo_vagabundo
 https://archive.org/download/Peliculas-wii/El%20increible%20castillo%20vagabundo.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,EL_LORAX
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/EL%20LORAX.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_mundo_secreto_de_Arrietty
 https://archive.org/download/Peliculas-wii/El%20mundo%20secreto%20de%20Arrietty.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_recuerdo_de_Marnie
 https://archive.org/download/Peliculas-wii/El%20recuerdo%20de%20Marnie.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_regreso_del_gato
 https://archive.org/download/Peliculas-wii/El%20regreso%20del%20gato.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,EL_REY_LEÓN_2
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/EL%20REY%20LE%C3%93N%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_sexto_sentido_[mirapeliculas][streamtape]
 https://archive.org/download/conjuring-the-beyond_202304/El%20sexto%20sentido%20%20%5Bmirapeliculas%5D%5Bstreamtape%5D.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,El_viaje_de_Chihiro
@@ -1797,6 +1843,8 @@ http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave.mkv
 http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%202.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/jG5GDIcqiqHXkvINZSjyzBUO2vH.jpg" ,Escupiré sobre tu tumba 3 (2015)
 http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%203.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,ESPANTATIBURONES
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/ESPANTATIBURONES.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg" ,Estación Zombie 1 (2016)
 http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg" ,Estación Zombie 2 (2020)
@@ -1805,6 +1853,8 @@ http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan%202.mkv
 http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg" ,Feliz día de tu muerte 2 (2019)
 http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day%202%202019.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,FERDINAND
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/FERDINAND.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/gmZGAbI42ecAoixyvZI0Se4Qiau.jpg" ,Finnck
 http://208.88.245.85/nuevo/finnick.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/995t1sb4ummXHBfKlXLSM1IAEjc.jpg" ,Fisrt solamente dunk
@@ -1913,6 +1963,8 @@ https://od.lk/s/NV8xODY2OTYzNzRf/Indiana%20Jones%20y%20el%20dial%20del%20destino
 https://archive.org/download/conjuring-the-beyond_202304/infelices.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg" ,Insidiuos puerta roja
 http://208.88.245.85/nuevo/insidiuos.puertaroja.dual2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,INTENSAMENTE
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/INTENSAMENTE.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg" ,Invasión a la Tierra (2011)
 http://vod.tuxchannel.mx/peliculas/720/invancion%20del%20mundo%20batalla%20los%20angeles.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/fWsuqZ5kk5rYeWVXpjrHercEBNH.jpg" ,Invitación a un asesino
@@ -1933,6 +1985,10 @@ http://vod.tuxchannel.mx/peliculas/720/la%20leyenda%20del%20jinete%20sin%20cabez
 http://vod.tuxchannel.mx/peliculas/720/john%20carter.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" ,John Wick 4 (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,JORGE_EL_CURIOSO
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/JORGE%20EL%20CURIOSO.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,JUEGO_DE_GEMELAS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/JUEGO%20DE%20GEMELAS.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,JUNG_E
 https://archive.org/download/conjuring-the-beyond_202304/JUNG_E.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" ,Jungle Cruise (2021)
@@ -1947,6 +2003,8 @@ https://archive.org/download/Peliculas-wii/Kiki%20-%20Entregas%20a%20domicilio.m
 http://vod.tuxchannel.mx/peliculas/720/kill%20command.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/kEyi52oFS45X5sb78kAMnfrenxm.jpg" ,King: Regreso a casa (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20King-%20Regreso%20a%20casa%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,KLARA_LA_VACA_CUIDADORA_DE_MANZANAS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/KLARA%20LA%20VACA%20CUIDADORA%20DE%20MANZANAS.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Kodi_Screensaver_Animation_2A
 https://archive.org/download/conjuring-the-beyond_202304/Kodi%C2%AE%20Screensaver%20Animation%202A.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg" ,Kong: la Isla Calavera (2017)
@@ -2049,12 +2107,30 @@ http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20La%20%C3%9Altima%20Estafa%20(2020)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_colina_de_las_Amapolas
 https://archive.org/download/Peliculas-wii/La%20colina%20de%20las%20Amapolas.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_ERA_DE_HIELO_1
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_ERA_DE_HIELO_2
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%202.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_ERA_DE_HIELO_3
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%203.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_ERA_DE_HIELO_4
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%204%20LA%20DERIVA%20CONTINENTAL.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_ERA_DE_HIELO_5
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%205.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_ERA_DE_HIELO_LA_GRAN_BUSQUEDA_DE_PASCUA
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%20LA%20GRAN%20BUSQUEDA%20DE%20PASCUA.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_ERA_DE_HIELO_UNA_NAVIDAD_TAMAÑO_MAMUT
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%20UNA%20NAVIDAD%20TAMA%C3%91O%20MAMUT.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_FAMILIA_DEL_FUTURO
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20FAMILIA%20DEL%20FUTURO.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_gran_aventura_Lego_1
 https://archive.org/download/Peliculas-wii/La%20gran%20aventura%20Lego%201.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_gran_pelicula_de_Piglet
 https://archive.org/download/Peliculas-wii/La%20gran%20pelicula%20de%20Piglet.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_huérfana
 https://archive.org/download/conjuring-the-beyond_202304/La%20hu%C3%A9rfana-%20Primer%20asesinato.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_JUNGLA
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20JUNGLA.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_maldición_del_Hombre_Lobo_(2022)
 https://archive.org/download/conjuring-the-beyond_202304/La%20maldici%C3%B3n%20del%20Hombre%20Lobo%20%282022%29%20Online.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_Oveja_Shaun_-_La_pelicula
@@ -2071,6 +2147,8 @@ https://archive.org/download/conjuring-the-beyond_202304/La%20sirenita%20%282023
 https://archive.org/download/Peliculas-wii/La%20tortuga%20roja.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,La_tumba_de_las_Luciernagas
 https://archive.org/download/Peliculas-wii/La%20tumba%20de%20las%20Luciernagas.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LA_VIDA_SECRETA_DE_MIS_MASCOTAS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LA%20VIDA%20SECRETA%20DE%20MIS%20MASCOTAS.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,ladrones
 https://archive.org/download/conjuring-the-beyond_202304/ladrones.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/nQG3HhzRnr26e0O0yuTeXqnVGbn.jpg" ,Las cintas de rosa peral
@@ -2085,6 +2163,8 @@ http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20la%20trave
 https://archive.org/download/Peliculas-wii/Las%20grandes%20aventuras%20de%20Winnie%20Pooh.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg" ,Lego friends
 http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LEJOS_DEL_ARBOL
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LEJOS%20DEL%20ARBOL.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Leroy_y_Stitch
 https://archive.org/download/Peliculas-wii/Leroy%20y%20Stitch.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/wztfli5NgYDgurVgShNflvnyA3Z.jpg" ,Life: vida inteligente (2017)
@@ -2101,6 +2181,14 @@ http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
 http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg" ,Llaman a la puerta (2023)
 http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LLUVIA_DE_HAMBURGUESAS_1
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LLUVIA%20DE%20HAMBURGUESA%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LLUVIA_DE_HAMBURGUESAS_2
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LLUVIA%20DE%20HAMBURGUESAS%202.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LOCOS_POR_LAS_NUECES_1
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LOCOS%20POR%20LAS%20NUECES%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LOCOS_POR_LAS_NUECES_2
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LOCOS%20POR%20LAS%20NUECES%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg" ,Looper: asesinos del futuro (2012)
 http://vod.tuxchannel.mx/peliculas/720/looper.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/wve9qIZ8pXrDpHy1h47cGXHjZpH.jpg" ,Los 3 mosqueteros dartagnan
@@ -2133,8 +2221,18 @@ http://vod.tuxchannel.mx/peliculas/720/the%20expendables%203.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg" ,Los tipos malos (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2F%E2%96%B7%20Ver%20Los%20Tipos%20Malos%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LOS_CROODS_1
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LOS%20CROODS%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LOS_CROODS_2
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LOS%20CROODS%202.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LOS_INCREIBLES_1
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LOS%20INCREIBLES%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LOS_INCREIBLES_2
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LOS%20INCREIBLES%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Los_Simpson_-_La_pelicula
 https://archive.org/download/Peliculas-wii/Los%20Simpson%20-%20La%20pelicula.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,LOS_TIPOS_MALOS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/LOS%20TIPOS%20MALOS.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/djM2s4wSaATn4jVB33cV05PEbV7.jpg" ,Lou (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/632f4fdef2801_44LUNumero4k_A.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Luca
@@ -2187,6 +2285,8 @@ https://archive.org/download/Peliculas-wii/Mickey%20y%20Sus%20Amigos%20Juntos%20
 http://vod.tuxchannel.mx/peliculas/720/the%20shallows.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/8GTJwaC2CeNa0Zg6QrPLwrfurpZ.jpg" ,Mientras Haya Esperanza (2023)
 https://od.lk/s/OTZfNzc3MjU5Nzhf/On%20a%20Wing%20and%20a%20Prayer%20%282023%29%20Online.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,MIGHT_UNA_AVENTURA_NAVIDEÑA
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/MIGHT%20UNA%20AVENTURA%20NAVIDE%C3%91A.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500//vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" ,Mini Espias: El armagedón (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Miniesp%C3%ADas-%20Armaged%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" ,Mini Espias: El armagedón (2023)
@@ -2257,6 +2357,8 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1afe743b8_2NEEMNunmero4k_F.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg" ,Nop (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/6314218e2ebc7_54NPNumero4k_T.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,NORM_DEL_NORTE
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/NORM%20DEL%20NORTE.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg" ,Nos vemos ayer (2019)
 http://vod.tuxchannel.mx/peliculas/720/see%20you%20yesterday%202019.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/uldNFFKNXNvwss0MIZErMSFkBJZ.jpg" ,Nowhere (2023)
@@ -2275,8 +2377,12 @@ http://208.88.245.85/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Oppenheimer-%20el%20dilema%20de%20la%20bomba%20at%C3%B3mica%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg" ,Ouija: El origen del mal (2016)
 http://vod.tuxchannel.mx/peliculas/720/ouija%20%20origin%20of%20evil.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,OZZY_RAPIDO_Y_PELUDO
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/OZZY%20RAPIDO%20Y%20PELUDO.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/2NUXG94dGMKYgJL1BkJGKynMb3l.jpg" ,Pablo, el apóstol de Cristo (2018)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Pablo%20Apostol%20De%20Cristo%20(2018)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,PAJARITOS_A_VOLAR
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/PAJARITOS%20A%20VOLAR.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/aOj8mNRXz3ss9pwCYgpva1JqmZx.jpg" ,Pamela una historia de amor (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Pamela%20Anderson-%20Una%20historia%20de%20amor%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/aOj8mNRXz3ss9pwCYgpva1JqmZx.jpg" ,Pamela: una historia de amor (2023)
@@ -2285,10 +2391,14 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 http://vod.tuxchannel.mx/peliculas/720/pan.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg" ,Papas a la antigua
 http://208.88.245.85/nuevo/papas.ala.antigua.dual2023.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,PAPÁ_OSO
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/PAP%C3%81%20OSO.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg" ,Papás a la antigua (2023)
 https://od.lk/s/NV8xODg4OTAyNzZf/HDVer%20Pap%C3%A1s%20a%20la%20antigua%202023.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Paradise_City
 https://archive.org/download/conjuring-the-beyond_202304/Paradise%20City.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,PATO_PATO_GANZO
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/PATO%20PATO%20GANZO.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg" ,Paw patrón la.super película
 http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg" ,Peter Pan y Wendy (2023)
@@ -2373,6 +2483,8 @@ http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/rampage.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/52ml62vClzrlqvXZq2FEW6UF6c1.jpg" ,Rascacielos (2018)
 http://vod.tuxchannel.mx/peliculas/720/el%20rascacielos.mkv
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,RATATOIULLE
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/RATATOIULLE.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg" ,Raya y el último dragón (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2Fraya%20dragon.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg" ,Ready Player One (2018)
@@ -2443,6 +2555,10 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://archive.org/download/Peliculas-wii/Sakura%20Card%20Captor%20E56.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Sakura_Card_Captor_E66
 https://archive.org/download/Peliculas-wii/Sakura%20Card%20Captor%20E66.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,SAMMY_LA_TORTUGA_1
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/SAMMY%20LA%20TORTUGA%201.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,SAMMY_LA_TORTUGA_2
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/SAMMY%20LA%20TORTUGA%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/cxojS3DVDK1TGKv3QEhAs9dbcgw.jpg" ,Sangre por sangre (1993)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Sangre%20por%20sangre%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/h2x0kRZWvwpw8GvghmQUn1m1jQo.jpg" ,Saw 1 (2004)
@@ -2587,6 +2703,8 @@ https://archive.org/download/Peliculas-wii/Susurros%20del%20Corazon.mp4
 http://208.88.245.85/nuevo/suzume.dual.2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,Suzume
 https://archive.org/download/Peliculas-wii/Suzume.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,TARZÁN_COMO_COMENZO_TODO
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/TARZ%C3%81N%20COMO%20COMENZO%20TODO.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/kL4GDXHnwknt5oyD9eyyi693gbB.jpg" ,Taz odisea por las hamburguesas
 http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg" ,Ted Bundy: En la mente del asesino (2021)
@@ -2619,6 +2737,8 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelisnuee%2Fpelisnov%2F%E2%96%B7%20Ver%20tick%2C%20tick...%20Boom!%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/bkjPoisqAavXUvtoirxTEcLLQyI.jpg" ,Tiempo para mí (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2Ftiempo%20para%20mi.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,TIMON_Y_PUMBA
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/TIMON%20Y%20PUMBA.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" ,Tin y tina
 http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" ,Tin y Tina (2023)
@@ -2685,6 +2805,12 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg" ,Unos suegros de armas tomar (2023)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Unos%20suegros%20de%20armas%20tomar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,UP_UNA_AVENTURA_DE_ALTURA
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/UP-%20UNA%20AVENTURA%20DE%20ALTURA.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,USCANDO_A_NEMO
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/BUSCANDO%20A%20NEMO.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,VACAS_VAQUERAS
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/VACAS%20VAQUERAS.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/gsFun8nATm52aGHeT8ueAel98nE.jpg" ,Van Helsing (2004)
 http://vod.tuxchannel.mx/peliculas/720/van%20helsing.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/6gBt2qFZiq7tF7HTfkl6pP9ml8y.jpg" ,Venganza (2019)
@@ -2727,6 +2853,8 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 http://208.88.245.85/nuevo/zoey102.laboda.dual2023.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg" ,Zom 100 (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Zom%20100-%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="GO FLIX" tvg-logo="http://imgfz.com/i/tJqmcWo.png" ,ZOOTOPIA_
+https://archive.org/download/lluvia-de-hamburguesas-2_202306/ZOOTOPIA.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/6cZbQppNSELFdsV7gvrOflL6DWK.jpg" ,¿Quieres ser mi hijo? (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20%C2%BFQuieres%20ser%20mi...%20hijo-%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/9GuvODahvuFqdhuZ16aBLR4UJoP.jpg" ,¿Quieres ser mi hijo? (2023)
@@ -2735,235 +2863,235 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 http://208.88.245.85/nuevo/aguila.y.jaguar.2023.latino.mkv
 #EXTINF:-1 group-title="GO FLIX" tvg-logo="https://image.tmdb.org/t/p/w500/nX7ZUYwgGOCe5nXXwpNg4hAf1xB.jpg" ,Éxodo: La última marea (2021)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/632207f97af62_46ELUMNumeo4k_D.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_001_Una_niña_hábil_que_no_renuncia
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_001_Una_niña_hábil_que_no_renuncia
 https://archive.org/download/candy.candy_202109/Capitulo%20001.%20Una%20ni%C3%B1a%20h%C3%A1bil%20que%20no%20renuncia.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_002_¡Viaje_Aventuras_juntas
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_002_¡Viaje_Aventuras_juntas
 https://archive.org/download/candy.candy_202109/Capitulo%20002%20.%20%C2%A1Viaje%21%20Aventuras%20juntas.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_003_El_carruaje_que_transporta_un_adiós
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_003_El_carruaje_que_transporta_un_adiós
 https://archive.org/download/candy.candy_202109/Capitulo%20003%20.%20El%20carruaje%20que%20transporta%20un%20adi%C3%B3s.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_004_¡Estás_preciosa_cuando_sonríes
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_004_¡Estás_preciosa_cuando_sonríes
 https://archive.org/download/candy.candy_202109/Capitulo%20004%20.%20%C2%A1Est%C3%A1s%20preciosa%20cuando%20sonr%C3%ADes%21.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_005_Desde_hoy_soy_una_princesa
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_005_Desde_hoy_soy_una_princesa
 https://archive.org/download/candy.candy_202109/Capitulo%20005%20.%20Desde%20hoy%20soy%20una%20princesa.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_006_La_persona_que_encontré_en_la_verja_de_las_rosas
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_006_La_persona_que_encontré_en_la_verja_de_las_rosas
 https://archive.org/download/candy.candy_202109/Capitulo%20006%20.%20La%20persona%20que%20encontr%C3%A9%20en%20la%20verja%20de%20las%20rosas.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_007_¿Estoy_elegante
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_007_¿Estoy_elegante
 https://archive.org/download/candy.candy_202109/Capitulo%20007%20.%20%C2%BFEstoy%20elegante.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_008_Invitación_a_la_felicidad
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_008_Invitación_a_la_felicidad
 https://archive.org/download/candy.candy_202109/Capitulo%20008%20.%20Invitaci%C3%B3n%20a%20la%20felicidad.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_009_El_baile_en_el_que_encontré_a_aquella_persona
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_009_El_baile_en_el_que_encontré_a_aquella_persona
 https://archive.org/download/candy.candy_202109/Capitulo%20009%20.%20El%20baile%20en%20el%20que%20encontr%C3%A9%20a%20aquella%20persona.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_010_Una_dama_en_el_establo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_010_Una_dama_en_el_establo
 https://archive.org/download/candy.candy_202109/Capitulo%20010%20.%20Una%20dama%20en%20el%20establo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_011_Una_pequeña_cinta_amarra_los_corazones
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_011_Una_pequeña_cinta_amarra_los_corazones
 https://archive.org/download/candy.candy_202109/Capitulo%20011%20.%20Una%20peque%C3%B1a%20cinta%20amarra%20los%20corazones.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_012_Cumpleaños_con_olor_a_rosas
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_012_Cumpleaños_con_olor_a_rosas
 https://archive.org/download/candy.candy_202109/Capitulo%20012%20.%20Cumplea%C3%B1os%20con%20olor%20a%20rosas.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_013_Los_tres_solitarios
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_013_Los_tres_solitarios
 https://archive.org/download/candy.candy_202109/Capitulo%20013%20.%20Los%20tres%20solitarios.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_014_El_gran_árbol_lleno_de_brisa_primaveral
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_014_El_gran_árbol_lleno_de_brisa_primaveral
 https://archive.org/download/candy.candy_202109/Capitulo%20014%20.%20El%20gran%20%C3%A1rbol%20lleno%20de%20brisa%20primaveral.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_015_La_decisión_que_arrebata_la_felicidad
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_015_La_decisión_que_arrebata_la_felicidad
 https://archive.org/download/candy.candy_202109/Capitulo%20015%20.%20La%20decisi%C3%B3n%20que%20arrebata%20la%20felicidad.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_016_Viaje_a_un_país_desconocido_
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_016_Viaje_a_un_país_desconocido_
 https://archive.org/download/candy.candy_202109/Capitulo%20016%20.%20Viaje%20a%20un%20pa%C3%ADs%20desconocido%20.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_017_En_un_lejano_y_sediento_desierto
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_017_En_un_lejano_y_sediento_desierto
 https://archive.org/download/candy.candy_202109/Capitulo%20017%20.%20En%20un%20lejano%20y%20sediento%20desierto.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_018_El_crucifijo_que_conduce_al_destino
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_018_El_crucifijo_que_conduce_al_destino
 https://archive.org/download/candy.candy_202109/Capitulo%20018%20.%20El%20crucifijo%20que%20conduce%20al%20destino.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_019_El_fin_de_un_viaje_de_sufrimientos
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_019_El_fin_de_un_viaje_de_sufrimientos
 https://archive.org/download/candy.candy_202109/Capitulo%20019%20.%20El%20fin%20de%20un%20viaje%20de%20sufrimientos.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_020_Soy_tan_feliz_como_en_mis_sueños
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_020_Soy_tan_feliz_como_en_mis_sueños
 https://archive.org/download/candy.candy_202109/Capitulo%20020%20.%20Soy%20tan%20feliz%20como%20en%20mis%20sue%C3%B1os.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_021_La_paloma_que_transporta_la_amistad
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_021_La_paloma_que_transporta_la_amistad
 https://archive.org/download/candy.candy_202109/Capitulo%20021%20.%20La%20paloma%20que%20transporta%20la%20amistad.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_022_!No_te_rindas_Anthony!
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_022_!No_te_rindas_Anthony!
 https://archive.org/download/candy.candy_202109/Capitulo%20022%20.%20%21No%20te%20rindas%20Anthony%21.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_023_La_primera_cita
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_023_La_primera_cita
 https://archive.org/download/candy.candy_202109/Capitulo%20023%20.%20La%20primera%20cita.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_024_Mi_Anthony
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_024_Mi_Anthony
 https://archive.org/download/candy.candy_202109/Capitulo%20024%20.%20Mi%20Anthony.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_025_Avanzanda_al_mañana_y_supera_tu_tristeza
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_025_Avanzanda_al_mañana_y_supera_tu_tristeza
 https://archive.org/download/candy.candy_202109/Capitulo%20025%20.%20Avanzanda%20al%20ma%C3%B1ana%20y%20supera%20tu%20tristeza.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_026_El_padre_árbol_lo_sabe_todo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_026_El_padre_árbol_lo_sabe_todo
 https://archive.org/download/candy.candy_202109/Capitulo%20026%20.%20El%20padre%20%C3%A1rbol%20lo%20sabe%20todo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_027_El_regalo_de_un_ángel
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_027_El_regalo_de_un_ángel
 https://archive.org/download/candy.candy_202109/Capitulo%20027%20.%20El%20regalo%20de%20un%20%C3%A1ngel.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_028_Cicatrices_muy_en_el_fondo_de_mi_corazón
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_028_Cicatrices_muy_en_el_fondo_de_mi_corazón
 https://archive.org/download/candy.candy_202109/Capitulo%20028%20.%20Cicatrices%20muy%20en%20el%20fondo%20de%20mi%20coraz%C3%B3n.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_029_Partida_hacia_la_esperanza
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_029_Partida_hacia_la_esperanza
 https://archive.org/download/candy.candy_202109/Capitulo%20029%20.%20Partida%20hacia%20la%20esperanza.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_030_El_amor_supera_los_torbellinos
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_030_El_amor_supera_los_torbellinos
 https://archive.org/download/candy.candy_202109/Capitulo%20030%20.%20El%20amor%20supera%20los%20torbellinos.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_031_Un_nuevo_día_en_una_vieja_ciudad
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_031_Un_nuevo_día_en_una_vieja_ciudad
 https://archive.org/download/candy.candy_202109/Capitulo%20031%20.%20Un%20nuevo%20d%C3%ADa%20en%20una%20vieja%20ciudad.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_032_La_colina_de_Pony_dentro_de_una_prisión
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_032_La_colina_de_Pony_dentro_de_una_prisión
 https://archive.org/download/candy.candy_202109/Capitulo%20032%20.%20La%20colina%20de%20Pony%20dentro%20de%20una%20prisi%C3%B3n.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_033_La_nueva_estudiante_tiene_arrugas
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_033_La_nueva_estudiante_tiene_arrugas
 https://archive.org/download/candy.candy_202109/Capitulo%20033%20.%20La%20nueva%20estudiante%20tiene%20arrugas.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_034_El_reverso_del_sobre_lacrado
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_034_El_reverso_del_sobre_lacrado
 https://archive.org/download/candy.candy_202109/Capitulo%20034%20.%20El%20reverso%20del%20sobre%20lacrado.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_035_Un_maravilloso_domingo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_035_Un_maravilloso_domingo
 https://archive.org/download/candy.candy_202109/Capitulo%20035%20.%20Un%20maravilloso%20domingo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_036_La_sonrisa_ha_vuelto
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_036_La_sonrisa_ha_vuelto
 https://archive.org/download/candy.candy_202109/Capitulo%20036%20.%20La%20sonrisa%20ha%20vuelto.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_037_Un_encuentro_maravilloso
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_037_Un_encuentro_maravilloso
 https://archive.org/download/candy.candy_202109/Capitulo%20037%20.%20Un%20encuentro%20maravilloso.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_038_El_secreto_de_Terry
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_038_El_secreto_de_Terry
 https://archive.org/download/candy.candy_202109/Capitulo%20038%20.%20El%20secreto%20de%20Terry.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_039_El_tesoro_que_desata_la_ira
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_039_El_tesoro_que_desata_la_ira
 https://archive.org/download/candy.candy_202109/Capitulo%20039%20.%20El%20tesoro%20que%20desata%20la%20ira.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_040_Reflexiones_que_entran_y_salen_con_libertad
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_040_Reflexiones_que_entran_y_salen_con_libertad
 https://archive.org/download/candy.candy_202109/Capitulo%20040%20.%20Reflexiones%20que%20entran%20y%20salen%20con%20libertad.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_041_Un_hada_en_el_festival_del_colegio
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_041_Un_hada_en_el_festival_del_colegio
 https://archive.org/download/candy.candy_202109/Capitulo%20041%20.%20Un%20hada%20en%20el%20festival%20del%20colegio.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_042_El_pícnic_de_medianoche
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_042_El_pícnic_de_medianoche
 https://archive.org/download/candy.candy_202109/Capitulo%20042%20.%20El%20p%C3%ADcnic%20de%20medianoche.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_043_El_colegio_de_Verano_en_el_lago
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_043_El_colegio_de_Verano_en_el_lago
 https://archive.org/download/candy.candy_202109/Capitulo%20043%20.%20El%20colegio%20de%20Verano%20en%20el%20lago.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_044_Lazos_entre_madre_e_hijo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_044_Lazos_entre_madre_e_hijo
 https://archive.org/download/candy.candy_202109/Capitulo%20044%20.%20Lazos%20entre%20madre%20e%20hijo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_045_Fiesta_blanca_para_dos
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_045_Fiesta_blanca_para_dos
 https://archive.org/download/candy.candy_202109/Capitulo%20045%20.%20Fiesta%20blanca%20para%20dos.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_046_Emoción_al_final_del_verano
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_046_Emoción_al_final_del_verano
 https://archive.org/download/candy.candy_202109/Capitulo%20046%20.%20Emoci%C3%B3n%20al%20final%20del%20verano.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_047_La_oscura_trampa_de_Eliza
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_047_La_oscura_trampa_de_Eliza
 https://archive.org/download/candy.candy_202109/Capitulo%20047%20.%20La%20oscura%20trampa%20de%20Eliza.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_048_Entre_paredes_frías_y_gruesas
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_048_Entre_paredes_frías_y_gruesas
 https://archive.org/download/candy.candy_202109/Capitulo%20048%20.%20Entre%20paredes%20fr%C3%ADas%20y%20gruesas.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_049_La_decisión_de_Terry
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_049_La_decisión_de_Terry
 https://archive.org/download/candy.candy_202109/Capitulo%20049%20.%20La%20decisi%C3%B3n%20de%20Terry.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_050_Viaje_entre_la_niebla_matutina
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_050_Viaje_entre_la_niebla_matutina
 https://archive.org/download/candy.candy_202109/Capitulo%20050%20.%20Viaje%20entre%20la%20niebla%20matutina.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_051_El_largo_camino_hacia_el_puerto
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_051_El_largo_camino_hacia_el_puerto
 https://archive.org/download/candy.candy_202109/Capitulo%20051%20.%20El%20largo%20camino%20hacia%20el%20puerto.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_052_Estrellas_que_se_ven_en_el_establo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_052_Estrellas_que_se_ven_en_el_establo
 https://archive.org/download/candy.candy_202109/Capitulo%20052%20.%20Estrellas%20que%20se%20ven%20en%20el%20establo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_053_El_amanercer_en_el_Monte_Rodoni
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_053_El_amanercer_en_el_Monte_Rodoni
 https://archive.org/download/candy.candy_202109/Capitulo%20053%20.%20El%20amanercer%20en%20el%20Monte%20Rodoni.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_054_El_puerto_Southampton_en_la_niebla_nocturna
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_054_El_puerto_Southampton_en_la_niebla_nocturna
 https://archive.org/download/candy.candy_202109/Capitulo%20054%20.%20El%20puerto%20Southampton%20en%20la%20niebla%20nocturna.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_055_Los_dos_polizones
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_055_Los_dos_polizones
 https://archive.org/download/candy.candy_202109/Capitulo%20055%20.%20Los%20dos%20polizones.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_056_Más_allá_del_mar_de_las_tormentas
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_056_Más_allá_del_mar_de_las_tormentas
 https://archive.org/download/candy.candy_202109/Capitulo%20056%20.%20M%C3%A1s%20all%C3%A1%20del%20mar%20de%20las%20tormentas.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_057_Una_ventana_donde_se_ve_el_puerto
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_057_Una_ventana_donde_se_ve_el_puerto
 https://archive.org/download/candy.candy_202109/Capitulo%20057%20.%20Una%20ventana%20donde%20se%20ve%20el%20puerto.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_058_Mi_tierra_natal_con_un_paisaje_nevado
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_058_Mi_tierra_natal_con_un_paisaje_nevado
 https://archive.org/download/candy.candy_202109/Capitulo%20058%20.%20Mi%20tierra%20natal%20con%20un%20paisaje%20nevado.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_059_Profesora_marimacho_por_un_día
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_059_Profesora_marimacho_por_un_día
 https://archive.org/download/candy.candy_202109/Capitulo%20059%20.%20Profesora%20marimacho%20por%20un%20d%C3%ADa.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_060_El_sonido_de_unas_pisadas_retumban_con_fuerza_en_mi_corazón
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_060_El_sonido_de_unas_pisadas_retumban_con_fuerza_en_mi_corazón
 https://archive.org/download/candy.candy_202109/Capitulo%20060%20.%20El%20sonido%20de%20unas%20pisadas%20retumban%20con%20fuerza%20en%20mi%20coraz%C3%B3n.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_061_El_primer_llanto_de_un_niño_hace_eco_en_las_montañas_plateadas
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_061_El_primer_llanto_de_un_niño_hace_eco_en_las_montañas_plateadas
 https://archive.org/download/candy.candy_202109/Capitulo%20061%20.%20El%20primer%20llanto%20de%20un%20ni%C3%B1o%20hace%20eco%20en%20las%20monta%C3%B1as%20plateadas.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_062_El_silbido_de_vapor_que_nos_lleva_a_un_nuevo_camino
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_062_El_silbido_de_vapor_que_nos_lleva_a_un_nuevo_camino
 https://archive.org/download/candy.candy_202109/Capitulo%20062%20.%20El%20silbido%20de%20vapor%20que%20nos%20lleva%20a%20un%20nuevo%20camino.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_063_Encuentro_con_la_abuelita_en_la_ciudad
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_063_Encuentro_con_la_abuelita_en_la_ciudad
 https://archive.org/download/candy.candy_202109/Capitulo%20063%20.%20Encuentro%20con%20la%20abuelita%20en%20la%20ciudad.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_064_El_ángel_vestido_de_blanco_es_torpísimo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_064_El_ángel_vestido_de_blanco_es_torpísimo
 https://archive.org/download/candy.candy_202109/Capitulo%20064%20.%20El%20%C3%A1ngel%20vestido%20de%20blanco%20es%20torp%C3%ADsimo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_065_Tratamiento_con_una_sonrisa
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_065_Tratamiento_con_una_sonrisa
 https://archive.org/download/candy.candy_202109/Capitulo%20065%20.%20Tratamiento%20con%20una%20sonrisa.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_066_El_gran_bisabuelo_de_los_sueños
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_066_El_gran_bisabuelo_de_los_sueños
 https://archive.org/download/candy.candy_202109/Capitulo%20066%20.%20El%20gran%20bisabuelo%20de%20los%20sue%C3%B1os.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_067_¿Dónde_está_esa_persona
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_067_¿Dónde_está_esa_persona
 https://archive.org/download/candy.candy_202109/Capitulo%20067%20.%20%C2%BFD%C3%B3nde%20est%C3%A1%20esa%20persona.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_068_Flores_que_caen_en_Primavera
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_068_Flores_que_caen_en_Primavera
 https://archive.org/download/candy.candy_202109/Capitulo%20068%20.%20Flores%20que%20caen%20en%20Primavera.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_069_La_rosa_blanca_de_los_recuerdos
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_069_La_rosa_blanca_de_los_recuerdos
 https://archive.org/download/candy.candy_202109/Capitulo%20069%20.%20La%20rosa%20blanca%20de%20los%20recuerdos.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_070_Una_novia_preciosa
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_070_Una_novia_preciosa
 https://archive.org/download/candy.candy_202109/Capitulo%20070%20.%20Una%20novia%20preciosa.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_071_Un_marinero_en_la_colina
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_071_Un_marinero_en_la_colina
 https://archive.org/download/candy.candy_202109/Capitulo%20071%20.%20Un%20marinero%20en%20la%20colina.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_072_Una_chica_en_una_suite_de_lujo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_072_Una_chica_en_una_suite_de_lujo
 https://archive.org/download/candy.candy_202109/Capitulo%20072%20.%20Una%20chica%20en%20una%20suite%20de%20lujo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_073_El_rumor_de_Terry
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_073_El_rumor_de_Terry
 https://archive.org/download/candy.candy_202109/Capitulo%20073%20.%20El%20rumor%20de%20Terry.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_074_Hacia_el_hospital_de_la_gran_ciudad
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_074_Hacia_el_hospital_de_la_gran_ciudad
 https://archive.org/download/candy.candy_202109/Capitulo%20074%20.%20Hacia%20el%20hospital%20de%20la%20gran%20ciudad.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_075_La_residencia_del_bisabuelo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_075_La_residencia_del_bisabuelo
 https://archive.org/download/candy.candy_202109/Capitulo%20075%20.%20La%20residencia%20del%20bisabuelo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_076_La_pequeña_casa_trae_recuerdos
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_076_La_pequeña_casa_trae_recuerdos
 https://archive.org/download/candy.candy_202109/Capitulo%20076%20.%20La%20peque%C3%B1a%20casa%20trae%20recuerdos.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_077_La_peligrosa_fiesta_del_jardín
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_077_La_peligrosa_fiesta_del_jardín
 https://archive.org/download/candy.candy_202109/Capitulo%20077%20.%20La%20peligrosa%20fiesta%20del%20jard%C3%ADn.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_078_La_melodía_de_Terry
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_078_La_melodía_de_Terry
 https://archive.org/download/candy.candy_202109/Capitulo%20078%20.%20La%20melod%C3%ADa%20de%20Terry.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_079_Bajo_las_sombra_de_los_candiles
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_079_Bajo_las_sombra_de_los_candiles
 https://archive.org/download/candy.candy_202109/Capitulo%20079%20.%20Bajo%20las%20sombra%20de%20los%20candiles.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_080_Encuentro_breve
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_080_Encuentro_breve
 https://archive.org/download/candy.candy_202109/Capitulo%20080%20.%20Encuentro%20breve.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_081_Terry_sin_rostro
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_081_Terry_sin_rostro
 https://archive.org/download/candy.candy_202109/Capitulo%20081%20.%20Terry%20sin%20rostro.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_082_Flores_que_florecen_en_el_corazón
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_082_Flores_que_florecen_en_el_corazón
 https://archive.org/download/candy.candy_202109/Capitulo%20082%20.%20Flores%20que%20florecen%20en%20el%20coraz%C3%B3n.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_083_El_fantasma_que_juega_a_las_cartas
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_083_El_fantasma_que_juega_a_las_cartas
 https://archive.org/download/candy.candy_202109/Capitulo%20083%20.%20El%20fantasma%20que%20juega%20a%20las%20cartas.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_084_La_sombra_de_la_guerra_se_aproxima_vestida_de_blanco
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_084_La_sombra_de_la_guerra_se_aproxima_vestida_de_blanco
 https://archive.org/download/candy.candy_202109/Capitulo%20084%20.%20La%20sombra%20de%20la%20guerra%20se%20aproxima%20vestida%20de%20blanco.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_085_La_familia_y_el_odio
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_085_La_familia_y_el_odio
 https://archive.org/download/candy.candy_202109/Capitulo%20085%20.%20La%20familia%20y%20el%20odio.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_086__l_hombre_que_olvidó_su_pasado
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_086__l_hombre_que_olvidó_su_pasado
 https://archive.org/download/candy.candy_202109/Capitulo%20086%20.%20El%20hombre%20que%20olvid%C3%B3%20su%20pasado.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_087_El_examen_de_los_dos
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_087_El_examen_de_los_dos
 https://archive.org/download/candy.candy_202109/Capitulo%20087%20.%20El%20examen%20de%20los%20dos.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_088_El_día_en_que_vuelas_por_el_firmamento
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_088_El_día_en_que_vuelas_por_el_firmamento
 https://archive.org/download/candy.candy_202109/Capitulo%20088%20.%20El%20d%C3%ADa%20en%20que%20vuelas%20por%20el%20firmamento.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_089_El_Sr._Alberto_ha_desaparecido
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_089_El_Sr._Alberto_ha_desaparecido
 https://archive.org/download/candy.candy_202109/Capitulo%20089%20.%20El%20Sr.%20Alberto%20ha%20desaparecido.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_090_El_pequeño_castillo_de_las_afueras
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_090_El_pequeño_castillo_de_las_afueras
 https://archive.org/download/candy.candy_202109/Capitulo%20090%20.%20El%20peque%C3%B1o%20castillo%20de%20las%20afueras.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_091_Dos_personas_cercanas_y_distantes
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_091_Dos_personas_cercanas_y_distantes
 https://archive.org/download/candy.candy_202109/Capitulo%20091%20.%20Dos%20personas%20cercanas%20y%20distantes.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_092_Terapia_con_shock_de_amor
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_092_Terapia_con_shock_de_amor
 https://archive.org/download/candy.candy_202109/Capitulo%20092%20.%20Terapia%20con%20shock%20de%20amor.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_093_Un_cupido_con_arrugas
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_093_Un_cupido_con_arrugas
 https://archive.org/download/candy.candy_202109/Capitulo%20093%20.%20Un%20cupido%20con%20arrugas.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_094_El_corto_camino_del_viaje
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_094_El_corto_camino_del_viaje
 https://archive.org/download/candy.candy_202109/Capitulo%20094%20.%20El%20corto%20camino%20del%20viaje.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_095_Rivales_preciosos
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_095_Rivales_preciosos
 https://archive.org/download/candy.candy_202109/Capitulo%20095%20.%20Rivales%20preciosos.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_096_Invitación_con_pasaje_de_ida
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_096_Invitación_con_pasaje_de_ida
 https://archive.org/download/candy.candy_202109/Capitulo%20096%20.%20Invitaci%C3%B3n%20con%20pasaje%20de%20ida.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_097_Reunión_hasta_en_los_sueños
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_097_Reunión_hasta_en_los_sueños
 https://archive.org/download/candy.candy_202109/Capitulo%20097%20.%20Reuni%C3%B3n%20hasta%20en%20los%20sue%C3%B1os.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_098_Las_campanas_de_un_encuentro_repican_mi_corazón
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_098_Las_campanas_de_un_encuentro_repican_mi_corazón
 https://archive.org/download/candy.candy_202109/Capitulo%20098%20.%20Las%20campanas%20de%20un%20encuentro%20repican%20mi%20coraz%C3%B3n.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_099_Separación_en_un_día_de_nieve
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_099_Separación_en_un_día_de_nieve
 https://archive.org/download/candy.candy_202109/Capitulo%20099%20.%20Separaci%C3%B3n%20en%20un%20d%C3%ADa%20de%20nieve.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_100_La_plataforma_de_la_tristeza
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_100_La_plataforma_de_la_tristeza
 https://archive.org/download/candy.candy_202109/Capitulo%20100%20.%20La%20plataforma%20de%20la%20tristeza.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_101_Una_hebra_de_recuerdos_tenues
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_101_Una_hebra_de_recuerdos_tenues
 https://archive.org/download/candy.candy_202109/Capitulo%20101%20.%20Una%20hebra%20de%20recuerdos%20tenues.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_102_El_crucifijo_de_la_colina_de_Pony
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_102_El_crucifijo_de_la_colina_de_Pony
 https://archive.org/download/candy.candy_202109/Capitulo%20102%20.%20El%20crucifijo%20de%20la%20colina%20de%20Pony.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_103_Un_largo_viaje_arriesgando_la_vida
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_103_Un_largo_viaje_arriesgando_la_vida
 https://archive.org/download/candy.candy_202109/Capitulo%20103%20.%20Un%20largo%20viaje%20arriesgando%20la%20vida.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_104_Una_clínica_sin_necesidad_de_ángeles
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_104_Una_clínica_sin_necesidad_de_ángeles
 https://archive.org/download/candy.candy_202109/Capitulo%20104%20.%20Una%20cl%C3%ADnica%20sin%20necesidad%20de%20%C3%A1ngeles.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_105_Un_tierno_fugitivo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_105_Un_tierno_fugitivo
 https://archive.org/download/candy.candy_202109/Capitulo%20105%20.%20Un%20tierno%20fugitivo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_106_El_otro_asesino
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_106_El_otro_asesino
 https://archive.org/download/candy.candy_202109/Capitulo%20106%20.%20El%20otro%20asesino.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_107_El_menú_especial_de_100_comensales
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_107_El_menú_especial_de_100_comensales
 https://archive.org/download/candy.candy_202109/Capitulo%20107%20.%20El%20men%C3%BA%20especial%20de%20100%20comensales.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_108_La_ovación_que_resuena_en_el_valle
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_108_La_ovación_que_resuena_en_el_valle
 https://archive.org/download/candy.candy_202109/Capitulo%20108%20.%20La%20ovaci%C3%B3n%20que%20resuena%20en%20el%20valle.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_109_Las_lágrimas_de_un_pequeño_vaquero
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_109_Las_lágrimas_de_un_pequeño_vaquero
 https://archive.org/download/candy.candy_202109/Capitulo%20109%20.%20Las%20l%C3%A1grimas%20de%20un%20peque%C3%B1o%20vaquero.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_110_Un_amor_molesto
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_110_Un_amor_molesto
 https://archive.org/download/candy.candy_202109/Capitulo%20110%20.%20Un%20amor%20molesto.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_111_Los_largos_días_han_regresado
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_111_Los_largos_días_han_regresado
 https://archive.org/download/candy.candy_202109/Capitulo%20111%20.%20Los%20largos%20d%C3%ADas%20han%20regresado.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_112_La_huida_del_amor_de_cada_uno
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_112_La_huida_del_amor_de_cada_uno
 https://archive.org/download/candy.candy_202109/Capitulo%20112%20.%20La%20huida%20del%20amor%20de%20cada%20uno.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_113_Personas_que_vienen_y_se_van
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_113_Personas_que_vienen_y_se_van
 https://archive.org/download/candy.candy_202109/Capitulo%20113%20.%20Personas%20que%20vienen%20y%20se%20van.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_114_El_día_de_encuentro_con_el_bisabuelo
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_114_El_día_de_encuentro_con_el_bisabuelo
 https://archive.org/download/candy.candy_202109/Capitulo%20114%20.%20El%20d%C3%ADa%20de%20encuentro%20con%20el%20bisabuelo.mp4
-#EXTINF:-1 group-title="Candy Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_115_Florecen_las_flores_en_la_colina_de_Pony
+#EXTINF:-1 group-title="Candy" tvg-logo="https://a.wattpad.com/useravatar/SScottie.256.568998.jpg" ,Candy_115_Florecen_las_flores_en_la_colina_de_Pony
 https://archive.org/download/candy.candy_202109/Capitulo%20115%20.%20Florecen%20las%20flores%20en%20la%20colina%20de%20Pony.mp4
 #EXTINF:-1 group-title="Coraje perro cobarde" tvg-logo="https://pm1.aminoapps.com/6162/e8f9eaa3f0039b7ebb344179b8d42f5d08378ed2_128.jpg" ,Coraje_T01xE00_El_Pollo_del_Espacio_Exterior_(episodio_piloto)
 https://archive.org/download/Coraje-1/1x00%20-%20El%20Pollo%20del%20Espacio%20Exterior%20%28episodio%20piloto%29.mp4
@@ -3257,6 +3385,262 @@ https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/199
 https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/2000%20Coyote%20y%20El%20Correcaminos%20Little%20Go%20Beep.mp4
 #EXTINF:-1 group-title="Coyote y Correcaminos" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/7e/49/58ae5c9b-dda8-48fd-822a-352c7b4ffa66.jpg" ,Coyote y Correcaminos_2003_The_Whizzard_Of_Ow_Ing
 https://archive.org/download/1980-coyote-y-el-correcaminos-soup-or-sonic-ing/2003%20Coyote%20y%20Correcaminos%20The%20Whizzard%20Of%20Ow%20Ing.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_01_La_isla_de_las_aventuras_(Saga_de_Devimon)
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2001%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_02_Greymon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2002%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_03_Garurumon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2003%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_04_Birdramon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2004%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_05_Kabuterimon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2005%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_06_La_furia_de_Palmon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2006%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_07_Ikkakumon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2007%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_08_El_guerrero_de_la_oscuridad_Devimon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2008%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_09_Los_digimon_de_hielo
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2009%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_10_El_guardián_Centarumon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2010%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_11_Bakemon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2011%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_12_La_aventura_de_Patamon_y_la_mia
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2012%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_13_El_despertar_de_Angemon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2013%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_14_Un_nuevo_continente_(Saga_de_Etemon)
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2014%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_15_El_terrible_Etemon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2015%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_16_SkullGreymon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2016%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_17_Kokatorimon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2017%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_18_Piximon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2018%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_19_Datamon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2019%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_20_MetalGreymon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2020%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_21_Koromon_llega_a_Tokio(Saga_de_Myotismon)
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2021%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_22_El_maligno_Demidevimon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2022%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_23_WereGarurumon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2023%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_24_MegaKabuterimon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2024%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_25_ShogunGekomon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2025%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_26_Las_alas_resplandecientes_de_Garudamon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2026%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_27_El_Castillo_de_Myotismon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2027%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_28_¡Vamos_a_Japón
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2028%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_29_Mammothmon_ataca_a_Hikarigaoka
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2029%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_30_Los_digimons_atacan_Tokio
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2030%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_31_Raremon_ataca
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2031%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_32_SkullMeramon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2032%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_33_Pumpkinmon_y_Gotsumon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2033%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_34_El_destino_de_Gatomon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2034%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_35_El_hada_de_Odaiba_Lillymon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2035%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_36_Zudomon_ataca
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2036%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_37_Angewomon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2037%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_38_El_rey_maligno_VenomMyotismon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2038%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_39_Las_digievoluciones_más_poderosas
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2039%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_40_Los_DarkMasters(Saga_de_los_Darkmasters)
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2040%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_41_Metalseadramon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2041%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_42_Whamon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2042%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_43_Puppetmon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2043%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_44_Cherrymon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2044%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_45_WarGreymon_vs_MetalGarurumon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2045%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_46_El_ataque_de_MetalEtemon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2046%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_47_SaberLeomon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2047%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_48_Las_órdenes_de_Machinedramon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2048%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_49_Adiós_Numemons
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2049%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_50_LadyDevimon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2050%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_51_El_Terrible_Piedmon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2051%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_52_MagnaAngemon
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2052%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_53_El_Último_Digimon_Del_La_Oscuridad_(Saga_de_Apocalymon)
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2053%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 1" tvg-logo="https://c-fa.cdn.smule.com/rs-s30/arr/fd/0a/93510573-0f36-4578-a48c-e0fa40cb29cc.jpg" ,Digimon_54_Un_nuevo_digimundo
+https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2054%5D%20Espa%C3%B1ol%20Latino%20Final%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_01_El_digi-egg_del_valor_(Saga_de_Emperador_de_los_Digimon)
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2001%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_02_La_puerta_al_Digimundo_se_abre
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2002%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_03_Los_nuevos_elegidos
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2003%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_04_El_emperador_de_los_digimons_rey_de_las_tinieblas
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2004%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_05_Destruyan_la_aguja_de_control
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2005%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_06_Un_día_de_campo_peligroso
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2006%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_07_El_recuerdo_de_Kari
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2007%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_08_La_soledad_del_emperador_de_los_digimons
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2008%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_09_El_poder_mágico_de_los_aros_malignos
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2009%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_10_Metalgreymon_ataca
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2010%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_11_Raidramon_el_relámpago_azul
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2011%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_12_Un_duelo_en_el_Digimundo
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2012%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_13_Kari_en_otro_mundo
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2013%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_14_Shurimon_el_guerrero_veloz
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2014%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_15_El_arte_marcial_de_Shurimon
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2015%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_16_Submarimon._Escape_desde_el_fondo_del_mar
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2016%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_17_Un_mensaje_doloroso
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2017%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_18_La_base_del_emperador_de_los_digimons
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2018%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_19_Kimeramon_el_digimon_original
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2019%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_20_La_digievolución_maravillosa._Magnamon_dorado
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2020%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_21_Adiós_Ken
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2021%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_22_La_valerosa_digievolución_Exveemon_(Saga_de_Arukenimon_y_Mummymon)
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2022%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_23_Cuando_la_maldad_corrompió_al_digivice
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2023%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_24_Ankylomon_el_guerrero_de_la_tierra
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2024%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_25_Aquilamon_el_caballero_del_cielo
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2025%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_26_Digievolución_ADN
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2026%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_27_El_nacimiento_de_Paildramón
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2027%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_28_El_hechizo_de_Arukenimón
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2028%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_29_El_fracaso_de_la_mujer_araña
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2029%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_30_El_nacimiento_de_Blackwargreymón
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2030%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_31_Sylphymón_la_tormenta_del_amor
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2031%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_32_La_piedra_sagrada_una_ruina_misteriosa
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2032%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_33_Yolei_viaja_a_Kyoto
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2033%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_34_Protección_de_los_puntos_sagrados
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2034%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_35_El_ataque_de_Blackwargreymón
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2035%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_36_Shakkoumón_el_ángel_de_hierro
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2036%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_37_Chinlonmon_un_gigantesco_megadigimon
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2037%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_38_La_reunión_navideña_de_los_digimons
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2038%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_39_Imperialdramón_(Saga_de_Yukio_Oikawa)
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2039%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_40_Nueva_York_Honk_Kong_y_peleas
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2040%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_41_Coral_Versalles_y_peleas
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2041%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_42_Amor_borsch_y_peleas
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2042%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_43_El_ataque_de_Deemón
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2043%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_44_Batalla_a_muerte_contra_el_digimón_de_la_oscuridad
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2044%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_45_La_puerta_de_la_oscuridad
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2045%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_46_Blackwargreymón_contra_Wargreymón
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2046%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_47_La_muerte_de_Blackwargreymón
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2047%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_48_El_horror_que_causó_Malommyotismon_(Saga_de_MaloMyotismon)
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2048%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_49_La_última_digievolución
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2049%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
+#EXTINF:-1 group-title="Digimon Adventure 2" tvg-logo="https://c-fa.cdn.smule.com/rs-s79/arr/c5/a0/fc1485bb-a247-4c00-9839-693ec9370918.jpg" ,Digimon2_50_Nuestro_digimundo
+https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2050%5D%20Espa%C3%B1ol%20Latino%20%28Final%29.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_01
+https://archive.org/download/e-14_20230829/E1.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_02
+https://archive.org/download/e-14_20230829/E2.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_03
+https://archive.org/download/e-14_20230829/E3.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_04
+https://archive.org/download/e-14_20230829/E4.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_05
+https://archive.org/download/e-14_20230829/E5.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_06
+https://archive.org/download/e-14_20230829/E6.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_07
+https://archive.org/download/e-14_20230829/E7.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_08
+https://archive.org/download/e-14_20230829/E8.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_09
+https://archive.org/download/e-14_20230829/E9.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_10
+https://archive.org/download/e-14_20230829/E10.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_11
+https://archive.org/download/e-14_20230829/E11.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_12
+https://archive.org/download/e-14_20230829/E12.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_13
+https://archive.org/download/e-14_20230829/E13.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_14
+https://archive.org/download/e-14_20230829/E14.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_15
+https://archive.org/download/e-14_20230829/E15.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_16
+https://archive.org/download/e-14_20230829/E16.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_17
+https://archive.org/download/e-14_20230829/E17.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_18
+https://archive.org/download/e-14_20230829/E18.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_19
+https://archive.org/download/e-14_20230829/E19.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_20
+https://archive.org/download/e-14_20230829/E20.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_21
+https://archive.org/download/e-14_20230829/E21.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_22
+https://archive.org/download/e-14_20230829/E22.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_23
+https://archive.org/download/e-14_20230829/E23.mp4
+#EXTINF:-1 group-title="El Chavo del 8" tvg-logo="https://gcdn.thunderstore.io/live/repository/icons/LasLangostas-El_Chavo_on_TV-1.0.0.png.128x128_q95.png" ,Chavo_24
+https://archive.org/download/e-14_20230829/E24.mp4
 #EXTINF:-1 group-title="Escalofríos" tvg-logo="https://styles.redditmedia.com/t5_72m77f/styles/communityIcon_j4c8byq5d71d1.jpg" ,Escalofríos_T01xE01_La_máscara_encantada_parte_1
 https://archive.org/download/escalofrios-temporada-1/1x01%20%20-%20La%20m%C3%A1scara%20encantada%20-%20parte%201.mp4
 #EXTINF:-1 group-title="Escalofríos" tvg-logo="https://styles.redditmedia.com/t5_72m77f/styles/communityIcon_j4c8byq5d71d1.jpg" ,Escalofríos_T01xE02_La_máscara_encantada_parte_2
