@@ -40,7 +40,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0 group-title="En Español" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" ,AMC en español
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e2fa6ff0-72a4-11ef-9214-6064d88cb5e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86307b63-8436-453e-91b1-9eab7a901035&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Peru" tvg-logo="http://imgfz.com/i/BkAVra3.png" ,America TV HD
-http://200.37.186.109:8000/play/a03b/index.m3u8
+http://38.199.5.160:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Drama" tvg-id="608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png" ,Andromeda
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647.m3u8
 #EXTINF:-1 group-title="Intl" tvg-logo="http://imgfz.com/i/iUYgfX3.png" ,Animal Planet HD
