@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="INFO" tvg-logo="http://imgfz.com/i/oW6JDB8.png" ,* GO SOLUTIONS
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
-#EXTINF:-1 group-title="INFO" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
+#EXTINF:-1 group-title="INFO" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* 2024.12.17
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
-#EXTINF:-1 group-title="INFO" tvg-logo="http://imgfz.com/i/OgzPk8q.png" ,* 2024-12-06
+#EXTINF:-1 group-title="INFO" tvg-logo="http://imgfz.com/i/BQkZqxD.png" ,* DONACIONES
 https://github.com/NyderGX/S/raw/Blur/Info.mp4
 #EXTINF:-1 group-title="CHILE" tvg-logo="http://imgfz.com/i/1VZUXw5.png" ,+Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
@@ -48,7 +48,7 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
 #EXTINF:-1 group-title="PLEX" tvg-id="608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421" tvg-name="Always Funny en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b33e22c-5662-40a8-98e1-6678cc13d7fc/AFE_Logo_for_Light_BG__transparent__-_Sara_Levine.png" ,Always Funny en Español
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="http://imgfz.com/i/BkAVra3.png" ,America TV HD
-http://190.217.22.156:18000/play/a03z
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" tvg-id="608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647" tvg-name="Andromeda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png" ,Andromeda
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647.m3u8
 #EXTINF:-1 group-title="INTL" tvg-logo="http://imgfz.com/i/iUYgfX3.png" ,Animal Planet HD
@@ -69,16 +69,10 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" ,ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="http://imgfz.com/i/AZtaeDJ.png" ,ATV HD
-https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/chunks.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" ,ATV Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="http://imgfz.com/i/AZtaeDJ.png" ,ATV Sur HD
-https://d3r5ioyjqcy69v.cloudfront.net/live2/alba-pe-atv-atvsur_720p/chunks.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" ,ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="http://imgfz.com/i/an8o6ul.png" ,ATV+ HD
-https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/chunks.m3u8
 #EXTINF:-1 group-title="PLEX" tvg-id="608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811" tvg-name="Autopista al Cielo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png" ,Autopista al Cielo
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" ,Auténtica Televisión
@@ -306,11 +300,45 @@ http://168.181.122.234:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="INTL" tvg-logo="http://imgfz.com/i/mJu1zFA.png" ,Discovery Kids HD
 http://168.181.122.234:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="INTL" tvg-logo="http://imgfz.com/i/o8pdXRD.png" ,Discovery World HD
-http://38.199.5.160:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="INTL" tvg-logo="http://imgfz.com/i/o8pdXRD.png" ,Discovery World HD
+http://45.160.74.253:9000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://190.13.81.218:18000/play/a08s
+#EXTINF:-1 group-title="INTL" ,DISCOVERY WORLD HD
+http://181.78.82.6:46090/play/a01i/index.m3u8
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://190.61.44.134:1088/play/a02x
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
 http://190.119.123.220:4000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="INTL" tvg-logo="http://imgfz.com/i/o8pdXRD.png" ,Discovery World HD
-http://200.37.186.109:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://45.58.126.6:8000/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://190.242.41.219:9000/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="INTL" ,DISCOVERY WORLD HD
+http://181.78.82.6:46090/play/a01i/index.m3u8
+#EXTINF:-1 group-title="INTL" ,DISCOVERY WORLD HD
+http://181.78.82.6:46090/play/a01i/index.m3u8
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://190.60.37.115:8001/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://190.61.46.126:9001/play/a01j/index.m3u8
+#EXTINF:-0 group-title="INTL" ,Discovery World HD
+http://216.155.91.47:8000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://152.230.126.5:3344/play/a05b
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://179.1.146.21:8000/play/a02q/index.m3u8
+#EXTINF:-0 group-title="INTL" ,Discovery World HD
+http://209.45.101.35:50000/play/DiscoveryWorldHD/index.m3u8
+#EXTINF:-0 group-title="INTL" ,Discovery World HD
+http://209.45.101.37:50000/play/DiscoveryWorldHD/index.m3u8
+#EXTINF:-0 group-title="INTL" ,Discovery World HD
+http://209.45.101.36:50000/play/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://45.181.122.46:8090/play/a025
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://45.181.122.201:8081/play/a01m
+#EXTINF:-1 group-title="INTL" ,Discovery World HD
+http://45.160.74.253:9000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="INTL" tvg-logo="http://imgfz.com/i/rVqRapD.png" ,Disney Channel
 http://168.181.122.234:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="INTL" tvg-logo="http://imgfz.com/i/rVqRapD.png" ,Disney Channel
@@ -499,6 +527,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 group-title="PLEX" tvg-id="608049aefa2b8ae93c2c3a63-5eea605474085f0040ddc76d" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" ,Glewed TV
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5eea605474085f0040ddc76d.m3u8
+#EXTINF:-1 group-title="PERU" ,GLOBAL
+https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" tvg-id="608049aefa2b8ae93c2c3a63-63f914bffe2c3d32e1a7929f" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eeb07931-3048-49e0-8d82-7d2da1b1669d/GLORY_Logo_Light_Nicholas_Olsen.png" ,GLORY Kickboxing
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63f914bffe2c3d32e1a7929f.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" ,Golden TV (240p)
@@ -643,9 +673,7 @@ https://jmp2.uk/plu-5f9996533c9de3000759ccb5.m3u8
 https://jmp2.uk/sam-ESBA3300027H5.m3u8
 #EXTINF:-1 group-title="PLUTO TV" tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" ,Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" ,Latina
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="http://imgfz.com/i/2qB6m5S.png" ,Latina HD
+#EXTINF:-1 group-title="PERU" tvg-id="Latina.pe" tvg-logo="http://imgfz.com/i/2qB6m5S.png" ,Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="LikeTV.pe" tvg-logo="https://i.imgur.com/5IwS0sJ.png" ,Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
@@ -878,13 +906,15 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d.m3u8
 #EXTINF:-1 group-title="PLUTO TV" tvg-id="5f4fed840a2764000720d966" tvg-name="Paisajes por Stingray" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" ,Paisajes por Stingray
 https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="http://imgfz.com/i/5zogZEV.png" ,Panamericana
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="PancTVPeru.pe" tvg-logo="https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg" ,Panc TV Peru
 https://panel.host-live.com:19360/80780/80780.m3u8
 #EXTINF:-1 group-title="PLEX" tvg-id="608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7ac" tvg-name="party tyme karaoke" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" ,party tyme karaoke
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7ac.m3u8
 #EXTINF:-1 group-title="PLUTO TV" tvg-id="6495c6ad115d060008bf6b52" tvg-name="PAW Patrol Patrulla de Cachorros" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" ,PAW Patrol Patrulla de Cachorros
 https://jmp2.uk/plu-6495c6ad115d060008bf6b52.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" ,PBO
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 #EXTINF:-1 group-title="SAM TV PLUS" tvg-id="ES2600003UM" tvg-name="Películas de Drama - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" ,Películas de Drama - Rakuten TV
 https://jmp2.uk/sam-ES2600003UM.m3u8
 #EXTINF:-1 group-title="SAM TV PLUS" tvg-id="ES2600012C9" tvg-name="Películas Románticas - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png" ,Películas Románticas - Rakuten TV
@@ -1177,8 +1207,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327.m3u8
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 group-title="INTL" tvg-logo="http://imgfz.com/i/yvZhADe.png" ,Sony HD
 http://168.181.122.234:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://salvatv.net/wp-content/uploads/2022/10/65654987.jpg" ,Sony Novelas
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="SAM TV PLUS" tvg-id="ES300006QJ" tvg-name="Sony One Hits Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20241106T142219SQUARE.png" ,Sony One Hits Acción
 https://jmp2.uk/sam-ES300006QJ.m3u8
 #EXTINF:-1 group-title="SAM TV PLUS" tvg-id="ES300007KS" tvg-name="Sony One Hits Comedia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20241126T043051SQUARE.png" ,Sony One Hits Comedia
@@ -1486,7 +1514,7 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60d4edddb2fdec002c141135.m3u8
 #EXTINF:-1 group-title="SAM TV PLUS" tvg-id="ESBA330004121" tvg-name="WildEarth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png" ,WildEarth
 https://jmp2.uk/sam-ESBA330004121.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="http://imgfz.com/i/02TBmuU.png" ,Willax
-http://179.1.146.21:8000/play/a07k/index.m3u8
+https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 group-title="PLUTO TV" tvg-id="5ed6828192e8b3000743ef61" tvg-name="Wipe Out" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" ,Wipe Out
 https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
 #EXTINF:-1 group-title="PLEX" tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" ,Wired2Fish
