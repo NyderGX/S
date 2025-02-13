@@ -319,9 +319,9 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TVPeru.pe" tvg-logo="http://imgfz.com/i/aKCn8I2.png" ,TV Perú
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_480p/chunks.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" ,TV Perú Internacional
+#EXTINF:-1 group-title="PERU" tvg-id="TVPeruInternacional.pe" tvg-logo="http://imgfz.com/i/aKCn8I2.png" ,TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" ,TV Perú Noticias
+#EXTINF:-1 group-title="PERU" tvg-id="TVPeruNoticias.pe" tvg-logo="http://imgfz.com/i/aKCn8I2.png" ,TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" ,TV Sistemas Cuzco
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
@@ -329,10 +329,6 @@ https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" ,TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="http://imgfz.com/i/aKCn8I2.png" ,tvpe
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="http://imgfz.com/i/aKCn8I2.png" ,tvpe Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TVUNO.pe" tvg-logo="https://i.imgur.com/dht94P4.png" ,TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/BzQphbw.png" ,UCL
