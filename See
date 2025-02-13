@@ -33,11 +33,11 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" ,AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" ,ATV
+#EXTINF:-1 group-title="PERU" tvg-id="ATV.pe" tvg-logo="http://imgfz.com/i/AZtaeDJ.png" ,ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" ,ATV Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" ,ATV+
+#EXTINF:-1 group-title="PERU" tvg-id="ATVPlus.pe" tvg-logo="http://imgfz.com/i/AZtaeDJ.png" ,ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" ,Auténtica Televisión
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -91,7 +91,7 @@ https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="DNews.us" tvg-logo="https://i.imgur.com/jF2BabI.png" ,DNews
 https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW Español
+#EXTINF:-1 group-title="PERU" tvg-id="DWEspanol.de" tvg-logo="http://imgfz.com/i/qRNC1Vz.png" ,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="OTHER" tvg-logo="http://imgfz.com/i/qRNC1Vz.png" ,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
@@ -317,7 +317,7 @@ https://servilive.com:3531/stream/play.m3u8
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TVCosmos.pe" tvg-logo="https://i.imgur.com/nr4ctt4.png" ,TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" ,TV Perú
+#EXTINF:-1 group-title="PERU" tvg-id="TVPeru.pe" tvg-logo="http://imgfz.com/i/aKCn8I2.png" ,TV Perú
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_480p/chunks.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" ,TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
